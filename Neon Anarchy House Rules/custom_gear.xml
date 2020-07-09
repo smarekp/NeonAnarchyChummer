@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This file is part a series of data files created for r/NeonAnarchy.
+
+	You can learn more at
+	https://www.reddit.com/r/NeonAnarchy
+-->
+<chummer>
+	<categories>
+		<category>Jetpacks</category>
+	</categories>
+	<gears>
+		<gear>
+			<id>4e010d54-c232-11ea-b3de-0242ac130004</id>
+			<name>Vulcan Systems "Hot-Drop" Jetpack Fuel</name>
+			<category>Jetpacks</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>33</page>
+			<avail>10F</avail>
+			<cost>500</cost>
+			<costfor>20</costfor>
+		</gear>
+		<gear>
+			<id>a91d8b6c-c22e-11ea-b3de-0242ac130004</id>
+			<name>Vulcan Systems "Hot-Drop" Rapid-Egress Jetpack System</name>
+			<category>Jetpacks</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>33</page>
+			<avail>16F</avail>
+			<cost>40000</cost>
+		</gear>
+	</gears>
+</chummer>
