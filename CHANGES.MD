@@ -34,6 +34,11 @@
 - Shaman Tuxedo  
 ```Cost: 10000```
 
+### Qualities
+
+- Prototype Materials  
+```Required: Special Modifications, Special Modifications I, or Special Modifications II```
+
 ## Hidden
 
 ### Armor
@@ -66,7 +71,7 @@
 
 ### Echoes
 
-- Draining Spike
+- Draining Spike  
 ```Not working?```
 
 ### Gear
