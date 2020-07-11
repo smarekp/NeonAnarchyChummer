@@ -5,17 +5,17 @@
 	https://www.reddit.com/r/NeonAnarchy
 -->
 <chummer>
+	<!--
 	<skills>
 		<skill xpathfilter="name = 'Draining Spike'">
 			<skillgroup amendoperation="remove" />
 		</skill>
 	</skills>
-	<!--
+	-->
 	<echoes>
 		<echo>
 			<name>Draining Spike</name>
 			<hide />
 		</echo>
 	</echoes>
-	-->
 </chummer>
