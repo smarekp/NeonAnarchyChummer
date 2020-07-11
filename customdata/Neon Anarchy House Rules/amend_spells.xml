@@ -34,11 +34,9 @@
 			<name>Rot</name>
 			<hide />
 		</spell>
-		<!--
 		<spell>
 			<name>Spirit Pact</name>
 			<hide />
 		</spell>
-		-->
 	</spells>
 </chummer>
