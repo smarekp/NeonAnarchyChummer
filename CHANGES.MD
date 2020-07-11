@@ -8,8 +8,15 @@
 
 ### Gear
 
-- Vulcan Jetpack
-- Vulcan Jetpack Fuel
+- Vulcan Systems "Hot-Drop" Jetpack Fuel  
+```Availability: 10F; Category: Jetpacks; Cost: 500; Units Per Cost: 20```
+- Vulcan Systems "Hot-Drop" Rapid-Egress Jetpack System
+```Availability: 16F; Category: Jetpacks; Cost: 40000```
+
+## Qualities
+
+- Special Modifications I
+- Special Modifications II
 
 ## Altered
 
@@ -20,11 +27,11 @@
 
 ### Gear
 
-- Ammo: Gyrojet
+- Ammo: Gyrojet  
 ```Availability: 12F```
-- Grey Mana Tattoos
+- Grey Mana Tattoos  
 ```Availability: 7R```
-- Shaman Tuxedo
+- Shaman Tuxedo  
 ```Cost:10000```
 
 ## Hidden
