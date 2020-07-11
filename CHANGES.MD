@@ -13,7 +13,7 @@
 - Vulcan Systems "Hot-Drop" Rapid-Egress Jetpack System
 ```Availability: 16F; Category: Jetpacks; Cost: 40000```
 
-## Qualities
+### Qualities
 
 - Special Modifications I
 - Special Modifications II
