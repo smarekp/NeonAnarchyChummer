@@ -207,6 +207,16 @@
 			<hide />
 		</quality>
 		<quality>
+			<name>Prototype Materials</name>
+			<required>
+				<oneof>
+					<quality>Special Modifications</quality>
+					<quality amendoperation="addnode">Special Modifications I</quality>
+					<quality amendoperation="addnode">Special Modifications II</quality>
+				</oneof>
+			</required>
+		</quality>
+		<quality>
 			<name>Puppet Master</name>
 			<hide />
 		</quality>
