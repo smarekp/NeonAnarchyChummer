@@ -4,6 +4,11 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 
 ## Added
 
+### Books
+
+- Neon Anarchy  
+```Code: NA```
+
 ### Gear Categories
 
 - Jetpacks
@@ -40,6 +45,11 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 
 - Prototype Materials  
 ```Required: Special Modifications, Special Modifications I, or Special Modifications II```
+
+### Skills
+
+- Chemistry  
+```Skill Group: Biotech```
 
 ## Hidden
 
@@ -168,6 +178,12 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 - Team Player
 - This Is Your Last Chance
 - Tough and Targeted
+
+### Skills
+
+- Biotechnology
+- Cybertechnology
+- Instruction
 
 ### Spells
 
