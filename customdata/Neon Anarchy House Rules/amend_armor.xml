@@ -5,6 +5,28 @@
 	https://www.reddit.com/r/NeonAnarchy
 -->
 <chummer>
+	<armors>
+		<armor>
+			<name>Ares Arms Bug Stomper Custom Armor</name>
+			<hide />
+		</armor>
+		<armor>
+			<name>Hardened Mil-Spec Battle Armor: Light</name>
+			<hide />
+		</armor>
+		<armor>
+			<name>Hardened Mil-Spec Battle Armor: Medium</name>
+			<hide />
+		</armor>
+		<armor>
+			<name>Hardened Mil-Spec Battle Armor: Heavy</name>
+			<hide />
+		</armor>
+		<armor>
+			<name>Hardened Mil-Spec Battle Armor: Helmet</name>
+			<hide />
+		</armor>
+	</armors>
 	<mods>
 		<mod>
 			<name>Grey Mana Integration</name>

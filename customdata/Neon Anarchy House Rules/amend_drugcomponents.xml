@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--This file is part a series of data files created for r/NeonAnarchy.
+
+  You can learn more at
+  https://www.reddit.com/r/NeonAnarchy
+-->
+<chummer>
+	<grades>
+		<grade>
+			<name>Street Cooked</name>
+			<hide />
+		</grade>
+		<grade>
+			<name>Pharmaceutical</name>
+			<hide />
+		</grade>
+		<grade>
+			<name>Designer</name>
+			<hide />
+		</grade>
+	</grades>
+</chummer>
