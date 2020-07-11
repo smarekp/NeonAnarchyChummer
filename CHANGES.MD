@@ -1,13 +1,17 @@
 # Changelist
 
+Last updated 2020-07-11 at 7:28 PM UTC.
+
 ## Added
 
 ### Gear Categories
 
 - Jetpacks
-  - Gear
-    - Vulcan Systems "Hot-Drop" Jetpack Fuel  
-    ```Availability: 10F; Category: Jetpacks; Cost: 500; Units Per Cost: 20```
+
+### Gear
+
+- Vulcan Systems "Hot-Drop" Jetpack Fuel  
+```Availability: 10F; Category: Jetpacks; Cost: 500; Units Per Cost: 20```
 - Vulcan Systems "Hot-Drop" Rapid-Egress Jetpack System  
 ```Availability: 16F; Category: Jetpacks; Cost: 40000```
 
@@ -15,8 +19,6 @@
 
 - Special Modifications I
 - Special Modifications II
-
-
 
 ## Altered
 
