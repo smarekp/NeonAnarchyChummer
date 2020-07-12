@@ -10,7 +10,7 @@ Optional [Chummer5a](https://github.com/chummer5a/chummer5a) rules for [r/NeonAn
 - Drag and drop the `customdata` and `settings` folders into Chummer's install directory.
 - Use the Neon Anarchy Settings when making a new character.
 
-### If you have existing Neon Anarchy characters:
+### If you have existing Neon Anarchy characters
 
 - Download the latest [Neon Anarchy Dataset](https://github.com/smarekp/NeonAnarchyChummer/releases) release.
 - Drag and drop the `customdata` folder into Chummer's install directory.
