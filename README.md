@@ -15,5 +15,5 @@ Optional [Chummer5a](https://github.com/chummer5a/chummer5a) rules for [r/NeonAn
 - Download the latest [Neon Anarchy Dataset](https://github.com/smarekp/NeonAnarchyChummer/releases) release.
 - Drag and drop the `customdata` folder into Chummer's install directory.
 - Open Chummer and enable Neon Anarchy House Rules under `Tools > Options > Optional Rules`.
-- Restart Chummer and enable Neon Anarchy under `Tools > Options > Sourcebooks`.
+- Restart Chummer and enable Neon Anarchy under `Tools > Options > Character Options`.
 - Restart Chummer again and you're ready to go!
