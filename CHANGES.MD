@@ -41,6 +41,15 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 - Shaman Tuxedo  
 ```Cost: 10000```
 
+### Martial Arts
+
+- Capoeira  
+```Added Defiant Dance technique```
+- The Cowboy Way  
+```Added Grasping Vines technique```
+- Whip Fighting  
+```Added Grasping Vines technique```
+
 ### Qualities
 
 - Prototype Materials  
