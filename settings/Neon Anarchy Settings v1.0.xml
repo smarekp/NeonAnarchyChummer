@@ -10,7 +10,7 @@
 	<printexpenses>True</printexpenses>
 	<printfreeexpenses>True</printfreeexpenses>
 	<nuyenperbp>2000</nuyenperbp>
-	<hideitemsoveravaillimit>False</hideitemsoveravaillimit>
+	<hideitemsoveravaillimit>True</hideitemsoveravaillimit>
 	<unarmedimprovementsapplytoweapons>False</unarmedimprovementsapplytoweapons>
 	<allowinitiationincreatemode>False</allowinitiationincreatemode>
 	<usepointsonbrokengroups>False</usepointsonbrokengroups>
