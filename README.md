@@ -6,13 +6,13 @@ Optional [Chummer5a](https://github.com/chummer5a/chummer5a) rules for [r/NeonAn
 ### If you're new to Neon Anarchy
 
 - Install [Chummer](https://github.com/chummer5a/chummer5a) if you haven't already.
-- Download the latest [Neon Anarchy Chummer Dataset](https://github.com/smarekp/NeonAnarchyChummer/releases).
+- Download the latest [Neon Anarchy Dataset](https://github.com/smarekp/NeonAnarchyChummer/releases).
 - Drag and drop the `customdata` and `settings` folders into Chummer's install directory.
 - Use the Neon Anarchy Settings when making a new character.
 
 ### If you have existing Neon Anarchy characters:
 
-- Download the latest [Neon Anarchy Chummer Dataset](https://github.com/smarekp/NeonAnarchyChummer/releases).
+- Download the latest [Neon Anarchy Dataset](https://github.com/smarekp/NeonAnarchyChummer/releases).
 - Drag and drop the `customdata` folder into Chummer's install directory.
 - Open Chummer and enable Neon Anarchy House Rules under `Tools > Options > Optional Rules`.
 - Restart Chummer and enable Neon Anarchy under `Tools > Options > Sourcebooks`.
