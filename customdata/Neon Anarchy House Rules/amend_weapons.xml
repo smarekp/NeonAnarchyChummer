@@ -36,5 +36,9 @@
 			<name>Repeating Laser</name>
 			<cost amendoperation="replace">30000</cost>
 		</weapon>
+		<weapon>
+			<name>Microwave Gun, Low Frequency</name>
+			<cost amendoperation="replace">0</cost>
+		</weapon>
 	</weapons>
 </chummer>
