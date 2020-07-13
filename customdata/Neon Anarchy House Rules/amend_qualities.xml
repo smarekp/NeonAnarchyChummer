@@ -23,6 +23,10 @@
 			<hide />
 		</quality>
 		<quality>
+			<name>Black Market Pipeline</name>
+			<chargenonly amendoperation="remove" />
+		</quality>
+		<quality>
 			<name>Borrowed Time</name>
 			<hide />
 		</quality>

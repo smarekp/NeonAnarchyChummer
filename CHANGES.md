@@ -52,6 +52,8 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 
 ### Qualities
 
+- Black Market Pipeline  
+```No longer restricted to character generation.```
 - Prototype Materials  
 ```Required: Special Modifications, Special Modifications I, or Special Modifications II```
 
