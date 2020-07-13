@@ -20,7 +20,7 @@
 		</weapon>
 		<weapon>
 			<name>Microwave Gun, Low Frequency</name>
-			<cost amendoperation="replace">20000</cost>
+			<cost amendoperation="replace">0</cost>
 			<damage amendoperation="replace">1S</damage>
 			<allowaccessory amendoperation="remove">False</allowaccessory>
 			<accessorymounts amendoperation="addnode">
@@ -35,10 +35,6 @@
 		<weapon>
 			<name>Repeating Laser</name>
 			<cost amendoperation="replace">30000</cost>
-		</weapon>
-		<weapon>
-			<name>Microwave Gun, Low Frequency</name>
-			<cost amendoperation="replace">0</cost>
 		</weapon>
 	</weapons>
 </chummer>

@@ -53,7 +53,7 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 ### Qualities
 
 - Black Market Pipeline  
-```No longer restricted to character generation.```
+```No longer restricted to character generation```
 - Prototype Materials  
 ```Required: Special Modifications, Special Modifications I, or Special Modifications II```
 
@@ -61,6 +61,19 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 
 - Chemistry  
 ```Skill Group: Biotech```
+
+### Weapons
+
+- Morrissey Alta  
+```Availability: 7R```
+- Microwave Gun, High Frequency  
+```Cost: 20000; Allow top-mount accessories```
+- Microwave Gun, Low Frequency  
+```Cost: 0; Damage: 1S; Allow top-mount accessories```
+- Renraku Red Samurai Katana  
+```Availability: 24F; Cost: 30000```
+- Repeating Laser  
+```Cost: 30000```
 
 ## Hidden
 
