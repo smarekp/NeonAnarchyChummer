@@ -187,7 +187,6 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 - Information Auctioneer
 - Latent Dracomorphosis
 - Massive Network
-- Mentor Spirit
 - Mystic Foreman
 - One of Them
 - Pregnant
