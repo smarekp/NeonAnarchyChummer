@@ -42,14 +42,14 @@
 			<cost>100</cost>
 		</gear>
 		<gear>
-			<id>a91d8b6c-c22e-11ea-b3de-0242ac130006</id>
-			<name>Grenade: Painade</name>
+			<id>49870734-c6dc-11ea-87d0-0242ac130003</id>
+			<name>Grenade: Painade, Aerodynamic</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
 			<source>CA</source>
 			<page>135</page>
 			<avail>10R</avail>
-			<addweapon>Grenade: Painade</addweapon>
+			<addweapon>Grenade: Painade, Aerodynamic</addweapon>
 			<cost>100</cost>
 		</gear>
 		<gear>

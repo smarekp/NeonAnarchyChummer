@@ -19,6 +19,8 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 ```Availability: 4F; Category: Hacking Programs; Cost: 250```
 - Grenade: Painade  
 ```Availability: 10R; Category: Ammunition; Cost: 100```
+- Grenade: Painade, Aerodynamic  
+```Availability: 10R; Category: Ammunition; Cost: 100```
 - Vulcan Systems "Hot-Drop" Jetpack Fuel  
 ```Availability: 10F; Category: Jetpacks; Cost: 500; Units Per Cost: 20```
 - Vulcan Systems "Hot-Drop" Rapid-Egress Jetpack System  
@@ -28,6 +30,13 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 
 - Special Modifications I
 - Special Modifications II
+
+### Weapons
+
+- Grenade: Painade  
+```Cost: 100; Damage: Special```
+- Grenade: Painade, Aerodynamic  
+```Cost: 100; Damage: Special```
 
 ## Altered
 
