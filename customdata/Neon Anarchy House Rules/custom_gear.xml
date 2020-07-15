@@ -30,5 +30,37 @@
 			<avail>16F</avail>
 			<cost>40000</cost>
 		</gear>
+		<gear>
+			<id>a91d8b6c-c22e-11ea-b3de-0242ac130005</id>
+			<name>Grenade: Painade</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>CA</source>
+			<page>135</page>
+			<avail>10R</avail>
+			<addweapon>Grenade: Painade</addweapon>
+			<cost>100</cost>
+		</gear>
+		<gear>
+			<id>a91d8b6c-c22e-11ea-b3de-0242ac130006</id>
+			<name>Grenade: Painade</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>CA</source>
+			<page>135</page>
+			<avail>10R</avail>
+			<addweapon>Grenade: Painade</addweapon>
+			<cost>100</cost>
+		</gear>
+		<gear>
+			<id>a91d8b6c-c22e-11ea-b3de-0242ac130007</id>
+			<name>Cry Wolf</name>
+			<category>Hacking Programs</category>
+			<rating>0</rating>
+			<source>KC</source>
+			<page>63</page>
+			<avail>4F</avail>
+			<cost>250</cost>
+		</gear>
 	</gears>
 </chummer>
