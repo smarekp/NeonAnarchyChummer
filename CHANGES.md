@@ -69,6 +69,14 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 ```No longer restricted to character generation```
 - Prototype Materials  
 ```Required: Special Modifications, Special Modifications I, or Special Modifications II```
+- Trust Fund I  
+```Also available to characters with SINner (Corporate Limited) quality```
+- Trust Fund II  
+```Also available to characters with SINner (Corporate Limited) quality```
+- Trust Fund III  
+```Also available to characters with SINner (Corporate Limited) quality```
+- Trust Fund IV  
+```Also available to characters with SINner (Corporate Limited) quality```
 
 ### Skills
 

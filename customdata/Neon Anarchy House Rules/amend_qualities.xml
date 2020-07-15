@@ -214,11 +214,11 @@
 		</quality>
 		<quality>
 			<name>Prototype Materials</name>
-			<required>
+			<required amendoperation="replace">
 				<oneof>
 					<quality>Special Modifications</quality>
-					<quality amendoperation="addnode">Special Modifications I</quality>
-					<quality amendoperation="addnode">Special Modifications II</quality>
+					<quality>Special Modifications I</quality>
+					<quality>Special Modifications II</quality>
 				</oneof>
 			</required>
 		</quality>
@@ -257,6 +257,46 @@
 		<quality>
 			<name>Tough and Targeted</name>
 			<hide />
+		</quality>
+		<quality>
+			<name>Trust Fund I</name>
+			<required amendoperation="replace">
+				<oneof>
+					<quality>SINner (National)</quality>
+					<quality>SINner (Corporate)</quality>
+					<quality>SINner (Corporate Limited)</quality>
+				</oneof>
+			</required>
+		</quality>
+		<quality>
+			<name>Trust Fund II</name>
+			<required amendoperation="replace">
+				<oneof>
+					<quality>SINner (National)</quality>
+					<quality>SINner (Corporate)</quality>
+					<quality>SINner (Corporate Limited)</quality>
+				</oneof>
+			</required>
+		</quality>
+		<quality>
+			<name>Trust Fund III</name>
+			<required amendoperation="replace">
+				<oneof>
+					<quality>SINner (National)</quality>
+					<quality>SINner (Corporate)</quality>
+					<quality>SINner (Corporate Limited)</quality>
+				</oneof>
+			</required>
+		</quality>
+		<quality>
+			<name>Trust Fund IV</name>
+			<required amendoperation="replace">
+				<oneof>
+					<quality>SINner (National)</quality>
+					<quality>SINner (Corporate)</quality>
+					<quality>SINner (Corporate Limited)</quality>
+				</oneof>
+			</required>
 		</quality>
 	</qualities>
 </chummer>
