@@ -5,6 +5,23 @@
 	https://www.reddit.com/r/NeonAnarchy
 -->
 <chummer>
+	<skillgroups amendoperation="replace">
+		<name>Acting</name>
+		<name>Athletics</name>
+		<!--<name>Biotech</name>-->
+		<name>Close Combat</name>
+		<name>Conjuring</name>
+		<name>Cracking</name>
+		<name>Electronics</name>
+		<name>Enchanting</name>
+		<name>Firearms</name>
+		<name>Influence</name>
+		<name>Engineering</name>
+		<name>Outdoors</name>
+		<name>Sorcery</name>
+		<name>Stealth</name>
+		<name>Tasking</name>
+	</skillgroups>
 	<skills>
 		<skill>
 			<name>Biotechnology</name>
@@ -16,7 +33,8 @@
 		</skill>
 		<skill>
 			<name>Chemistry</name>
-			<skillgroup amendoperation="replace">Biotech</skillgroup>
+			<!--<skillgroup amendoperation="replace">Biotech</skillgroup>-->
+			<hide />
 		</skill>
 		<skill>
 			<name>Instruction</name>

@@ -78,11 +78,6 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 - Trust Fund IV  
 ```Also available to characters with SINner (Corporate Limited) quality```
 
-### Skills
-
-- Chemistry  
-```Skill Group: Biotech```
-
 ### Weapons
 
 - Morrissey Alta  
@@ -222,9 +217,14 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 - This Is Your Last Chance
 - Tough and Targeted
 
+### Skill Groups
+
+- Biotech
+
 ### Skills
 
 - Biotechnology
+- Chemistry
 - Cybertechnology
 - Instruction
 
