@@ -70,13 +70,13 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 - Prototype Materials  
 ```Required: Special Modifications, Special Modifications I, or Special Modifications II```
 - Trust Fund I  
-```Required: SINner (National), SINner (Corporate), SINner (Corporate Limited)```
+```Required: SINner (National), SINner (Corporate), or SINner (Corporate Limited)```
 - Trust Fund II  
-```Required: SINner (National), SINner (Corporate), SINner (Corporate Limited)```
+```Required: SINner (National), SINner (Corporate), or SINner (Corporate Limited)```
 - Trust Fund III  
-```Required: SINner (National), SINner (Corporate), SINner (Corporate Limited)```
+```Required: SINner (National), SINner (Corporate), or SINner (Corporate Limited)```
 - Trust Fund IV  
-```Required: SINner (National), SINner (Corporate), SINner (Corporate Limited)```
+```Required: SINner (National), SINner (Corporate), or SINner (Corporate Limited)```
 
 ### Weapons
 
