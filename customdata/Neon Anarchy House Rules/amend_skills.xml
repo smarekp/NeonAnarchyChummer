@@ -25,16 +25,26 @@
 	<skills>
 		<skill>
 			<name>Biotechnology</name>
+			<skillgroup amendoperation="replace" />
 			<hide />
 		</skill>
 		<skill>
 			<name>Cybertechnology</name>
+			<skillgroup amendoperation="replace" />
 			<hide />
 		</skill>
 		<skill>
 			<name>Chemistry</name>
 			<!--<skillgroup amendoperation="replace">Biotech</skillgroup>-->
 			<hide />
+		</skill>
+		<skill>
+			<name>First Aid</name>
+			<skillgroup amendoperation="replace" />
+		</skill>
+		<skill>
+			<name>Medicine</name>
+			<skillgroup amendoperation="replace" />
 		</skill>
 		<skill>
 			<name>Instruction</name>
