@@ -69,14 +69,18 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 ```No longer restricted to character generation```
 - Prototype Materials  
 ```Required: Special Modifications, Special Modifications I, or Special Modifications II```
-- Trust Fund I  
+- Trust Fund I-IV  
 ```Required: SINner (National), SINner (Corporate), or SINner (Corporate Limited)```
-- Trust Fund II  
-```Required: SINner (National), SINner (Corporate), or SINner (Corporate Limited)```
-- Trust Fund III  
-```Required: SINner (National), SINner (Corporate), or SINner (Corporate Limited)```
-- Trust Fund IV  
-```Required: SINner (National), SINner (Corporate), or SINner (Corporate Limited)```
+- Brilliant Heuristics
+- Code of Honor: Black Hat
+- Data Hog
+- Hold the Door
+- Lone Wolf
+- On the Wagon
+- Trust Data, Not Lore
+- Trust Lore, Not Data
+- Unique Avatar
+- Wired User
 
 ### Weapons
 

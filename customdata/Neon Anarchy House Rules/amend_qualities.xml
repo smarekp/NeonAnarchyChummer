@@ -298,5 +298,45 @@
 				</oneof>
 			</required>
 		</quality>
+		<quality>
+			<name>Brilliant Heuristics</name>
+			<required />
+		</quality>
+		<quality>
+			<name>Code of Honor: Black Hat</name>
+			<required />
+		</quality>
+		<quality>
+			<name>Data Hog</name>
+			<required />
+		</quality>
+		<quality>
+			<name>Hold the Door</name>
+			<required />
+		</quality>
+		<quality>
+			<name>Lone Wolf</name>
+			<required />
+		</quality>
+		<quality>
+			<name>On the Wagon</name>
+			<required />
+		</quality>
+		<quality>
+			<name>Trust Data, Not Lore</name>
+			<required />
+		</quality>
+		<quality>
+			<name>Trust Lore, Not Data</name>
+			<required />
+		</quality>
+		<quality>
+			<name>Unique Avatar</name>
+			<required />
+		</quality>
+		<quality>
+			<name>Wired User</name>
+			<required />
+		</quality>
 	</qualities>
 </chummer>
