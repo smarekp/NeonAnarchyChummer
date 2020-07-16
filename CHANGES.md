@@ -34,9 +34,9 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 ### Weapons
 
 - Grenade: Painade  
-```Cost: 100; Damage: Special```
+```Cost: 100; Damage: 8S```
 - Grenade: Painade, Aerodynamic  
-```Cost: 100; Damage: Special```
+```Cost: 100; Damage: 8S```
 
 ## Altered
 

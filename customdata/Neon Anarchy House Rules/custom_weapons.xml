@@ -14,7 +14,7 @@
 			<conceal>0</conceal>
 			<accuracy>Physical</accuracy>
 			<reach>0</reach>
-			<damage>Special</damage>
+			<damage>8S</damage>
 			<ap>-</ap>
 			<mode>0</mode>
 			<rc>0</rc>
@@ -35,7 +35,7 @@
 			<conceal>0</conceal>
 			<accuracy>Physical</accuracy>
 			<reach>0</reach>
-			<damage>Special</damage>
+			<damage>8S</damage>
 			<ap>-</ap>
 			<mode>0</mode>
 			<rc>0</rc>
