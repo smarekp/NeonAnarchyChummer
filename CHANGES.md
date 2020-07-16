@@ -63,6 +63,13 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 - Whip Fighting  
 ```Added Grasping Vines technique```
 
+### Metatypes
+
+- Dwarf  
+```Dwarves and their metavariants no longer pay increased lifestyle costs```
+- Troll  
+```Trolls and their metavariants no longer pay increased lifestyle costs```
+
 ### Qualities
 
 - Black Market Pipeline  

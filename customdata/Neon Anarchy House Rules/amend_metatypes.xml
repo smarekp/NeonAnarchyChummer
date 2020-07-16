@@ -9,5 +9,63 @@
 		<metatype xpathfilter="category='Metasapient' or category='Shapeshifter'" amendoperation="recurse">
 			<hide amendoperation="addnode" />
 		</metatype>
+		<metatype>
+			<name>Dwarf</name>
+			<bonus />
+			<metavariants>
+				<metavariant>
+					<name>Gnome</name>
+					<bonus />
+				</metavariant>
+				<metavariant>
+					<name>Hanuman</name>
+					<bonus />
+				</metavariant>
+				<metavariant>
+					<name>Koborokuru</name>
+					<bonus />
+				</metavariant>
+			</metavariants>
+		</metatype>
+		<metatype>
+			<name>Troll</name>
+			<bonus>
+				<armor group="0">1</armor>
+				<reach>1</reach>
+				<lifestylecost />
+			</bonus>
+			<metavariants>
+				<metavariant>
+					<name>Cyclops</name>
+					<bonus>
+						<reach>1</reach>
+						<lifestylecost />
+					</bonus>
+				</metavariant>
+				<metavariant>
+					<name>Fomorian</name>
+					<bonus>
+						<reach>1</reach>
+						<lifestylecost />
+					</bonus>
+				</metavariant>
+				<metavariant>
+					<name>Giant</name>
+					<bonus>
+						<reach>1</reach>
+						<lifestylecost />
+					</bonus>
+					<source>RF</source>
+					<page>104</page>
+				</metavariant>
+				<metavariant>
+					<name>Minotaur</name>
+					<bonus>
+						<reach>1</reach>
+						<lifestylecost />
+					</bonus>
+				</metavariant>
+			</metavariants>
+		</metatype>
 	</metatypes>
 </chummer>
