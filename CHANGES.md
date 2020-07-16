@@ -71,16 +71,31 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 ```Required: Special Modifications, Special Modifications I, or Special Modifications II```
 - Trust Fund I-IV  
 ```Required: SINner (National), SINner (Corporate), or SINner (Corporate Limited)```
-- Brilliant Heuristics
-- Code of Honor: Black Hat
-- Data Hog
-- Hold the Door
-- Lone Wolf
-- On the Wagon
-- Trust Data, Not Lore
-- Trust Lore, Not Data
-- Unique Avatar
-- Wired User
+- Brilliant Heuristics  
+```No longer restricted to technomancers```
+- Code of Honor: Black Hat  
+```No longer restricted to technomancers```
+- Data Hog  
+```No longer restricted to technomancers```
+- Hold the Door  
+```No longer restricted to technomancers```
+- Lone Wolf  
+```No longer restricted to technomancers```
+- On the Wagon  
+```No longer restricted to technomancers```
+- Trust Data, Not Lore  
+```No longer restricted to technomancers```
+- Trust Lore, Not Data  
+```No longer restricted to technomancers```
+- Unique Avatar  
+```No longer restricted to technomancers```
+- Wired User  
+```No longer restricted to technomancers```
+
+### Spells
+
+- Flame Burst  
+```Descriptor: Indirect, Elemental```
 
 ### Weapons
 

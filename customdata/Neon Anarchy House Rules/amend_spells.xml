@@ -7,6 +7,10 @@
 <chummer>
 	<spells>
 		<spell>
+			<name>Flame Burst</name>
+			<descriptor>Indirect, Elemental</descriptor>
+		</spell>
+		<spell>
 			<name>Convert Blood to Ichor</name>
 			<hide />
 		</spell>
