@@ -1,6 +1,6 @@
 # Changelist
 
-Last updated 2020-07-11 at 7:28 PM UTC.
+Last updated 2020-07-22 at 4:57 AM UTC.
 
 ## Added
 
@@ -31,6 +31,15 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 - Special Modifications I
 - Special Modifications II
 
+### Skills
+
+- Directed Energy
+- Exotic Ballistic
+- Spray Weapons
+- Flexile Melee
+- Atypical Melee
+- Mechanic
+
 ### Weapons
 
 - Grenade: Painade  
@@ -44,6 +53,11 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 
 - Grey Mana Integration  
 ```Availability: FixedValues(6R,6R,6R,9R,9R,9R)```
+
+### Cyberware
+
+- Junkyard Jaw  
+```Availability: 8R```
 
 ### Gear
 
@@ -98,6 +112,23 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 ```No longer restricted to technomancers```
 - Wired User  
 ```No longer restricted to technomancers```
+
+### Skills
+
+- Blades  
+```Added new specializations```
+- Clubs  
+```Added new specializations```
+- Longarms  
+```Added new specializations```
+- Pistols  
+```Added new specializations```
+- Throwing Weapons  
+```Added new specializations```
+- Armorer  
+```Added to Engineering skill group```
+- Demolitions  
+```Added to Engineering skill group```
 
 ### Spells
 
@@ -253,6 +284,10 @@ Last updated 2020-07-11 at 7:28 PM UTC.
 - Chemistry
 - Cybertechnology
 - Instruction
+- Aeronautics Mechanic
+- Automotive Mechanic
+- Industrial Mechanic
+- Nautical Mechanic
 
 ### Spells
 

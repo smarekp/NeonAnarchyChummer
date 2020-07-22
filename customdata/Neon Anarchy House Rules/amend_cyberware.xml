@@ -10,4 +10,10 @@
 			<hide amendoperation="addnode" />
 		</grade>
 	</grades>
+	<cyberwares>
+		<cyberware>
+			<name>Junkyard Jaw</name>
+			<avail>8R</avail>
+		</cyberware>
+	</cyberwares>
 </chummer>

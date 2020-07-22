@@ -23,17 +23,17 @@
 		<name>Tasking</name>
 	</skillgroups>
 	<skills>
-		<skill>
+		<skill amendoperation="remove">
 			<name>Biotechnology</name>
 			<skillgroup amendoperation="replace" />
 			<hide />
 		</skill>
-		<skill>
+		<skill amendoperation="remove">
 			<name>Cybertechnology</name>
 			<skillgroup amendoperation="replace" />
 			<hide />
 		</skill>
-		<skill>
+		<skill amendoperation="remove">
 			<name>Chemistry</name>
 			<!--<skillgroup amendoperation="replace">Biotech</skillgroup>-->
 			<hide />
@@ -46,9 +46,96 @@
 			<name>Medicine</name>
 			<skillgroup amendoperation="replace" />
 		</skill>
-		<skill>
+		<skill amendoperation="remove">
 			<name>Instruction</name>
 			<hide />
+		</skill>
+		<skill>
+			<name>Blades</name>
+			<specs amendoperation="replace">
+				<spec>Axes</spec>
+				<spec>Chakrams</spec>
+				<spec>Knives</spec>
+				<spec>Lance</spec>
+				<spec>Swords</spec>
+				<spec>Parrying</spec>
+			</specs>
+		</skill>
+		<skill>
+			<name>Clubs</name>
+			<specs amendoperation="replace">
+				<spec>Batons</spec>
+				<spec>Battering Rams</spec>
+				<spec>Hammers</spec>
+				<spec>Lance</spec>
+				<spec>Saps</spec>
+				<spec>Staves</spec>
+				<spec>Parrying</spec>
+			</specs>
+		</skill>
+		<skill>
+			<name>Longarms</name>
+			<specs amendoperation="replace">
+				<spec>Dart Rifle</spec>
+				<spec>Extended-Range Shots</spec>
+				<spec>Long-Range Shots</spec>
+				<spec>Shotguns</spec>
+				<spec>Sniper Rifles</spec>
+				<spec>Sporting Rifles</spec>
+			</specs>
+		</skill>
+		<skill>
+			<name>Pistols</name>
+			<specs amendoperation="replace">
+				<spec>Bracers</spec>
+				<spec>Dart Pistol</spec>
+				<spec>Flare Launcher</spec>
+				<spec>Gun Canes</spec>
+				<spec>Gyrojet Pistol</spec>
+				<spec>Holdouts</spec>
+				<spec>Revolvers</spec>
+				<spec>Semi-Automatics</spec>
+				<spec>Tasers</spec>
+			</specs>
+		</skill>
+		<skill>
+			<name>Throwing Weapons</name>
+			<specs amendoperation="replace">
+				<spec>Aerodynamic</spec>
+				<spec>Blades</spec>
+				<spec>Bolas</spec>
+				<spec>Chakram</spec>
+				<spec>Non-Aerodynamic</spec>
+				<spec>Throwing Syringe</spec>
+			</specs>
+		</skill>
+		<skill amendoperation="remove">
+			<name>Aeronautics Mechanic</name>
+			<skillgroup amendoperation="replace" />
+			<hide />
+		</skill>
+		<skill amendoperation="remove">
+			<name>Automotive Mechanic</name>
+			<skillgroup amendoperation="replace" />
+			<hide />
+		</skill>
+		<skill amendoperation="remove">
+			<name>Industrial Mechanic</name>
+			<skillgroup amendoperation="replace" />
+			<hide />
+		</skill>
+		<skill amendoperation="remove">
+			<name>Nautical Mechanic</name>
+			<skillgroup amendoperation="replace" />
+			<hide />
+		</skill>
+		<skill>
+			<name>Armorer</name>
+			<skillgroup amendoperation="replace">Engineering</skillgroup>
+		</skill>
+		<skill>
+			<name>Demolitions</name>
+			<skillgroup amendoperation="replace">Engineering</skillgroup>
 		</skill>
 	</skills>
 </chummer>
