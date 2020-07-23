@@ -1,6 +1,10 @@
 # Neon Anarchy Chummer
 Optional [Chummer5a](https://github.com/chummer5a/chummer5a) rules for [r/NeonAnarchy](https://www.reddit.com/r/NeonAnarchy/).
 
+## Help
+
+If you're having trouble getting the dataset to work, feel free to ping `@Technical` in the `#chummer-help` channel of our Discord server.
+
 ## Usage
 
 ### If you're new to Neon Anarchy
