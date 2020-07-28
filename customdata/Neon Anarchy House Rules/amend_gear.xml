@@ -82,6 +82,7 @@
 			</weaponbonus>
 			<isflechetteammo>True</isflechetteammo>
 			<flechetteweaponbonus>
+				<ap>-2</ap>
 				<damagetype>P(f)</damagetype>
 			</flechetteweaponbonus>
 		</gear>
