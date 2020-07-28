@@ -26,11 +26,15 @@
 			<name>Hardened Mil-Spec Battle Armor: Helmet</name>
 			<hide />
 		</armor>
+		<armor>
+			<name>Snake Mesh Socks</name>
+			<armor>0</armor>
+		</armor>
 	</armors>
 	<mods>
 		<mod>
 			<name>Grey Mana Integration</name>
-			<avail amendoperation="replace">FixedValues(6R,6R,6R,9R,9R,9R)</avail>
+			<avail>FixedValues(6R,6R,6R,9R,9R,9R)</avail>
 		</mod>
 	</mods>
 </chummer>

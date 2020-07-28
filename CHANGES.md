@@ -54,6 +54,11 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 
 ## Altered
 
+### Armors
+
+- Snake Mesh Socks  
+```Armor: 0```
+
 ### Armor Mods
 
 - Grey Mana Integration  
