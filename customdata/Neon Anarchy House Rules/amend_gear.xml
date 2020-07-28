@@ -8,7 +8,7 @@
 	<gears>
 		<gear>
 			<name>Ammo: Gyrojet</name>
-			<avail amendoperation="replace">12F</avail>
+			<avail>12F</avail>
 		</gear>
 		<gear>
 			<name>Ammo: E0-E0 (Public Grid)</name>
@@ -62,33 +62,28 @@
 			<name>Grenade: Fuzzy Boom Boom Bunnies</name>
 			<hide />
 		</gear>
-		<!--gear added-->
 		<gear>
 			<name>Grey Mana Tattoos</name>
-			<avail amendoperation="replace">7R</avail>
+			<avail>7R</avail>
 		</gear>
 		<gear>
 			<name>Shaman Tuxedo</name>
-			<cost amendoperation="replace">10000</cost>
+			<cost>10000</cost>
 		</gear>
 		<gear>
-			<name>Grenade: Painade</name>
-			<category>Ammunition</category>
-			<rating>0</rating>
-			<source>CA</source>
-			<page>135</page>
-			<avail>10R</avail>
-			<addweapon>Grenade: Painade</addweapon>
-			<cost>100</cost>
+			<name>Ammo: Krime Punisher Assault Cannon Rounds</name>
+			<avail>8R</avail>
 		</gear>
 		<gear>
-			<name>Cry Wolf</name>
-			<category>Hacking Programs</category>
-			<rating>0</rating>
-			<source>KC</source>
-			<page>63</page>
-			<avail>4F</avail>
-			<cost>250</cost>
+			<name>Ammo: Krime Penetrator Buckshot Shells</name>
+			<weaponbonus>
+				<ap>-2</ap>
+				<damagetype>P(f)</damagetype>
+			</weaponbonus>
+			<isflechetteammo>True</isflechetteammo>
+			<flechetteweaponbonus>
+				<damagetype>P(f)</damagetype>
+			</flechetteweaponbonus>
 		</gear>
 	</gears>
 </chummer>

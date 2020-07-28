@@ -26,6 +26,11 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 - Vulcan Systems "Hot-Drop" Rapid-Egress Jetpack System  
 ```Availability: 16F; Category: Jetpacks; Cost: 40000```
 
+### Lifestyle Qualities
+
+- Fab Sensor Feedstock  
+```Cost: 50```
+
 ### Qualities
 
 - Special Modifications I
@@ -67,6 +72,10 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Availability: 7R```
 - Shaman Tuxedo  
 ```Cost: 10000```
+- Ammo: Krime Punisher Assault Cannon Rounds  
+```Availability: 8R```
+- Ammo: Krime Penetrator Buckshot Shells  
+```Now behave like Ammo: Flechette Rounds```
 
 ### Martial Arts
 
@@ -135,6 +144,36 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 - Flame Burst  
 ```Descriptor: Indirect, Elemental```
 
+### Vehicles
+
+Krime Bazoo Basic  
+```Availability: 0; Cost>11000```
+- Krime Bazoo Redline  
+```Availability: 0; Cost: 12500```
+- Krime Bazoo Chrome  
+```Availability: 0; Cost: 20000```
+- Krime Big Bazoo Basic  
+```Availability: 0; Cost: 11500```
+- Krime Big Bazoo Redline  
+```Availability: 0; Cost: 13000```
+- Krime Big Bazoo Chrome  
+```Availability: 10; Cost: 22500```
+- Krime SV-2 'Crashtest'  
+```Availability: 0; Cost: 24000```
+- Krime Prowler  
+```Availability: 12R; Cost: 72500```
+- Krime DeTruck Sports Truck  
+```Availability: 0; Cost: 25000```
+- Krime Dix Prime Mover  
+```Cost: 150000```
+- Krime Euskaldunak Tankette  
+```Cost: 50000```
+
+### Vehicle Mods
+
+- Ram Plate  
+```Availabilty: 8R; Cost: 1000; Slots: 2```
+
 ### Weapons
 
 - Morrissey Alta  
@@ -147,6 +186,10 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Availability: 24F; Cost: 30000```
 - Repeating Laser  
 ```Cost: 30000```
+- Krime Escalation  
+```Damage: Missile```
+- Krime Calliope  
+```Damage: Missile```
 
 ## Hidden
 

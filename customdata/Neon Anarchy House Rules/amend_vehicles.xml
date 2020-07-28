@@ -10,5 +10,66 @@
 			<name>Horizon Noizquito (Microdrone)</name>
 			<hide />
 		</vehicle>
+		<vehicle>
+			<name>Krime Bazoo Basic</name>
+			<avail>0</avail>
+			<cost>11000</cost>
+		</vehicle>
+		<vehicle>
+			<name>Krime Bazoo Redline</name>
+			<avail>0</avail>
+			<cost>12500</cost>
+		</vehicle>
+		<vehicle>
+			<name>Krime Bazoo Chrome</name>
+			<avail>0</avail>
+			<cost>20000</cost>
+		</vehicle>
+		<vehicle>
+			<name>Krime Big Bazoo Basic</name>
+			<avail>0</avail>
+			<cost>11500</cost>
+		</vehicle>
+		<vehicle>
+			<name>Krime Big Bazoo Redline</name>
+			<avail>0</avail>
+			<cost>13000</cost>
+		</vehicle>
+		<vehicle>
+			<name>Krime Big Bazoo Chrome</name>
+			<avail>10</avail>
+			<cost>22500</cost>
+		</vehicle>
+		<vehicle>
+			<name>Krime SV-2 'Crashtest'</name>
+			<avail>0</avail>
+			<cost>24000</cost>
+		</vehicle>
+		<vehicle>
+			<name>Krime Prowler</name>
+			<avail>12R</avail>
+			<cost>72500</cost>
+		</vehicle>
+		<vehicle>
+			<name>Krime DeTruck Sports Truck</name>
+			<avail>0</avail>
+			<cost>25000</cost>
+		</vehicle>
+		<vehicle>
+			<name>Krime Dix Prime Mover</name>
+			<cost>150000</cost>
+		</vehicle>
+		<vehicle>
+			<name>Krime Euskaldunak Tankette</name>
+			<cost>50000</cost>
+		</vehicle>
 	</vehicles>
+	<mods>
+		<mod>
+			<name>Ram Plate</name>
+			<avail>8R</avail>
+			<cost>1000</cost>
+			<slots>2</slots>
+		</mod>
+	</mods>
 </chummer>
