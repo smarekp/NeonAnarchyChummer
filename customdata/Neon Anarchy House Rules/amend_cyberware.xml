@@ -4,16 +4,25 @@
 	You can learn more at
 	https://www.reddit.com/r/NeonAnarchy
 -->
-<chummer amendoperation="recurse">
-	<grades amendoperation="recurse">
-		<grade xpathfilter="name='Gammaware' or name='Omegaware'" amendoperation="recurse">
-			<hide amendoperation="addnode" />
+<chummer>
+	<grades>
+		<grade>
+			<name>Gammaware</name>
+			<hide />
+		</grade>
+		<grade>
+			<name>Omegaware</name>
+			<hide />
 		</grade>
 	</grades>
 	<cyberwares>
 		<cyberware>
 			<name>Junkyard Jaw</name>
 			<avail>8R</avail>
+		</cyberware>
+		<cyberware>
+			<name>Digigrade Legs</name>
+			<ess>0</ess>
 		</cyberware>
 	</cyberwares>
 </chummer>

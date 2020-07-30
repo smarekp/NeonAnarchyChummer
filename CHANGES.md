@@ -68,6 +68,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 
 - Junkyard Jaw  
 ```Availability: 8R```
+- Digigrade Legs  
+```Essence: 0```
 
 ### Gear
 
