@@ -9,7 +9,7 @@ If you're having trouble getting the dataset to work, feel free to ping `@Techni
 
 ## Usage
 
-### If you're new to Neon Anarchy
+### If you're new to Neon Anarchy:
 
 - Install [Chummer](https://github.com/chummer5a/chummer5a) if you haven't already.
 - Download the latest [Neon Anarchy Dataset](https://github.com/smarekp/NeonAnarchyChummer/releases) release.
@@ -19,7 +19,7 @@ If you're having trouble getting the dataset to work, feel free to ping `@Techni
 - Restart Chummer again and you're ready to go!
 - Use the Neon Anarchy Settings when making a new character.
 
-### If you have existing Neon Anarchy characters and are installing the Dataset for the first time
+### If you have existing Neon Anarchy characters and are installing the Dataset for the first time:
 
 - Download the latest [Neon Anarchy Dataset](https://github.com/smarekp/NeonAnarchyChummer/releases) release.
 - Drag and drop the `customdata` folder into Chummer's install directory.
@@ -27,7 +27,7 @@ If you're having trouble getting the dataset to work, feel free to ping `@Techni
 - Restart Chummer and enable the Neon Anarchy sourcebook under `Tools > Options > Character Options`.
 - Restart Chummer again and you're ready to go!
 
-### If you just want to update the Neon Anarchy Dataset
+### If you just want to update the Neon Anarchy Dataset:
 
 - Download the latest [Neon Anarchy Dataset](https://github.com/smarekp/NeonAnarchyChummer/releases) release.
 - Drag and drop the `customdata` folder into Chummer's install directory.
