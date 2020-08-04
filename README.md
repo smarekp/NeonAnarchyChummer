@@ -5,7 +5,7 @@ Optional [Chummer5a](https://github.com/chummer5a/chummer5a) rules for [r/NeonAn
 
 You can watch [this video guide](https://drive.google.com/file/d/1UyI3ZGuWFZ3Nj-yFhkM9YCrEbGaOrluC/view?usp=sharing) for a step-by-step demonstration of how to install Chummer along with the Neon Anarchy Dataset.
 
-If you're having trouble getting the dataset to work, feel free to ping `@Technical` in the `#chummer-help` channel of the [Neon Anarchy Discord server](https://discord.com/invite/eaX2jxG).
+If you're having trouble getting the dataset to work, feel free to ping `@Technical` in the `#chummer-help` channel on the [Neon Anarchy Discord](https://discord.com/invite/eaX2jxG).
 
 ## Usage
 
