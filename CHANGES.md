@@ -222,12 +222,6 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 - Gammaware
 - Omegaware
 
-### Drug Component Grades
-
-- Street Cooked
-- Pharmaceutical
-- Designer
-
 ### Echoes
 
 - Draining Spike
