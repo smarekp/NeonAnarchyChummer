@@ -5,18 +5,8 @@
   https://www.reddit.com/r/NeonAnarchy
 -->
 <chummer>
-	<grades>
-		<grade>
-			<name>Street Cooked</name>
-			<hide />
-		</grade>
-		<grade>
-			<name>Pharmaceutical</name>
-			<hide />
-		</grade>
-		<grade>
-			<name>Designer</name>
-			<hide />
-		</grade>
-	</grades>
+	<!--
+		This file cannot be deleted or players updating
+		the dataset would keep the previous version.
+	-->
 </chummer>
