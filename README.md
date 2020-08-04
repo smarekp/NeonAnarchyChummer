@@ -16,8 +16,7 @@ If you're having trouble getting the dataset to work, feel free to ping `@Techni
 - Drag and drop the `customdata` and `settings` folders into Chummer's install directory.
 - Open Chummer and make sure Neon Anarchy House Rules is enabled under `Tools > Options > Optional Rules`. There is no need to change the load order.
 - Restart Chummer and make sure the Neon Anarchy sourcebook is enabled under `Tools > Options > Character Options`.
-- Restart Chummer again and you're ready to go!
-- Use the Neon Anarchy Settings when making a new character.
+- Restart Chummer again and you're ready to go! Use the Neon Anarchy Settings when making a new character.
 
 ### If you have existing Neon Anarchy characters and are installing the Dataset for the first time:
 
