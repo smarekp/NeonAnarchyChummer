@@ -153,8 +153,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 
 ### Vehicles
 
-Krime Bazoo Basic  
-```Availability: 0; Cost>11000```
+- Krime Bazoo Basic  
+```Availability: 0; Cost: 11000```
 - Krime Bazoo Redline  
 ```Availability: 0; Cost: 12500```
 - Krime Bazoo Chrome  
