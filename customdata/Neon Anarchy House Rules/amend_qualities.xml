@@ -39,14 +39,6 @@
 			<hide />
 		</quality>
 		<quality>
-			<name>Changeling (Class I SURGE)</name>
-			<hide />
-		</quality>
-		<quality>
-			<name>Changeling (Class II SURGE)</name>
-			<hide />
-		</quality>
-		<quality>
 			<name>Consummate Professional</name>
 			<hide />
 		</quality>
@@ -337,6 +329,10 @@
 		<quality>
 			<name>Wired User</name>
 			<required />
+		</quality>
+		<quality>
+			<name>Illusionist</name>
+			<limit>1</limit>
 		</quality>
 	</qualities>
 </chummer>

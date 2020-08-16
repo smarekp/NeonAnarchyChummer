@@ -70,6 +70,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Availability: 8R```
 - Digigrade Legs  
 ```Essence: 0```
+- Skilljack  
+```Cost: Rating * 1000```
 
 ### Gear
 
@@ -83,6 +85,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Availability: 8R```
 - Ammo: Krime Penetrator Buckshot Shells  
 ```Now behave like Ammo: Flechette Rounds```
+- Ammo: Fuel Canister  
+```Availibilty: 12F```
 
 ### Martial Arts
 
@@ -128,6 +132,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```No longer restricted to technomancers```
 - Wired User  
 ```No longer restricted to technomancers```
+- Illusionist  
+```Can no longer be selected multiple times```
 
 ### Skills
 
@@ -145,6 +151,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Added to Engineering skill group```
 - Demolitions  
 ```Added to Engineering skill group```
+- Gymnastics  
+```Added "Freefall" specialization```
 
 ### Spells
 
@@ -266,8 +274,6 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 - Borrowed Time
 - Carrier (HMHVV Strain II)
 - Carrier (HMHVV Strain III)
-- Changeling (Class I SURGE)
-- Changeling (Class II SURGE)
 - Consummate Professional
 - Dead Emotion
 - Dead SIN
@@ -332,6 +338,7 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 - Automotive Mechanic
 - Industrial Mechanic
 - Nautical Mechanic
+- Free-Fall
 
 ### Spells
 

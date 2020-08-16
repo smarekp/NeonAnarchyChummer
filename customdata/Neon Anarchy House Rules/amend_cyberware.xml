@@ -24,5 +24,9 @@
 			<name>Digigrade Legs</name>
 			<ess>0</ess>
 		</cyberware>
+		<cyberware>
+			<name>Skilljack</name>
+			<cost>Rating * 1000</cost>
+		</cyberware>
 	</cyberwares>
 </chummer>

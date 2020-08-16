@@ -137,5 +137,22 @@
 			<name>Demolitions</name>
 			<skillgroup amendoperation="replace">Engineering</skillgroup>
 		</skill>
+		<skill amendoperation="remove">
+			<name>Free-Fall</name>
+			<hide />
+		</skill>
+		<skill>
+			<name>Gymnastics</name>
+			<specs amendoperation="replace">
+				<spec>Balance</spec>
+				<spec>Climbing</spec>
+				<spec>Dance</spec>
+				<spec>Dodging</spec>
+				<spec>Freefall</spec>
+				<spec>Leaping</spec>
+				<spec>Parkour</spec>
+				<spec>Rolling</spec>
+			</specs>
+		</skill>
 	</skills>
 </chummer>
