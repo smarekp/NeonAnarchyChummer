@@ -48,5 +48,29 @@
 			<spec>Aerodynamic</spec>
 			<useskill>Throwing Weapons</useskill>
 		</weapon>
+		<!--
+		<weapon>
+			<id>3c2ae653-b153-4518-829c-bd8004ff2dbe</id>
+			<name>Electrocytes</name>
+			<category>Bio-Weapon</category>
+			<type>Melee</type>
+			<conceal>0</conceal>
+			<accuracy>Physical</accuracy>
+			<reach>0</reach>
+			<damage>(BOD)S(e)</damage>
+			<ap>-6</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>0</avail>
+			<cost>0</cost>
+			<source>HS</source>
+			<page>171</page>
+			<allowaccessory>False</allowaccessory>
+			<hide />
+			<spec>Natural Weapons</spec>
+			<useskill>Unarmed Combat</useskill>
+		</weapon>
+		-->
 	</weapons>
 </chummer>
