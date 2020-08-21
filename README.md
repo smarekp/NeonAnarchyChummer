@@ -16,9 +16,13 @@ If you're having trouble getting the dataset to work, feel free to ping `@Techni
 - Install [Chummer](https://github.com/chummer5a/chummer5a) if you haven't already.
 - Download the latest [Neon Anarchy Dataset](https://github.com/smarekp/NeonAnarchyChummer/releases) release.
 - Drag and drop the `customdata` and `settings` folders into Chummer's install directory.
-- Open Chummer and make sure Neon Anarchy House Rules is enabled under `Tools > Options > Optional Rules`. There is no need to change the load order.
-- Restart Chummer and make sure the Neon Anarchy sourcebook is enabled under `Tools > Options > Character Options`.
-- Restart Chummer again and you're ready to go! Use the Neon Anarchy Settings when making a new character.
+- Open Chummer, then click `Tools > Options` and select "Neon Anarchy Settings" in the top-left dropdown.
+- Open the `Optional Rules` tab and enable "Neon Anarchy House Rules", "Kill Code Optional Sprite Powers", "Rainforest Carbine Missions Errata", and "SR Missions Anima Prices".
+- Move "Neon Anarchy House Rules" to the bottom of the load order using the "Decrease Load Order" button. There is no need to otherwise change the load order.
+- Click the "Save" button and restart Chummer, then click `Tools > Options` and select "Neon Anarchy Settings" in the top-left dropdown.
+- Open the `Character Options` tab and enable the "Neon Anarchy" sourcebook.
+- Click the "Save" button and restart Chummer.
+- You're ready to go! Use the Neon Anarchy Settings when making a new character.
 
 ### If you have existing Neon Anarchy characters and are installing the Dataset for the first time:
 
