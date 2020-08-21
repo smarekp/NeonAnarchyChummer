@@ -334,5 +334,298 @@
 			<name>Illusionist</name>
 			<limit>1</limit>
 		</quality>
+		<quality>
+			<name>Mystic Foreman</name>
+			<required amendoperation="replace">
+				<allof>
+					<attribute>
+						<name>MAG</name>
+						<total>1</total>
+					</attribute>
+					<skill>
+						<name>Mechanic</name>
+						<val>4</val>
+					</skill>
+					<skill>
+						<name>Chemisty</name>
+						<val>4</val>
+						<type>Knowledge</type>
+					</skill>
+					<!--
+					<skill>
+						<name>Industrial Mechanic</name>
+						<val>4</val>
+					</skill>
+					<skill>
+						<name>Chemistry</name>
+						<val>4</val>
+					</skill>
+					-->
+				</allof>
+				<oneof>
+					<skill>
+						<name>Spellcasting</name>
+						<val>4</val>
+						<spec>Manipulation</spec>
+					</skill>
+					<skill>
+						<name>Spellcasting</name>
+						<val>6</val>
+					</skill>
+				</oneof>
+			</required>
+		</quality>
+		<quality>
+			<name>Potion Maker</name>
+			<required amendoperation="replace">
+				<allof>
+					<attribute>
+						<name>MAG</name>
+						<total>1</total>
+					</attribute>
+					<skill>
+						<name>Alchemy</name>
+						<val>4</val>
+					</skill>
+					<skill>
+						<name>Chemisty</name>
+						<val>4</val>
+						<type>Knowledge</type>
+					</skill>
+					<!--
+					<skill>
+						<name>Chemistry</name>
+						<val>4</val>
+					</skill>
+					-->
+				</allof>
+			</required>
+		</quality>
+		<quality>
+			<name>The Artisan's Way</name>
+			<bonus amendoperation="replace">
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Animal Handling)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Armorer)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Artisan)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Computer)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Cybercombat)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Demolitions)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Electronic Warfare)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (First Aid)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Forgery)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Gunnery)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Hacking)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Hardware)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Locksmith)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Mechanic)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Medicine)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Navigation)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<!-- This deliberately does not have closing parentheses so that all exotic vehicle skills are processed -->
+					<extracontains>Improved Ability (skill) (Pilot Exotic Vehicle</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Pilot Aerospace)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Pilot Aircraft)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Pilot Ground Craft)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Pilot Walker)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Pilot Watercraft)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Software)</extracontains>
+				</focusbindingkarmacost>
+			</bonus>
+		</quality>
+		<quality>
+			<name>The Invisible Way</name>
+			<bonus amendoperation="replace">
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Disguise)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Diving)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Escape Artist)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Flight)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Gymnastics)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Palming)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Perception)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Running)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Sneaking)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Survival)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Swimming)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Tracking)</extracontains>
+				</focusbindingkarmacost>
+			</bonus>
+		</quality>
+		<quality>
+			<name>The Speaker's Way</name>
+			<bonus amendoperation="replace">
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Con)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Etiquette)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Impersonation)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Intimidation)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Leadership)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Negotiation)</extracontains>
+				</focusbindingkarmacost>
+				<focusbindingkarmacost>
+					<name>Qi Focus</name>
+					<val>-2</val>
+					<extracontains>Improved Ability (skill) (Performance)</extracontains>
+				</focusbindingkarmacost>
+			</bonus>
+		</quality>
 	</qualities>
 </chummer>

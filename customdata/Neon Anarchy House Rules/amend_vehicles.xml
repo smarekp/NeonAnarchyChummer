@@ -63,6 +63,11 @@
 			<name>Krime Euskaldunak Tankette</name>
 			<cost>50000</cost>
 		</vehicle>
+		<vehicle>
+			<name>Yamaha Kaburaya</name>
+			<accel>4</accel>
+			<cost>8500</cost>
+		</vehicle>
 	</vehicles>
 	<mods>
 		<mod>
@@ -70,6 +75,10 @@
 			<avail>8R</avail>
 			<cost>1000</cost>
 			<slots>2</slots>
+		</mod>
+		<mod>
+			<name>Off-Road Suspension</name>
+			<cost>4000</cost>
 		</mod>
 	</mods>
 </chummer>

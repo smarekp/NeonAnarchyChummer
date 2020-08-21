@@ -54,6 +54,11 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 
 ## Altered
 
+### Adept Powers
+
+- Critical Strike  
+```Added Atypical Melee and Flexile Melee to skill selection```
+
 ### Armors
 
 - Snake Mesh Socks  
@@ -87,6 +92,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Now behave like Ammo: Flechette Rounds```
 - Ammo: Fuel Canister  
 ```Availibilty: 12F```
+- Arrow: Seeker Shaft  
+```Availability: 12R```
 
 ### Martial Arts
 
@@ -134,6 +141,16 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```No longer restricted to technomancers```
 - Illusionist  
 ```Can no longer be selected multiple times```
+- Mystic Foreman  
+```Now requires Mechanic 4 and Knowledge (Chemistry) 4 instead of Industrial Mechanic 4 and Chemistry 4```
+- Potion Maker  
+```Now requires Knowledge (Chemistry) 4 instead of Chemistry 4```
+- The Artisan's Way  
+```Added Mechanic skill; Removed Aeronautics Mechanic, Automotive Mechanic, Biotechnology, Chemistry, Cybertechnology, Industrial Mechanic, Nautical Mechanic skills```
+- The Invisible Way  
+```Removed Free-Fall skill```
+- The Speaker's Way  
+```Removed Instruction skill```
 
 ### Skills
 
@@ -183,11 +200,15 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Cost: 150000```
 - Krime Euskaldunak Tankette  
 ```Cost: 50000```
+- Yamaha Kaburaya  
+```Acceleration: 4; Cost: 8500```
 
 ### Vehicle Mods
 
 - Ram Plate  
 ```Availabilty: 8R; Cost: 1000; Slots: 2```
+- Off-Road Suspension  
+```Cost: 4000```
 
 ### Weapons
 

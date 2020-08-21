@@ -90,5 +90,9 @@
 			<name>Ammo: Fuel Canister</name>
 			<avail>12F</avail>
 		</gear>
+		<gear>
+			<name>Arrow: Seeker Shaft</name>
+			<avail>12R</avail>
+		</gear>
 	</gears>
 </chummer>
