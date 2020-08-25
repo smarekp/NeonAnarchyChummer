@@ -81,4 +81,22 @@
 			<cost>4000</cost>
 		</mod>
 	</mods>
+	<weaponmounts>
+		<weaponmount>
+			<name>Standard (Drone)</name>
+			<weaponcategories>Blades,Clubs,Improvised Weapons,Exotic Melee Weapons,Exotic Ranged Weapons,Cyberweapon,Bio-Weapon,Unarmed,Tasers,Holdouts,Light Pistols,Heavy Pistols,Machine Pistols,Submachine Guns,Grenade Launchers</weaponcategories>
+		</weaponmount>
+		<weaponmount>
+			<name>Large (Drone)</name>
+			<weaponcategories>Blades,Clubs,Improvised Weapons,Exotic Melee Weapons,Exotic Ranged Weapons,Cyberweapon,Bio-Weapon,Unarmed,Tasers,Holdouts,Light Pistols,Heavy Pistols,Machine Pistols,Submachine Guns,Assault Rifles,Shotguns,Grenade Launchers,Sporting Rifles</weaponcategories>
+		</weaponmount>
+		<weaponmount>
+			<name>Huge (Drone)</name>
+			<weaponcategories>Blades,Clubs,Improvised Weapons,Exotic Melee Weapons,Exotic Ranged Weapons,Cyberweapon,Bio-Weapon,Unarmed,Tasers,Holdouts,Light Pistols,Heavy Pistols,Machine Pistols,Submachine Guns,Assault Rifles,Shotguns,Machine Guns,Grenade Launchers,Laser Weapons,Light Machine Guns,Medium Machine Guns,Sporting Rifles,Sniper Rifles</weaponcategories>
+		</weaponmount>
+		<weaponmount>
+			<name>Heavy (Drone)</name>
+			<weaponcategories>Blades,Clubs,Improvised Weapons,Exotic Melee Weapons,Exotic Ranged Weapons,Cyberweapon,Bio-Weapon,Unarmed,Tasers,Holdouts,Light Pistols,Heavy Pistols,Machine Pistols,Submachine Guns,Assault Rifles,Shotguns,Machine Guns,Assault Cannons,Grenade Launchers,Missile Launchers,Laser Weapons,Light Machine Guns,Medium Machine Guns,Heavy Machine Guns,Sporting Rifles,Sniper Rifles</weaponcategories>
+		</weaponmount>
+	</weaponmounts>
 </chummer>
