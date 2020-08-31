@@ -69,6 +69,7 @@
 			</forbidden>
 			<source>NA</source>
 			<page>15</page>
+			<notes>Chummer cannot have fractional increases to adept power points. If your Magic score is uneven, you're owed an extra 0.50 power points!</notes>
 		</quality>
 	</qualities>
 </chummer>
