@@ -9,6 +9,11 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 - Neon Anarchy  
 ```Code: NA```
 
+### Critter Powers
+
+- Chimeric Powers
+- Warform Modification
+
 ### Gear Categories
 
 - Jetpacks
@@ -151,6 +156,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Removed Free-Fall skill```
 - The Speaker's Way  
 ```Removed Instruction skill```
+- Allergy  
+```No longer grants karma```
 
 ### Skills
 
@@ -283,8 +290,7 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 
 ### Metatypes
 
-- All Metasapients
-- All Shapeshifters
+- All Metasapients except Sasquatch
 
 ### Qualities
 
