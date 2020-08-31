@@ -398,6 +398,7 @@
 				</specificskill>
 			</bonus>
 			-->
+			<notes>You get +1 dice pool when attacking with the tongue.</notes>
 			<source>HS</source>
 			<page>172</page>
 		</power>
@@ -639,7 +640,8 @@
 				<cyberwareessmultiplier>90</cyberwareessmultiplier>
 				<genetechessmultiplier>90</genetechessmultiplier>
 				<genetechcostmultiplier>80</genetechcostmultiplier>
-				<prototypetranshuman>1</prototypetranshuman>
+				<!--<prototypetranshuman>1</prototypetranshuman>-->
+				<notes>Remember that you can start with 1.00 Essence worth of Bioware that does not count against your character's Essence.</notes>
 				<critterpowers>
 					<power>Domesticated</power>
 				</critterpowers>
