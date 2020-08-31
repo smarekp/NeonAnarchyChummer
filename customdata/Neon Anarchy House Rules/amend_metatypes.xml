@@ -6,24 +6,50 @@
 -->
 <chummer amendoperation="recurse">
 	<metatypes amendoperation="recurse">
+		<!--
 		<metatype xpathfilter="category='Metasapient' or category='Shapeshifter'" amendoperation="recurse">
 			<hide amendoperation="addnode" />
 		</metatype>
+		-->
+		<metatype>
+			<name>A.I.</name>
+			<hide />
+		</metatype>
+		<metatype>
+			<name>Pixie</name>
+			<hide />
+		</metatype>
+		<metatype>
+			<name>Naga</name>
+			<hide />
+		</metatype>
+		<metatype>
+			<name>Centaur</name>
+			<hide />
+		</metatype>
 		<metatype>
 			<name>Dwarf</name>
-			<bonus />
+			<bonus>
+				<lifestylecost />
+			</bonus>
 			<metavariants>
 				<metavariant>
 					<name>Gnome</name>
-					<bonus />
+					<bonus>
+						<lifestylecost />
+					</bonus>
 				</metavariant>
 				<metavariant>
 					<name>Hanuman</name>
-					<bonus />
+					<bonus>
+						<lifestylecost />
+					</bonus>
 				</metavariant>
 				<metavariant>
 					<name>Koborokuru</name>
-					<bonus />
+					<bonus>
+						<lifestylecost />
+					</bonus>
 				</metavariant>
 			</metavariants>
 		</metatype>
