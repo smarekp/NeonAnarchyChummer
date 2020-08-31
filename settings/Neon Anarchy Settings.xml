@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <settings>
 	<name>Neon Anarchy Settings</name>
 	<confirmdelete>True</confirmdelete>
 	<licenserestricted>False</licenserestricted>
 	<confirmkarmaexpense>True</confirmkarmaexpense>
-	<printzeroratingskills>True</printzeroratingskills>
+	<printzeroratingskills>False</printzeroratingskills>
 	<morelethalgameplay>False</morelethalgameplay>
 	<spiritforcebasedontotalmag>False</spiritforcebasedontotalmag>
 	<printexpenses>True</printexpenses>
 	<printfreeexpenses>True</printfreeexpenses>
 	<nuyenperbp>2000</nuyenperbp>
-	<hideitemsoveravaillimit>True</hideitemsoveravaillimit>
+	<hideitemsoveravaillimit>False</hideitemsoveravaillimit>
 	<unarmedimprovementsapplytoweapons>False</unarmedimprovementsapplytoweapons>
 	<allowinitiationincreatemode>False</allowinitiationincreatemode>
 	<usepointsonbrokengroups>False</usepointsonbrokengroups>
@@ -37,14 +37,14 @@
 	<metatypecostskarmamultiplier>1</metatypecostskarmamultiplier>
 	<limbcount>5</limbcount>
 	<excludelimbslot>skull</excludelimbslot>
-	<allowcyberwareessdiscounts>False</allowcyberwareessdiscounts>
+	<allowcyberwareessdiscounts>True</allowcyberwareessdiscounts>
 	<maximumarmormodifications>False</maximumarmormodifications>
 	<armordegredation>False</armordegredation>
 	<specialkarmacostbasedonshownvalue>False</specialkarmacostbasedonshownvalue>
 	<exceedpositivequalities>False</exceedpositivequalities>
 	<exceedpositivequalitiescostdoubled>False</exceedpositivequalitiescostdoubled>
 	<mysaddppcareer>False</mysaddppcareer>
-	<mysadeptsecondmagattribute>False</mysadeptsecondmagattribute>
+	<mysadeptsecondmagattribute>True</mysadeptsecondmagattribute>
 	<exceednegativequalities>True</exceednegativequalities>
 	<exceednegativequalitieslimit>True</exceednegativequalitieslimit>
 	<multiplyrestrictedcost>False</multiplyrestrictedcost>
@@ -73,7 +73,7 @@
 	<allowbiowaresuites>False</allowbiowaresuites>
 	<freespiritpowerpointsmag>False</freespiritpowerpointsmag>
 	<allowhoverincrement>False</allowhoverincrement>
-	<searchincategoryonly>True</searchincategoryonly>
+	<searchincategoryonly>False</searchincategoryonly>
 	<compensateskillgroupkarmadifference>False</compensateskillgroupkarmadifference>
 	<autobackstory>True</autobackstory>
 	<freemartialartspecialization>False</freemartialartspecialization>
@@ -136,6 +136,8 @@
 		<book>AET</book>
 		<book>AP</book>
 		<book>BTB</book>
+		<book>BLB</book>
+		<book>BOTL</book>
 		<book>BB</book>
 		<book>CF</book>
 		<book>CA</book>
@@ -146,6 +148,7 @@
 		<book>HT</book>
 		<book>HS</book>
 		<book>KC</book>
+		<book>KK</book>
 		<book>LCD</book>
 		<book>NA</book>
 		<book>NF</book>
@@ -166,9 +169,10 @@
 		<book>TSG</book>
 	</books>
 	<customdatadirectorynames>
-		<directoryname>Kill Code Sprite Optional Powers</directoryname>
-		<directoryname>Rainforest Carbine Missions Errata</directoryname>
 		<directoryname>Neon Anarchy House Rules</directoryname>
+		<directoryname>Rainforest Carbine Missions Errata</directoryname>
+		<directoryname>SR Missions Animal Prices</directoryname>
+		<directoryname>Kill Code Sprite Optional Powers</directoryname>
 	</customdatadirectorynames>
 	<defaultbuild>
 		<buildmethod>Karma</buildmethod>
