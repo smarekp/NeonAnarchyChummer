@@ -640,7 +640,7 @@
 				<genetechessmultiplier>90</genetechessmultiplier>
 				<genetechcostmultiplier>80</genetechcostmultiplier>
 				<!--<prototypetranshuman>1</prototypetranshuman>-->
-				<notes>Remember that you can start with 1.00 Essence worth of Bioware that does not count against your character's Essence.</notes>
+				<!--<notes>Remember that you can start with 1.00 Essence worth of Bioware that does not count against your character's Essence.</notes>-->
 				<critterpowers>
 					<power>Domesticated</power>
 				</critterpowers>
