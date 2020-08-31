@@ -627,5 +627,37 @@
 				</focusbindingkarmacost>
 			</bonus>
 		</quality>
+		<quality>
+			<name>Allergy (Uncommon, Mild)</name>
+			<karma>0</karma>
+		</quality>
+		<quality>
+			<name>Allergy (Uncommon, Moderate)</name>
+			<karma>0</karma>
+		</quality>
+		<quality>
+			<name>Allergy (Uncommon, Severe)</name>
+			<karma>0</karma>
+		</quality>
+		<quality>
+			<name>Allergy (Uncommon, Extreme)</name>
+			<karma>0</karma>
+		</quality>
+		<quality>
+			<name>Allergy (Common, Mild)</name>
+			<karma>0</karma>
+		</quality>
+		<quality>
+			<name>Allergy (Common, Moderate)</name>
+			<karma>0</karma>
+		</quality>
+		<quality>
+			<name>Allergy (Common, Severe)</name>
+			<karma>0</karma>
+		</quality>
+		<quality>
+			<name>Allergy (Common, Extreme)</name>
+			<karma>0</karma>
+		</quality>
 	</qualities>
 </chummer>
