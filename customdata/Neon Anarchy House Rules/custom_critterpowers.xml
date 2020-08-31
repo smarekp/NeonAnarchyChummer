@@ -41,145 +41,153 @@
 			<page>170</page>
 		</power>
 		<power>
-			<id>8d94c84d-1011-45d4-9d91-7c10b4c24d2d</id>
-			<name>Attribute Enhancement (BOD)</name>
+			<id>6570e813-0919-42b4-bedc-efb95dad71df</id>
+			<name>Attribute Enhancement</name>
 			<category>Chimeric</category>
 			<type>P</type>
 			<action>Auto</action>
 			<range>Self</range>
 			<duration>Always</duration>
 			<karma />
-			<bonus>
-				<specificattribute>
-					<name>BOD</name>
-					<val>BOD * 0.5</val>
-					<min>1</min>
-					<affectbase />
-				</specificattribute>
-			</bonus>
 			<source>HS</source>
 			<page>170</page>
+			<notes>Add the bonus manually using the Improvements tab.</notes>
 		</power>
-		<power>
-			<id>c180fb74-b20c-4008-a502-cfe533a63fc0</id>
-			<name>Attribute Enhancement (AGI)</name>
-			<category>Chimeric</category>
-			<type>P</type>
-			<action>Auto</action>
-			<range>Self</range>
-			<duration>Always</duration>
-			<karma />
-			<bonus>
-				<specificattribute>
-					<name>AGI</name>
-					<val>AGI * 0.5</val>
-					<min>1</min>
-					<affectbase />
-				</specificattribute>
-			</bonus>
-			<source>HS</source>
-			<page>170</page>
-		</power>
-		<power>
-			<id>dffe1d47-7209-4aa7-86e8-6b0ff8d96e6c</id>
-			<name>Attribute Enhancement (REA)</name>
-			<category>Chimeric</category>
-			<type>P</type>
-			<action>Auto</action>
-			<range>Self</range>
-			<duration>Always</duration>
-			<karma />
-			<bonus>
-				<specificattribute>
-					<name>REA</name>
-					<val>REA * 0.5</val>
-					<min>1</min>
-					<affectbase />
-				</specificattribute>
-			</bonus>
-			<source>HS</source>
-			<page>170</page>
-		</power>
-		<power>
-			<id>a3159374-e8ff-4991-a78f-9ff7b4c84af7</id>
-			<name>Attribute Enhancement (STR)</name>
-			<category>Chimeric</category>
-			<type>P</type>
-			<action>Auto</action>
-			<range>Self</range>
-			<duration>Always</duration>
-			<karma />
-			<bonus>
-				<specificattribute>
-					<name>STR</name>
-					<val>STR * 0.5</val>
-					<min>1</min>
-					<affectbase />
-				</specificattribute>
-			</bonus>
-			<source>HS</source>
-			<page>170</page>
-		</power>
-		<power>
-			<id>89e9de85-6d3b-47b1-b71b-4496bddb1b55</id>
-			<name>Attribute Enhancement (CHA)</name>
-			<category>Chimeric</category>
-			<type>P</type>
-			<action>Auto</action>
-			<range>Self</range>
-			<duration>Always</duration>
-			<karma />
-			<bonus>
-				<specificattribute>
-					<name>CHA</name>
-					<val>CHA * 0.5</val>
-					<min>1</min>
-					<affectbase />
-				</specificattribute>
-			</bonus>
-			<source>HS</source>
-			<page>170</page>
-		</power>
-		<power>
-			<id>3be14bcb-f002-4992-a94d-b6c580bba930</id>
-			<name>Attribute Enhancement (INT)</name>
-			<category>Chimeric</category>
-			<type>P</type>
-			<action>Auto</action>
-			<range>Self</range>
-			<duration>Always</duration>
-			<karma />
-			<bonus>
-				<specificattribute>
-					<name>INT</name>
-					<val>INT * 0.5</val>
-					<min>1</min>
-					<affectbase />
-				</specificattribute>
-			</bonus>
-			<source>HS</source>
-			<page>170</page>
-		</power>
-		<power>
-			<id>a63cc706-26fc-4707-bccc-01896e97f01e</id>
-			<name>Attribute Enhancement (LOG)</name>
-			<category>Chimeric</category>
-			<type>P</type>
-			<action>Auto</action>
-			<range>Self</range>
-			<duration>Always</duration>
-			<karma />
-			<bonus>
-				<specificattribute>
-					<name>LOG</name>
-					<val>LOG * 0.5</val>
-					<min>1</min>
-					<affectbase />
-				</specificattribute>
-			</bonus>
-			<source>HS</source>
-			<page>170</page>
-		</power>
+		<!--
+			<power>
+				<id>8d94c84d-1011-45d4-9d91-7c10b4c24d2d</id>
+				<name>Attribute Enhancement (BOD)</name>
+				<category>Chimeric</category>
+				<type>P</type>
+				<action>Auto</action>
+				<range>Self</range>
+				<duration>Always</duration>
+				<karma />
+				<bonus>
+					<specificattribute>
+						<name>BOD</name>
+						<val>(BOD + 1) * 0.5</val>
+						<affectbase />
+					</specificattribute>
+				</bonus>
+				<source>HS</source>
+				<page>170</page>
+			</power>
+			<power>
+				<id>c180fb74-b20c-4008-a502-cfe533a63fc0</id>
+				<name>Attribute Enhancement (AGI)</name>
+				<category>Chimeric</category>
+				<type>P</type>
+				<action>Auto</action>
+				<range>Self</range>
+				<duration>Always</duration>
+				<karma />
+				<bonus>
+					<specificattribute>
+						<name>AGI</name>
+						<val>(AGI + 1) * 0.5</val>
+						<affectbase />
+					</specificattribute>
+				</bonus>
+				<source>HS</source>
+				<page>170</page>
+			</power>
+			<power>
+				<id>dffe1d47-7209-4aa7-86e8-6b0ff8d96e6c</id>
+				<name>Attribute Enhancement (REA)</name>
+				<category>Chimeric</category>
+				<type>P</type>
+				<action>Auto</action>
+				<range>Self</range>
+				<duration>Always</duration>
+				<karma />
+				<bonus>
+					<specificattribute>
+						<name>REA</name>
+						<val>(REA + 1) * 0.5</val>
+						<affectbase />
+					</specificattribute>
+				</bonus>
+				<source>HS</source>
+				<page>170</page>
+			</power>
+			<power>
+				<id>a3159374-e8ff-4991-a78f-9ff7b4c84af7</id>
+				<name>Attribute Enhancement (STR)</name>
+				<category>Chimeric</category>
+				<type>P</type>
+				<action>Auto</action>
+				<range>Self</range>
+				<duration>Always</duration>
+				<karma />
+				<bonus>
+					<specificattribute>
+						<name>STR</name>
+						<val>(STR + 1) * 0.5</val>
+						<affectbase />
+					</specificattribute>
+				</bonus>
+				<source>HS</source>
+				<page>170</page>
+			</power>
+			<power>
+				<id>89e9de85-6d3b-47b1-b71b-4496bddb1b55</id>
+				<name>Attribute Enhancement (CHA)</name>
+				<category>Chimeric</category>
+				<type>P</type>
+				<action>Auto</action>
+				<range>Self</range>
+				<duration>Always</duration>
+				<karma />
+				<bonus>
+					<specificattribute>
+						<name>CHA</name>
+						<val>(CHA + 1) * 0.5</val>
+						<affectbase />
+					</specificattribute>
+				</bonus>
+				<source>HS</source>
+				<page>170</page>
+			</power>
+			<power>
+				<id>3be14bcb-f002-4992-a94d-b6c580bba930</id>
+				<name>Attribute Enhancement (INT)</name>
+				<category>Chimeric</category>
+				<type>P</type>
+				<action>Auto</action>
+				<range>Self</range>
+				<duration>Always</duration>
+				<karma />
+				<bonus>
+					<specificattribute>
+						<name>INT</name>
+						<val>(INT + 1) * 0.5</val>
+						<affectbase />
+					</specificattribute>
+				</bonus>
+				<source>HS</source>
+				<page>170</page>
+			</power>
+			<power>
+				<id>a63cc706-26fc-4707-bccc-01896e97f01e</id>
+				<name>Attribute Enhancement (LOG)</name>
+				<category>Chimeric</category>
+				<type>P</type>
+				<action>Auto</action>
+				<range>Self</range>
+				<duration>Always</duration>
+				<karma />
+				<bonus>
+					<specificattribute>
+						<name>LOG</name>
+						<val>(LOG + 1) * 0.5</val>
+						<affectbase />
+					</specificattribute>
+				</bonus>
+				<source>HS</source>
+				<page>170</page>
+			</power>
+		-->
 		<power>
 			<id>9fcb6000-7b29-41b2-8377-571248b35434</id>
 			<name>Balance Tail</name>
