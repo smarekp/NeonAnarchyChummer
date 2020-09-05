@@ -29,7 +29,7 @@
 			<attribute>AGI</attribute>
 			<category>Combat Active</category>
 			<default>False</default>
-			<skillgroup />
+			<skillgroup>Hunting</skillgroup>
 			<specs>
 				<spec>Blowgun</spec>
 				<spec>Grapple Guns</spec>
