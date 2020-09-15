@@ -290,7 +290,7 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 
 ### Metatypes
 
-- All Metasapients except Sasquatch
+- All Metasapients except Centaur and Sasquatch
 
 ### Qualities
 
