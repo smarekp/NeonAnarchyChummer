@@ -4,8 +4,8 @@
 	You can learn more at
 	https://www.reddit.com/r/NeonAnarchy
 -->
-<chummer amendoperation="recurse">
-	<metatypes amendoperation="recurse">
+<chummer>
+	<metatypes>
 		<!--
 		<metatype xpathfilter="category='Metasapient' or category='Shapeshifter'" amendoperation="recurse">
 			<hide amendoperation="addnode" />
@@ -21,10 +21,6 @@
 		</metatype>
 		<metatype>
 			<name>Naga</name>
-			<hide />
-		</metatype>
-		<metatype>
-			<name>Centaur</name>
 			<hide />
 		</metatype>
 		<metatype>
