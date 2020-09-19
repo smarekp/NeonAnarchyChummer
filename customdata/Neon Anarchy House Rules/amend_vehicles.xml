@@ -68,6 +68,10 @@
 			<accel>4</accel>
 			<cost>8500</cost>
 		</vehicle>
+		<vehicle>
+			<name>Avibras-Nissan AN 822</name>
+			<accel>3</accel>
+		</vehicle>
 	</vehicles>
 	<mods>
 		<mod>
@@ -79,6 +83,16 @@
 		<mod>
 			<name>Off-Road Suspension</name>
 			<cost>4000</cost>
+		</mod>
+		<mod>
+			<name>Smuggling Compartment (Dwarf, Human, Elf, or Ork)</name>
+			<category>Body</category>
+			<slots>6</slots>
+		</mod>
+		<mod>
+			<name>Smuggling Compartment (Troll)</name>
+			<category>Body</category>
+			<slots>10</slots>
 		</mod>
 	</mods>
 	<weaponmounts>

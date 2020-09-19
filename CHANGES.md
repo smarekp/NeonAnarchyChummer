@@ -40,6 +40,7 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 
 - Special Modifications I
 - Special Modifications II
+- Purity Bonus (Adept)
 
 ### Skills
 
@@ -209,6 +210,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Cost: 50000```
 - Yamaha Kaburaya  
 ```Acceleration: 4; Cost: 8500```
+- Avibras-Nissan AN 822  
+```Acceleration: 3```
 
 ### Vehicle Mods
 
@@ -216,15 +219,19 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Availabilty: 8R; Cost: 1000; Slots: 2```
 - Off-Road Suspension  
 ```Cost: 4000```
+- Smuggling Compartment (Dwarf, Human, Elf, or Ork)  
+```Slots: 6; Category: Body```
+- Smuggling Compartment (Troll)  
+```Slots: 10; Category: Body```
 
 ### Weapons
 
 - Morrissey Alta  
 ```Availability: 7R```
 - Microwave Gun, High Frequency  
-```Cost: 20000; Allow top-mount accessories```
+```Cost: 20000; Uses Directed Energy skill; Allow top-mount accessories```
 - Microwave Gun, Low Frequency  
-```Cost: 0; Damage: 1S; Allow top-mount accessories```
+```Cost: 0; Damage: 1S; Uses Directed Energy skill; Allow top-mount accessories```
 - Renraku Red Samurai Katana  
 ```Availability: 24F; Cost: 30000```
 - Repeating Laser  
@@ -233,6 +240,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Damage: Missile```
 - Krime Calliope  
 ```Damage: Missile```
+- Underbarrel Bola Launcher  
+```Uses Exotic Ballistics skill; Has no specialization option```
 
 ## Hidden
 

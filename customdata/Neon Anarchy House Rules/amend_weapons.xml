@@ -11,23 +11,6 @@
 			<avail>7R</avail>
 		</weapon>
 		<weapon>
-			<name>Microwave Gun, High Frequency</name>
-			<cost>20000</cost>
-			<allowaccessory amendoperation="remove">False</allowaccessory>
-			<accessorymounts>
-				<mount>Top</mount>
-			</accessorymounts>
-		</weapon>
-		<weapon>
-			<name>Microwave Gun, Low Frequency</name>
-			<cost>0</cost>
-			<damage>1S</damage>
-			<allowaccessory amendoperation="remove">False</allowaccessory>
-			<accessorymounts>
-				<mount>Top</mount>
-			</accessorymounts>
-		</weapon>
-		<weapon>
 			<name>Renraku Red Samurai Katana</name>
 			<avail>24F</avail>
 			<cost>30000</cost>
@@ -43,6 +26,38 @@
 		<weapon>
 			<name>Krime Calliope</name>
 			<damage>Missile</damage>
+		</weapon>
+		<weapon>
+			<name>Underbarrel Bola Launcher</name>
+			<category>Underbarrel Weapons</category>
+			<useskill>Exotic Ballistic</useskill>
+			<useskillspec amendoperation="remove">Bola</useskillspec>
+		</weapon>
+		<weapon>
+			<name>Underbarrel Laser</name>
+			<useskill>Directed Energy</useskill>
+			<useskillspec>Laser Weapons</useskillspec>
+		</weapon>
+		<weapon>
+			<name>Microwave Gun, High Frequency</name>
+			<cost>20000</cost>
+			<allowaccessory amendoperation="remove">False</allowaccessory>
+			<accessorymounts>
+				<mount>Top</mount>
+			</accessorymounts>
+			<useskill>Directed Energy</useskill>
+			<useskillspec>Microwave Gun</useskillspec>
+		</weapon>
+		<weapon>
+			<name>Microwave Gun, Low Frequency</name>
+			<cost>0</cost>
+			<damage>1S</damage>
+			<allowaccessory amendoperation="remove">False</allowaccessory>
+			<accessorymounts>
+				<mount>Top</mount>
+			</accessorymounts>
+			<useskill>Directed Energy</useskill>
+			<useskillspec>Microwave Gun</useskillspec>
 		</weapon>
 	</weapons>
 </chummer>
