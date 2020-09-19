@@ -45,7 +45,7 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ### Skills
 
 - Directed Energy
-- Exotic Ballistic
+- Exotic Ballistics
 - Spray Weapons
 - Flexile Melee
 - Atypical Melee
@@ -54,7 +54,7 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ### Skill groups
 
 - Hunting  
-```Archery, Exotic Ballistics, Throwing Weapons```
+```Archery, Exotic Ballistic, Throwing Weapons```
 
 ### Weapons
 
