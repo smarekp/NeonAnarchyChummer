@@ -247,6 +247,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Damage: Missile```
 - Underbarrel Bola Launcher  
 ```Uses Exotic Ballistics skill; Has no specialization option```
+- Underbarrel Laser  
+```Uses Directed Energy skill```
 
 ## Hidden
 
