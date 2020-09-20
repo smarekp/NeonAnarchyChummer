@@ -14,5 +14,14 @@
 			<long>80</long>
 			<extreme>150</extreme>
 		</range>
+		<!-- WEAPON RECATEGORIZATION BRANCH -->
+		<range>
+			<name>Atomizer</name>
+			<min>0</min>
+			<short>3</short>
+			<medium>-1</medium>
+			<long>-1</long>
+			<extreme>-1</extreme>
+		</range>
 	</ranges>
 </chummer>

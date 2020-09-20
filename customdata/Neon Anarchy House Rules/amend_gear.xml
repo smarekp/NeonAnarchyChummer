@@ -94,5 +94,10 @@
 			<name>Arrow: Seeker Shaft</name>
 			<avail>12R</avail>
 		</gear>
+		<!-- WEAPON RECATEGORIZATION BRANCH -->
+		<gear>
+			<name>Atomizer</name>
+			<addweapon>Atomizer</addweapon>
+		</gear>
 	</gears>
 </chummer>

@@ -48,29 +48,29 @@
 			<spec>Aerodynamic</spec>
 			<useskill>Throwing Weapons</useskill>
 		</weapon>
-		<!--
+		<!-- WEAPON RECATEGORIZATION BRANCH -->
 		<weapon>
-			<id>3c2ae653-b153-4518-829c-bd8004ff2dbe</id>
-			<name>Electrocytes</name>
-			<category>Bio-Weapon</category>
-			<type>Melee</type>
+			<id>c6db6ddb-60a3-4fb7-b29e-f0997591e793</id>
+			<name>Atomizer</name>
+			<category>Gear</category>
+			<type>Ranged</type>
 			<conceal>0</conceal>
-			<accuracy>Physical</accuracy>
+			<accuracy>3</accuracy>
 			<reach>0</reach>
-			<damage>(BOD)S(e)</damage>
-			<ap>-6</ap>
-			<mode>0</mode>
+			<damage>Compound</damage>
+			<ap>-</ap>
+			<mode>SS</mode>
 			<rc>0</rc>
-			<ammo>0</ammo>
-			<avail>0</avail>
-			<cost>0</cost>
-			<source>HS</source>
-			<page>171</page>
+			<ammo>1(c)</ammo>
+			<ammoname>Atomizer Cartridge</ammoname>
+			<avail>4</avail>
+			<cost>500</cost>
+			<source>FA</source>
+			<page>193</page>
+			<range>Atomizer</range>
 			<allowaccessory>False</allowaccessory>
-			<hide />
-			<spec>Natural Weapons</spec>
-			<useskill>Unarmed Combat</useskill>
+			<useskill>Spray Weapons</useskill>
+			<useskillspec>Atomizer</useskillspec>
 		</weapon>
-		-->
 	</weapons>
 </chummer>

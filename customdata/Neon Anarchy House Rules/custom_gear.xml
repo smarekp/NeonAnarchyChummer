@@ -62,5 +62,16 @@
 			<avail>4F</avail>
 			<cost>250</cost>
 		</gear>
+		<!-- WEAPON RECATEGORIZATION BRANCH -->
+		<gear>
+			<id>35a827fc-7970-4261-8bc0-417ac7346818</id>
+			<name>Atomizer Cartridge</name>
+			<category>Alchemical Tools</category>
+			<rating>0</rating>
+			<source>FA</source>
+			<page>193</page>
+			<avail>4</avail>
+			<cost>5</cost>
+		</gear>
 	</gears>
 </chummer>

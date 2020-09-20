@@ -5,6 +5,9 @@
 	https://www.reddit.com/r/NeonAnarchy
 -->
 <chummer>
+	<categories amendoperation="append">
+		<category blackmarket="Weapons" type="flame" gunneryspec="Energy">Spray Weapons</category>
+	</categories>
 	<weapons>
 		<weapon>
 			<name>Morrissey Alta</name>
@@ -38,8 +41,10 @@
 			<useskill>Directed Energy</useskill>
 			<useskillspec>Laser Weapons</useskillspec>
 		</weapon>
+		<!-- WEAPON RECATEGORIZATION BRANCH -->
 		<weapon>
-			<name>Microwave Gun, High Frequency</name>
+			<id>21fb8d4f-5958-4fd9-996f-7e88ee0282c2</id>
+			<name>Microwave Gun</name>
 			<cost>20000</cost>
 			<allowaccessory amendoperation="remove">False</allowaccessory>
 			<accessorymounts>
@@ -47,9 +52,11 @@
 			</accessorymounts>
 			<useskill>Directed Energy</useskill>
 			<useskillspec>Microwave Gun</useskillspec>
+			<addweapon>Microwave Gun (Low Frequency)</addweapon>
 		</weapon>
 		<weapon>
-			<name>Microwave Gun, Low Frequency</name>
+			<id>10fb69db-efd0-4f63-80a7-bda5ef0480a4</id>
+			<name>Microwave Gun (Low Frequency)</name>
 			<cost>0</cost>
 			<damage>1S</damage>
 			<allowaccessory amendoperation="remove">False</allowaccessory>
@@ -58,6 +65,25 @@
 			</accessorymounts>
 			<useskill>Directed Energy</useskill>
 			<useskillspec>Microwave Gun</useskillspec>
+			<hide />
+		</weapon>
+		<weapon>
+			<name>Underbarrel Grapple Gun</name>
+			<avail>8R</avail>
+			<cost>600</cost>
+			<useskill>Exotic Ballistic</useskill>
+			<useskillspec>Grapple Guns</useskillspec>
+		</weapon>
+		<weapon>
+			<name>Underbarrel Grenade Launcher</name>
+			<avail>10F</avail>
+			<cost>3500</cost>
+		</weapon>
+		<weapon>
+			<name>Ares S-III Super Squirt</name>
+			<category>Spray Weapons</category>
+			<useskill>Spray Weapons</useskill>
+			<useskillspec>Ares S-III Super Squirt</useskillspec>
 		</weapon>
 	</weapons>
 </chummer>
