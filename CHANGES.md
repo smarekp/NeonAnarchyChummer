@@ -164,6 +164,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Removed Instruction skill```
 - Allergy  
 ```No longer grants karma```
+- Restricted Gear  
+```Now requires you to specify which item via text input```
 
 ### Skills
 
@@ -227,7 +229,7 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 - Smuggling Compartment (Dwarf, Human, Elf, or Ork)  
 ```Slots: 6; Category: Body```
 - Smuggling Compartment (Troll)  
-```Slots: 10; Category: Body```
+```Slots: 9; Category: Body```
 
 ### Weapons
 

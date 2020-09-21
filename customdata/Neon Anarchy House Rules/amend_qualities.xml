@@ -659,5 +659,12 @@
 			<name>Allergy (Common, Extreme)</name>
 			<karma>0</karma>
 		</quality>
+		<quality>
+			<name>Restricted Gear</name>
+			<bonus amendoperation="replace">
+				<selecttext />
+				<restrictedgear>24</restrictedgear>
+			</bonus>
+		</quality>
 	</qualities>
 </chummer>
