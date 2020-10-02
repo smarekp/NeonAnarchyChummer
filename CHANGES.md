@@ -30,6 +30,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Availability: 10F; Category: Jetpacks; Cost: 500; Units Per Cost: 20```
 - Vulcan Systems "Hot-Drop" Rapid-Egress Jetpack System  
 ```Availability: 16F; Category: Jetpacks; Cost: 40000```
+- Zone  
+```Availability: 6R; Cost: 100```
 
 ### Lifestyle Qualities
 
@@ -190,6 +192,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 
 - Flame Burst  
 ```Descriptor: Indirect, Elemental```
+- Growth  
+```Range: T```
 
 ### Vehicles
 
@@ -395,6 +399,7 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 - Turn To Goo
 - Rot
 - Spirit Pact
+- Petrify
 
 ### Traditions
 

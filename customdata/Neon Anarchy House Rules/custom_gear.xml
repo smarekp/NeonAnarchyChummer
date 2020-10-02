@@ -62,5 +62,15 @@
 			<avail>4F</avail>
 			<cost>250</cost>
 		</gear>
+		<gear>
+			<id>8e165c31-5da9-42ba-9913-3a7465a942c7</id>
+			<name>Zone</name>
+			<category>Drugs</category>
+			<rating>0</rating>
+			<source>CF</source>
+			<page>184</page>
+			<avail>6R</avail>
+			<cost>100</cost>
+		</gear>
 	</gears>
 </chummer>

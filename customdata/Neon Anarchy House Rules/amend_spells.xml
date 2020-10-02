@@ -42,5 +42,13 @@
 			<name>Spirit Pact</name>
 			<hide />
 		</spell>
+		<spell>
+			<name>Petrify</name>
+			<hide />
+		</spell>
+		<spell>
+			<name>Growth</name>
+			<range>T</range>
+		</spell>
 	</spells>
 </chummer>
