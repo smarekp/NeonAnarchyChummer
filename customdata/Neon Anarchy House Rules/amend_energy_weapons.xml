@@ -29,7 +29,7 @@
 		</weapon>
 		<weapon>
 			<name>Fichetti Pain Inducer</name>
-			<ammo>10 or External Source</ammo>
+			<ammo>10</ammo>
 			<ammoname>Ammo: Peak-Discharge Energy Units</ammoname>
 		</weapon>
 		<weapon>
@@ -80,22 +80,42 @@
 		<accessory>
 			<name>External Power Source</name>
 			<hide />
-			<!--
-				<required amendoperation="replace">
-					<weapondetails>
-						<OR>
-							<name>Ares Lancer MP Laser</name>
-							<name>Ares Redline</name>
-							<name>Ares Screech Sonic Rifle</name>
-							<name>Fichetti Pain Inducer</name>
-							<name>Microwave Gun</name>
-							<name>Narcojet PEP</name>
-							<name>Repeating Laser</name>
-							<name>Underbarrel Laser</name>
-						</OR>
-					</weapondetails>
-				</required>
-			-->
+		</accessory>
+		<accessory>
+			<name>Peak-Discharge Battery Pack, Power Clip</name>
+			<avail>12R</avail>
+			<ammoreplace>10 or External Source</ammoreplace>
+			<required>
+				<weapondetails>
+					<OR>
+						<ammo operation="contains">External Source</ammo>
+					</OR>
+				</weapondetails>
+			</required>
+		</accessory>
+		<accessory>
+			<name>Peak-Discharge Battery Pack, Satchel Power Pack</name>
+			<avail>14R</avail>
+			<ammoreplace>20 or External Source</ammoreplace>
+			<required>
+				<weapondetails>
+					<OR>
+						<ammo operation="contains">External Source</ammo>
+					</OR>
+				</weapondetails>
+			</required>
+		</accessory>
+		<accessory>
+			<name>Peak-Discharge Battery Pack, Power Backpack</name>
+			<avail>16R</avail>
+			<ammoreplace>30 or External Source</ammoreplace>
+			<required>
+				<weapondetails>
+					<OR>
+						<ammo operation="contains">External Source</ammo>
+					</OR>
+				</weapondetails>
+			</required>
 		</accessory>
 	</accessories>
 </chummer>

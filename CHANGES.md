@@ -65,6 +65,11 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 - Grenade: Painade, Aerodynamic  
 ```Cost: 100; Damage: 8S```
 
+### Weapon Mods
+
+- Peak-Discharge Battery Pack, Power Clip (Twin)  
+```Availabilty: 12R; Cost: 800; Ammo: 20 or External Source; Only for Ares Lancer MP Laser and Narcoject PEP```
+
 ## Altered
 
 ### Adept Powers
@@ -239,10 +244,10 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 
 - Morrissey Alta  
 ```Availability: 7R```
-- Microwave Gun, High Frequency  
-```Cost: 20000; Uses Directed Energy skill; Allow top-mount accessories```
 - Microwave Gun, Low Frequency  
-```Cost: 0; Damage: 1S; Uses Directed Energy skill; Allow top-mount accessories```
+```Name: Microwave Gun; Cost: 20000; Damage: 1S; Allow top-mount accessories```
+- Microwave Gun, High Frequency  
+```Name: Microwave Gun (High Frequency); Cost: 0; Underbarrel of Microwave Gun; Allow top-mount accessories```
 - Renraku Red Samurai Katana  
 ```Availability: 24F; Cost: 30000```
 - Repeating Laser  
@@ -251,10 +256,31 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Damage: Missile```
 - Krime Calliope  
 ```Damage: Missile```
-- Underbarrel Bola Launcher  
-```Uses Exotic Ballistics skill; Has no specialization option```
+- Ares Archon Heavy MP Laser  
+```Ammo: External Source; Singleshot: 4; Shortburst: 8```
+- Ares Lancer MP Laser  
+```Ammo: External Source; Singleshot: 2; Shortburst: 4```
+- Ares Redline  
+```Ammo: External Source```
+- Ares Screech Sonic Rifle  
+```Ammo: External Source```
+- Fichetti Pain Inducer  
+```Ammo: 10```
+- Narcoject PEP  
+```Ammo: External Source; Singleshot: 2```
+- Repeating Laser  
+```Ammo: External Source```
 - Underbarrel Laser  
-```Uses Directed Energy skill```
+```Ammo: 5(c) or External Source```
+
+### Weapon Mods
+
+- Peak-Discharge Battery Pack, Power Clip  
+```Availabilty: 12R; Ammo: 10 or External Source```
+-Peak-Discharge Battery Pack, Satchel Power Pack  
+```Availabilty: 14R; Ammo: 20 or External Source```
+- Peak-Discharge Battery Pack, Power Backpack  
+```Availabilty: 14R; Ammo: 30 or External Source```
 
 ## Hidden
 
@@ -411,3 +437,7 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ### Vehicles & Drones
 
 - Horizon Noizquito (Microdrone)
+
+### Weapon Mods
+
+- External Power Source

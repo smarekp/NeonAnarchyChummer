@@ -10,11 +10,11 @@
 			<id>6c0af59c-f2e5-45fd-b4d7-6afd7782fc3c</id>
 			<name>Peak-Discharge Battery Pack, Power Clip (Twin)</name>
 			<mount />
-			<avail>14F</avail>
+			<avail>12R</avail>
 			<cost>800</cost>
 			<source>RG</source>
 			<page>52</page>
-			<ammoreplace>20</ammoreplace>
+			<ammoreplace>20 or External Source</ammoreplace>
 			<ammoslots>1</ammoslots>
 			<rating>0</rating>
 			<required>
@@ -22,24 +22,6 @@
 					<OR>
 						<name>Ares Lancer MP Laser</name>
 						<name>Narcoject PEP</name>
-					</OR>
-				</weapondetails>
-			</required>
-		</accessory>
-		<accessory>
-			<id>7577828a-322c-4546-943e-0efc10ef9194</id>
-			<name>Fichetti Pain Inducer: Internal Battery</name>
-			<mount />
-			<avail>0</avail>
-			<cost>0</cost>
-			<source>SR5</source>
-			<page>430</page>
-			<ammoslots>1</ammoslots>
-			<rating>0</rating>
-			<required>
-				<weapondetails>
-					<OR>
-						<name>Fichetti Pain Inducer</name>
 					</OR>
 				</weapondetails>
 			</required>
