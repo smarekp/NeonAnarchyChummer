@@ -277,7 +277,7 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 
 - Peak-Discharge Battery Pack, Power Clip  
 ```Availabilty: 12R; Ammo: 10 or External Source```
--Peak-Discharge Battery Pack, Satchel Power Pack  
+- Peak-Discharge Battery Pack, Satchel Power Pack  
 ```Availabilty: 14R; Ammo: 20 or External Source```
 - Peak-Discharge Battery Pack, Power Backpack  
 ```Availabilty: 14R; Ammo: 30 or External Source```
