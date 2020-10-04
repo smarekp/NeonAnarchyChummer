@@ -17,8 +17,8 @@ If you're having trouble getting the dataset to work, feel free to ping `@Techni
 - Download the latest [Neon Anarchy Dataset](https://github.com/smarekp/NeonAnarchyChummer/releases) release.
 - Drag and drop the `customdata` and `settings` folders into Chummer's install directory.
 - Open Chummer, then click `Tools > Options` and select "Neon Anarchy Settings" in the top-left dropdown.
-- Open the `Optional Rules` tab and enable "Neon Anarchy House Rules", "Kill Code Optional Sprite Powers", "Rainforest Carbine Missions Errata", and "SR Missions Animal Prices".
-- Move "Neon Anarchy House Rules" to the bottom of the load order using the "Decrease Load Order" button. There is no need to otherwise change the load order.
+- Open the `Optional Rules` tab and enable "Kill Code Optional Sprite Powers", "Neon Anarchy House Rules", "Neon Anarchy Energy Weapon Standardization", "Rainforest Carbine Missions Errata", and "SR Missions Animal Prices".
+- Move "Neon Anarchy House Rules" and "Neon Anarchy Energy Weapon Standardization" to the bottom of the load order using the "Decrease Load Order" button. There is no need to otherwise change the load order.
 - Click the "Save" button and restart Chummer, then click `Tools > Options` and select "Neon Anarchy Settings" in the top-left dropdown.
 - Open the `Character Options` tab and enable the "Neon Anarchy" sourcebook.
 - Click the "Save" button and restart Chummer.
@@ -28,7 +28,8 @@ If you're having trouble getting the dataset to work, feel free to ping `@Techni
 
 - Download the latest [Neon Anarchy Dataset](https://github.com/smarekp/NeonAnarchyChummer/releases) release.
 - Drag and drop the `customdata` folder into Chummer's install directory.
-- Open Chummer and enable Neon Anarchy House Rules under `Tools > Options > Optional Rules`. There is no need to change the load order.
+- Open Chummer and enable "Neon Anarchy House Rules" and "Neon Anarchy Energy Weapon Standardization" under `Tools > Options > Optional Rules`.
+- Move "Neon Anarchy House Rules" and "Neon Anarchy Energy Weapon Standardization" to the bottom of the load order using the "Decrease Load Order" button. There is no need to otherwise change the load order.
 - Restart Chummer and enable the Neon Anarchy sourcebook under `Tools > Options > Character Options`.
 - Restart Chummer again and you're ready to go!
 
