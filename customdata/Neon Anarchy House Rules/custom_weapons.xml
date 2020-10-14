@@ -48,5 +48,80 @@
 			<spec>Aerodynamic</spec>
 			<useskill>Throwing Weapons</useskill>
 		</weapon>
+		<weapon>
+		  <id>68bde947-d5d3-4a63-908b-66f85ac2ee6d</id>
+		  <name>Single Shot Dart</name>
+		  <category>Gunnery</category>
+		  <type>Ranged</type>
+		  <conceal>0</conceal>
+		  <accuracy>5</accuracy>
+		  <reach>0</reach>
+		  <damage>As Drug/Toxin</damage>
+		  <ap>-</ap>
+		  <mode>SS</mode>
+		  <rc>5</rc>
+		  <ammo>1(b)</ammo>
+		  <avail>4R</avail>
+		  <cost>600</cost>
+		  <source>SR5</source>
+		  <page>430</page>
+		  <accessorymounts>
+			<mount>Top</mount>
+			<mount>Stock</mount>
+			<mount>Side</mount>
+		  </accessorymounts>
+		  <range>Heavy Pistols</range>
+		  <sizecategory>Heavy Pistols</sizecategory>
+		  <useskill>Gunnery</useskill>
+		</weapon>
+		<weapon>
+		  <id>68bde947-d5d3-4a63-908b-66f85ac2ee6d</id>
+		  <name>Single Shot Bullet</name>
+		  <category>Gunnery</category>
+		  <type>Ranged</type>
+		  <conceal>0</conceal>
+		  <accuracy>4</accuracy>
+		  <reach>0</reach>
+		  <damage>6P</damage>
+		  <ap>-</ap>
+		  <mode>SS</mode>
+		  <rc>5</rc>
+		  <ammo>1(b)</ammo>
+		  <avail>4R</avail>
+		  <cost>325</cost>
+		  <source>CA</source>
+		  <page>134</page>
+		  <accessorymounts>
+			<mount>Top</mount>
+			<mount>Stock</mount>
+			<mount>Side</mount>
+		  </accessorymounts>
+		  <range>Heavy Pistols</range>
+		  <sizecategory>Heavy Pistols</sizecategory>
+		  <useskill>Gunnery</useskill>
+		</weapon>
+		<!-- <weapon>
+			<id>157bb60c-e0cf-4c6c-8bbe-21bdcc422bfa</id>
+			<name>Medusa Bite</name>
+			<category>Blades</category>
+			<type>Melee</type>
+			<conceal>0</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>Toxin</damage>
+			<ap>-</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<allowgear>
+				<gearcategory>Drugs</gearcategory>
+				<gearcategory>Toxins</gearcategory>
+			</allowgear>
+			<avail>0</avail>
+			<cost>0</cost>
+			<source>CA</source>
+			<page>147</page>
+			<hide />
+		</weapon> -->
 	</weapons>
 </chummer>

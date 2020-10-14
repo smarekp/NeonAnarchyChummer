@@ -72,6 +72,22 @@
 			<name>Avibras-Nissan AN 822</name>
 			<accel>3</accel>
 		</vehicle>
+		<!-- <vehicle>
+			<name>Medusa Extensions (Mini)</name>
+			<weaponmounts>
+				<weaponmount>
+					<control>Remote</control>
+					<flexibility>Fixed</flexibility>
+					<size>Built-In</size>
+					<visibility>Concealed</visibility>
+				</weaponmount>
+			</weaponmounts>
+			<weapons>
+				<weapon>
+					<name>Medusa Bite</name>
+				</weapon>
+			</weapons>
+		</vehicle> -->
 	</vehicles>
 	<mods>
 		<mod>
