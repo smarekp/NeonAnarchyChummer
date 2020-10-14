@@ -50,7 +50,7 @@
 		</weapon>
 		<weapon>
 		  <id>68bde947-d5d3-4a63-908b-66f85ac2ee6d</id>
-		  <name>Single Shot Dart</name>
+		  <name>Single Shot Dart (Medusa)</name>
 		  <category>Gunnery</category>
 		  <type>Ranged</type>
 		  <conceal>0</conceal>
@@ -76,7 +76,7 @@
 		</weapon>
 		<weapon>
 		  <id>68bde947-d5d3-4a63-908b-66f85ac2ee6d</id>
-		  <name>Single Shot Bullet</name>
+		  <name>Single Shot Bullet (Medusa)</name>
 		  <category>Gunnery</category>
 		  <type>Ranged</type>
 		  <conceal>0</conceal>
