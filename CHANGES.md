@@ -128,6 +128,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Dwarves and their metavariants no longer pay increased lifestyle costs```
 - Troll  
 ```Trolls and their metavariants no longer pay increased lifestyle costs```
+- Centaur  
+```Improved land movement from x1/x4/+4 to x4/x8/+4```
 
 ### Qualities
 
