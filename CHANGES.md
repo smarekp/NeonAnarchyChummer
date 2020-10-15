@@ -113,6 +113,10 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 - Arrow: Seeker Shaft  
 ```Availability: 12R```
 
+### Licenses
+
+- Suggested licenses as per our [Gear Guide](https://docs.google.com/document/d/1SRWEFD9El2XmqNsA4LNNwlVWGgnHm93ebu6SkYuWkG0/edit?usp=sharing)
+
 ### Martial Arts
 
 - Capoeira  
