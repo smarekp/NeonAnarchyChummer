@@ -89,5 +89,11 @@
 				</metavariant>
 			</metavariants>
 		</metatype>
+		<metatype>
+			<name>Centaur</name>
+			<walk>4/1/0</walk>
+			<run>8/0/0</run>
+			<sprint>4/1/0</sprint>
+		</metatype>
 	</metatypes>
 </chummer>
