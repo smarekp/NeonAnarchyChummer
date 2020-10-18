@@ -72,7 +72,7 @@
 			<name>Avibras-Nissan AN 822</name>
 			<accel>3</accel>
 		</vehicle>
-		<!-- <vehicle>
+		<vehicle>
 			<name>Medusa Extensions (Mini)</name>
 			<weaponmounts>
 				<weaponmount>
@@ -83,11 +83,11 @@
 				</weaponmount>
 			</weaponmounts>
 			<weapons>
-				<weapon>
+				<weapon xpathfilter="">
 					<name>Medusa Bite</name>
 				</weapon>
 			</weapons>
-		</vehicle> -->
+		</vehicle>
 	</vehicles>
 	<mods>
 		<mod>
