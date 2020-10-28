@@ -94,5 +94,9 @@
 			<name>Arrow: Seeker Shaft</name>
 			<avail>12R</avail>
 		</gear>
+		<gear>
+			<name>Grenade-Cam</name>
+			<cost>Rating * 150</cost>
+		</gear>
 	</gears>
 </chummer>

@@ -95,6 +95,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Essence: 0```
 - Skilljack  
 ```Cost: Rating * 1000```
+- Dynamic Handprints  
+```Cost: Rating * 2100```
 
 ### Gear
 
@@ -112,6 +114,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Availibilty: 12F```
 - Arrow: Seeker Shaft  
 ```Availability: 12R```
+- Grenade-Cam  
+```Cost: Rating * 150```
 
 ### Licenses
 
@@ -125,6 +129,11 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Added Grasping Vines technique```
 - Whip Fighting  
 ```Added Grasping Vines technique```
+
+### Mentor Spirits
+
+- Goddess
+- Spider (Alt)
 
 ### Metatypes
 

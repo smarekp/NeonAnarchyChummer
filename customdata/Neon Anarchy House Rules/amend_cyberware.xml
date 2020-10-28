@@ -28,5 +28,9 @@
 			<name>Skilljack</name>
 			<cost>Rating * 1000</cost>
 		</cyberware>
+		<cyberware>
+			<name>Dynamic Handprints</name>
+			<cost>2100 * Rating</cost>
+		</cyberware>
 	</cyberwares>
 </chummer>
