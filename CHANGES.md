@@ -64,6 +64,10 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Cost: 100; Damage: 8S```
 - Grenade: Painade, Aerodynamic  
 ```Cost: 100; Damage: 8S```
+- Single-shot Dart  
+```Category: Micro-Drone Weapons```
+-Single-shot Bullet  
+```Category: Micro-Drone Weapons```
 
 ### Weapon Mods
 
@@ -132,8 +136,10 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 
 ### Mentor Spirits
 
-- Goddess
-- Spider (Alt)
+- Goddess  
+```Advantage (All): +2 dice pool modifier for Leadership Tests.```
+- Spider (Alt)  
+```Choice (Adept): Gain 1 free level of Hang Time and Spirit Claw (although in this case, Spirit Claw manifests as a fang).```
 
 ### Metatypes
 
@@ -243,6 +249,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Acceleration: 4; Cost: 8500```
 - Avibras-Nissan AN 822  
 ```Acceleration: 3```
+- Medusa Extensions  
+```Now comes with "Medusa Bite" weapon for delivering toxins```
 
 ### Vehicle Mods
 
