@@ -17,7 +17,8 @@ If you're having trouble getting the dataset to work, feel free to ping `@Techni
 - Download the latest [Neon Anarchy Dataset](https://github.com/smarekp/NeonAnarchyChummer/releases) release.
 - Drag and drop the `customdata` and `settings` folders into Chummer's install directory.
 - Open Chummer, then click `Tools > Options` and select "Neon Anarchy Settings" in the top-left dropdown.
-- Open the `Optional Rules` tab and enable "Kill Code Optional Sprite Powers", "Neon Anarchy House Rules", "Neon Anarchy Energy Weapon Standardization", "Rainforest Carbine Missions Errata", and "SR Missions Animal Prices".
+- Open the `Optional Rules` tab and enable "Kill Code Optional Sprite Powers", "Neon Anarchy House Rules", "Rainforest Carbine Missions Errata", and "SR Missions Animal Prices".
+- If you're using Chummer [Nightly v5.212.161](https://github.com/chummer5a/chummer5a/releases/tag/Nightly-v5.212.161) or later, enable "Neon Anarchy Energy Weapon Standardization" in the `Optional Rules` tab.
 - Move "Neon Anarchy House Rules" and "Neon Anarchy Energy Weapon Standardization" to the bottom of the load order using the "Decrease Load Order" button. There is no need to otherwise change the load order.
 - Click the "Save" button and restart Chummer, then click `Tools > Options` and select "Neon Anarchy Settings" in the top-left dropdown.
 - Open the `Character Options` tab and enable the "Neon Anarchy" sourcebook.
@@ -28,7 +29,8 @@ If you're having trouble getting the dataset to work, feel free to ping `@Techni
 
 - Download the latest [Neon Anarchy Dataset](https://github.com/smarekp/NeonAnarchyChummer/releases) release.
 - Drag and drop the `customdata` folder into Chummer's install directory.
-- Open Chummer and enable "Neon Anarchy House Rules" and "Neon Anarchy Energy Weapon Standardization" under `Tools > Options > Optional Rules`.
+- Open Chummer and enable "Neon Anarchy House Rules" under `Tools > Options > Optional Rules`.
+- If you're using Chummer [Nightly v5.212.161](https://github.com/chummer5a/chummer5a/releases/tag/Nightly-v5.212.161) or later, enable "Neon Anarchy Energy Weapon Standardization" in the `Optional Rules` tab.
 - Move "Neon Anarchy House Rules" and "Neon Anarchy Energy Weapon Standardization" to the bottom of the load order using the "Decrease Load Order" button. There is no need to otherwise change the load order.
 - Restart Chummer and enable the Neon Anarchy sourcebook under `Tools > Options > Character Options`.
 - Restart Chummer again and you're ready to go!
