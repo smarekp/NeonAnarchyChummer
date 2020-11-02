@@ -194,6 +194,8 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```No longer grants karma```
 - Restricted Gear  
 ```Now requires you to specify which item via text input```
+- Cyber-snob  
+```Can use alphaware, greyware, or better```
 
 ### Skills
 
