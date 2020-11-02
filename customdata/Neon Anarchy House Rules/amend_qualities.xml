@@ -681,7 +681,7 @@
 			</bonus>
 			<required amendoperation="replace">
 				<oneof>
-					<ess grade="Alphaware,Betaware,Deltaware,Gammaware,Greyware">1</ess>
+					<ess grade="Alphaware,Betaware,Deltaware,Greyware">1</ess>
 				</oneof>
 			</required>
 		</quality>
