@@ -9,7 +9,7 @@
 		<martialart>
 			<name>Capoeira</name>
 			<techniques>
-				<technique>
+				<technique amendoperation="addnode">
 					<name>Defiant Dance</name>
 				</technique>
 			</techniques>
@@ -17,7 +17,7 @@
 		<martialart>
 			<name>The Cowboy Way</name>
 			<techniques>
-				<technique>
+				<technique amendoperation="addnode">
 					<name>Grasping Vines</name>
 				</technique>
 			</techniques>
@@ -25,7 +25,7 @@
 		<martialart>
 			<name>Whip Fighting</name>
 			<techniques>
-				<technique>
+				<technique amendoperation="addnode">
 					<name>Grasping Vines</name>
 				</technique>
 			</techniques>
