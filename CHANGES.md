@@ -66,7 +66,7 @@ Last updated 2020-07-22 at 4:57 AM UTC.
 ```Cost: 100; Damage: 8S```
 - Single-shot Dart  
 ```Category: Micro-Drone Weapons```
--Single-shot Bullet  
+- Single-shot Bullet  
 ```Category: Micro-Drone Weapons```
 
 ### Weapon Mods
