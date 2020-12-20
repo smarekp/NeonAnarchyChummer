@@ -20,20 +20,21 @@
 <chummer>
   <metamagics>
     <metamagic>
-      <name>Anchoring</name>
-      <hide />
-    </metamagic>
-    <metamagic>
-      <name>Quickening</name>
-      <hide />
-    </metamagic>
-    <metamagic>
-      <name>Power Point</name>
-      <forbidden amendoperation="addnode">
+      <id>68785c2f-b1cc-4256-be16-8f774999475a</id>
+      <name>Power Point (Purity)</name>
+      <adept>True</adept>
+      <magician>False</magician>
+      <limit>False</limit>
+      <bonus>
+        <adeptpowerpoints>1.5</adeptpowerpoints>
+      </bonus>
+      <required>
         <oneof>
           <quality>Purity Bonus (Adept)</quality>
         </oneof>
-      </forbidden>
+      </required>
+      <source>SR5</source>
+      <page>326</page>
     </metamagic>
   </metamagics>
   <!--
