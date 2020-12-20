@@ -24,6 +24,13 @@
 			<hide />
 		</metatype>
 		<metatype>
+			<name>Sasquatch</name>
+			<bonus>
+				<lifestylecost amendoperation="remove">
+                </lifestylecost>
+			</bonus>
+		</metatype>
+		<metatype>
 			<name>Dwarf</name>
 			<bonus>
 				<lifestylecost />
