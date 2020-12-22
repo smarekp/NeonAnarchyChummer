@@ -102,5 +102,12 @@
 			<run>8/0/0</run>
 			<sprint>4/1/0</sprint>
 		</metatype>
+		<metatype amendoperation="addnode">
+			<!--
+			DUMMY! Do not use! For contacts only!
+			-->
+			<name>Free Spirit</name>
+			<hide />
+		</metatype>
 	</metatypes>
 </chummer>
