@@ -255,6 +255,8 @@ Last updated 2020-12-20 at 7:28 AM UTC.
 ```Acceleration: 3```
 - Medusa Extensions  
 ```Now comes with "Medusa Bite" weapon for delivering toxins```
+- Dodge Minotaur 
+```Availability: 16F```
 
 ### Vehicle Mods
 
@@ -322,7 +324,9 @@ Last updated 2020-12-20 at 7:28 AM UTC.
 ### Bioware Grades
 
 - Gammaware
+- Gammaware (Adapsin)
 - Omegaware
+- Omegaware (Adapsin)
 
 ### Bioware
 
