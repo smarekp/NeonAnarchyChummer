@@ -11,11 +11,12 @@
 			<name>Fab Sensor Feedstock</name>
 			<category>Contracts</category>
 			<lp>0</lp>
-			<allowed />
+			<allowed>Street,Squatter,Low,Medium,High,Luxury</allowed>
 			<allowmultiple />
 			<cost>50</cost>
 			<source>HT</source>
 			<page>195</page>
+			<hide />
 		</quality>
 	</qualities>
 </chummer>
