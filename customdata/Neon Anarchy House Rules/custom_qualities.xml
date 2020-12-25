@@ -51,7 +51,7 @@
 			<category>Positive</category>
 			<limit>False</limit>
 			<bonus>
-				<adeptpowerpoints>{MAG}*0.5</adeptpowerpoints>
+				<adeptpowerpoints>MAG*0.5</adeptpowerpoints>
 			</bonus>
 			<required>
 				<allof>
