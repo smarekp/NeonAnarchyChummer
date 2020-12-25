@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This file is part a series of data files created for r/NeonAnarchy.
+
+	You can learn more at
+	https://www.reddit.com/r/NeonAnarchy
+-->
+<chummer>
+	<gears>
+		<gear>
+			<!-- GOOD -->
+			<id>dda8e1b0-46db-11eb-b378-0242ac130002</id>
+			<name>Biofiber Pocket Upkeep (1 Month Advance Payment)</name>
+			<category>Contracts/Upkeep</category>
+			<rating>0</rating>
+			<source>HT</source>
+			<page>185</page>
+			<avail>0</avail>
+			<cost>20</cost>
+		</gear>
+		<gear>
+			<!-- GOOD -->
+			<id>92dd0818-46dc-11eb-b378-0242ac130002</id>
+			<name>Bi-polar Medication (1 Month Advance Payment)</name>
+			<category>Contracts/Upkeep</category>
+			<rating>0</rating>
+			<source>RF</source>
+			<page>153</page>
+			<avail>0</avail>
+			<cost>500</cost>
+		</gear>
+		<gear>
+			<!-- GOOD -->
+			<id>9b5d94d0-46dc-11eb-b378-0242ac130002</id>
+			<name>Bi-polar Medication (Street, Daily Dose)</name>
+			<category>Contracts/Upkeep</category>
+			<rating>0</rating>
+			<source>RF</source>
+			<page>153</page>
+			<avail>0</avail>
+			<cost>100</cost>
+		</gear>
+	</gears>
+</chummer>
