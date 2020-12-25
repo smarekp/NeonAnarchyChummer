@@ -88,6 +88,10 @@
 				</weapon>
 			</weapons>
 		</vehicle>
+		<vehicle>
+			<name>Dodge Minotaur</name>
+			<avail>16R</avail>
+		</vehicle>
 	</vehicles>
 	<mods>
 		<mod>

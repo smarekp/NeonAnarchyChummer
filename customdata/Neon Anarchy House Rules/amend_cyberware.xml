@@ -14,6 +14,14 @@
 			<name>Omegaware</name>
 			<hide />
 		</grade>
+		<grade>
+			<name>Gammaware (Adapsin)</name>
+			<hide />
+		</grade>
+		<grade>
+			<name>Omegaware (Adapsin)</name>
+			<hide />
+		</grade>
 	</grades>
 	<cyberwares>
 		<cyberware>
