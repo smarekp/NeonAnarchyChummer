@@ -182,16 +182,6 @@
 			<name>Massive Network</name>
 			<hide />
 		</quality>
-		<!--
-		<quality>
-			<name>Mentor Spirit</name>
-			<hide />
-		</quality>
-		-->
-		<quality>
-			<name>Mystic Foreman</name>
-			<hide />
-		</quality>
 		<quality>
 			<name>One of Them</name>
 			<hide />
@@ -351,16 +341,6 @@
 						<val>4</val>
 						<type>Knowledge</type>
 					</skill>
-					<!--
-					<skill>
-						<name>Industrial Mechanic</name>
-						<val>4</val>
-					</skill>
-					<skill>
-						<name>Chemistry</name>
-						<val>4</val>
-					</skill>
-					-->
 				</allof>
 				<oneof>
 					<skill>
@@ -374,6 +354,7 @@
 					</skill>
 				</oneof>
 			</required>
+			<hide />
 		</quality>
 		<quality>
 			<name>Potion Maker</name>
@@ -392,12 +373,6 @@
 						<val>4</val>
 						<type>Knowledge</type>
 					</skill>
-					<!--
-					<skill>
-						<name>Chemistry</name>
-						<val>4</val>
-					</skill>
-					-->
 				</allof>
 			</required>
 		</quality>

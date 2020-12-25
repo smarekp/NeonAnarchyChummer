@@ -49,9 +49,9 @@
 			<name>Purity Bonus (Adept)</name>
 			<karma>0</karma>
 			<category>Positive</category>
-			<limit>1</limit>
+			<limit>False</limit>
 			<bonus>
-				<adeptpowerpoints>MAG*0.5</adeptpowerpoints>
+				<adeptpowerpoints>{MAG}*0.5</adeptpowerpoints>
 			</bonus>
 			<required>
 				<allof>
@@ -66,33 +66,7 @@
 			</forbidden>
 			<source>NA</source>
 			<page>15</page>
-			<notes>Chummer does not automatically update the power point bonus. If you ever increase your magic rating, you must remove and then re-add this quality to get your extra PP.</notes>
+			<notes>If ever your Magic rating changes, you must remove and re-add this quality to ensure your power points are properly calculated.</notes>
 		</quality>
-		<!--
-			<quality>
-				<id>69eda945-92db-479d-aa07-28755d579f70</id>
-				<name>Purity Bonus (Mystic Adept)</name>
-				<karma>0</karma>
-				<category>Positive</category>
-				<limit>1</limit>
-				<bonus>
-					<adeptpowerpoints>MAGAdept*0.5</adeptpowerpoints>
-				</bonus>
-				<required>
-					<allof>
-						<ess>6</ess>
-						<quality>Mystic Adept</quality>
-					</allof>
-				</required>
-				<forbidden>
-					<oneof>
-						<quality>Prototype Transhuman</quality>
-					</oneof>
-				</forbidden>
-				<source>NA</source>
-				<page>15</page>
-				<notes>Chummer cannot have fractional increases to adept power points. If your Magic (Adept) score is uneven, you're owed an extra 0.50 power points!</notes>
-			</quality>
-		-->
 	</qualities>
 </chummer>
