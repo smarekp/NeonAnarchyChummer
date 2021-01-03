@@ -42,8 +42,10 @@ Last updated 2020-12-20 at 7:28 AM UTC.
 
 ### Lifestyle Qualities
 
-- Fab Sensor Feedstock  
-```Cost: 50```
+- SINner (National)
+- SINner (Criminal)
+- SINner (Corporate)
+- SINner (Corporate Limited)
 
 ### Qualities
 
