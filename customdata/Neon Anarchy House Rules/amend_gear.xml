@@ -98,5 +98,9 @@
 			<name>Grenade-Cam</name>
 			<cost>Rating * 150</cost>
 		</gear>
+		<gear>
+			<name>Fab Sensor Upkeep (1 Month Advance Payment)</name>
+			<category>Contracts/Upkeep</category>
+		</gear>
 	</gears>
 </chummer>
