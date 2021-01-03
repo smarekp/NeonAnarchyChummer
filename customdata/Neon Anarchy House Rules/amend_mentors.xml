@@ -43,5 +43,50 @@
 				</choice>
 			</choices>
 		</mentor>
+		<mentor>
+			<name>Wise Warrior</name>
+			<advantage>All: +2 to dice to Leadership skill tests or Composure tests (choose one).</advantage>
+			<choices amendoperation="replace">
+				<choice>
+					<name>+2 dice for Leadership skill tests</name>
+					<bonus>
+						<specificskill>
+							<name>Leadership</name>
+							<bonus>2</bonus>
+						</specificskill>
+					</bonus>
+				</choice>
+				<choice>
+					<name>+2 dice for Composure tests</name>
+					<bonus>
+						<composure>2</composure>
+					</bonus>
+				</choice>
+				<choice set="2">
+					<name>Magician: +2 dice for Combat spells</name>
+					<bonus>
+						<spellcategory>
+							<name>Combat</name>
+							<val>2</val>
+						</spellcategory>
+					</bonus>
+				</choice>
+				<choice set="2">
+					<name>Adept: 1 free level of Improved Ability on a Combat skill</name>
+					<bonus>
+						<specificpower>
+							<name>Improved Ability (skill)</name>
+							<val>1</val>
+							<bonusoverride>
+								<selectskill skillcategory="Combat Active" minimumrating="1">
+									<val>Rating</val>
+									<!-- Hero Lab says this is not RAW <applytorating>True</applytorating> -->
+								</selectskill>
+							</bonusoverride>
+						</specificpower>
+					</bonus>
+				</choice>
+			</choices>
+		</mentor>
 	</mentors>
 </chummer>

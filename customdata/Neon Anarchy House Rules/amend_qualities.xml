@@ -660,5 +660,18 @@
 				</oneof>
 			</required>
 		</quality>
+		<quality>
+			<name>Superhuman Psychosis</name>
+			<bonus>
+				<specificskill amendoperation="addnode">
+					<name>Atypical Melee</name>
+					<bonus>1</bonus>
+				</specificskill>			
+				<specificskill amendoperation="addnode">
+					<name>Flexile Melee</name>
+					<bonus>1</bonus>
+				</specificskill>
+			</bonus>
+		</quality>
 	</qualities>
 </chummer>

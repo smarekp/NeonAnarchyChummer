@@ -73,6 +73,36 @@
 			<cost>100</cost>
 		</gear>
 		<gear>
+			<id>dda8e1b0-46db-11eb-b378-0242ac130002</id>
+			<name>Biofiber Pocket Upkeep (1 Month Advance Payment)</name>
+			<category>Contracts/Upkeep</category>
+			<rating>0</rating>
+			<source>HT</source>
+			<page>185</page>
+			<avail>0</avail>
+			<cost>20</cost>
+		</gear>
+		<gear>
+			<id>92dd0818-46dc-11eb-b378-0242ac130002</id>
+			<name>Bi-polar Medication (1 Month Advance Payment)</name>
+			<category>Contracts/Upkeep</category>
+			<rating>0</rating>
+			<source>RF</source>
+			<page>153</page>
+			<avail>0</avail>
+			<cost>500</cost>
+		</gear>
+		<gear>
+			<id>9b5d94d0-46dc-11eb-b378-0242ac130002</id>
+			<name>Bi-polar Medication (Street, Daily Dose)</name>
+			<category>Contracts/Upkeep</category>
+			<rating>0</rating>
+			<source>RF</source>
+			<page>153</page>
+			<avail>0</avail>
+			<cost>100</cost>
+    </gear>
+    <gear>
 			<id>637017c2-eeb0-41eb-92a5-6b662fed3061</id>
 			<name>All Common Programs</name>
 			<category>Common Programs</category>

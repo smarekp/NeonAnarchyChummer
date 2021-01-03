@@ -55,13 +55,19 @@
 			</bonus>
 			<required>
 				<allof>
-					<ess>6</ess>
 					<quality>Adept</quality>
 				</allof>
 			</required>
 			<forbidden>
 				<oneof>
 					<quality>Prototype Transhuman</quality>
+					<ess grade="Used">0.0001</ess>
+					<ess grade="Standard">0.0001</ess>
+					<ess grade="Alphaware">0.0001</ess>
+					<ess grade="Betaware">0.0001</ess>
+					<ess grade="Deltaware">0.0001</ess>
+					<ess grade="Gammaware">0.0001</ess>
+					<ess grade="Omegaware">0.0001</ess>
 				</oneof>
 			</forbidden>
 			<source>NA</source>

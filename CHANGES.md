@@ -36,6 +36,9 @@ Last updated 2020-12-20 at 7:28 AM UTC.
 ```Availability: 16F; Category: Jetpacks; Cost: 40000```
 - Zone  
 ```Availability: 6R; Cost: 100```
+- Biofiber Pocket Upkeep (1 Month Advance Payment)
+- Bi-polar Medication (1 Month Advance Payment)
+- Bi-polar Medication (Street, Daily Dose)
 
 ### Lifestyle Qualities
 
@@ -124,6 +127,8 @@ Last updated 2020-12-20 at 7:28 AM UTC.
 ```Availability: 12R```
 - Grenade-Cam  
 ```Cost: Rating * 150```
+- Fab Sensor Upkeep (1 Month Advance Payment)  
+``` Moved to Contracts/Upkeep category```
 
 ### Licenses
 
@@ -202,6 +207,8 @@ Last updated 2020-12-20 at 7:28 AM UTC.
 ```Now requires you to specify which item via text input```
 - Cyber-snob  
 ```Can use alphaware, greyware, or better```
+- Superhuman Psychosis  
+```Now applies to Atypical Melee and Flexile Melee too```
 
 ### Skills
 
