@@ -312,6 +312,10 @@ Last updated 2020-12-20 at 7:28 AM UTC.
 ```Ammo: External Source```
 - Underbarrel Laser  
 ```Ammo: 5(c) or External Source```
+- Stoner-Ares M-22A1  
+```Uses Medium/Heavy Machinegun ranges```
+- Krime Monster  
+```Uses Medium/Heavy Machinegun ranges; Uses Machine Guns specialization```
 
 ### Weapon Mods
 
