@@ -151,6 +151,8 @@ Last updated 2021-01-03 at 2:21 UTC.
 ```Advantage (All): +2 dice pool modifier for Leadership Tests.```
 - Spider (Alt)  
 ```Choice (Adept): Gain 1 free level of Hang Time and Spirit Claw (although in this case, Spirit Claw manifests as a fang).```
+- Wise Warrior  
+```All: +2 to dice to Leadership or Etiquette skill tests (choose one).```
 
 ### Metatypes
 
