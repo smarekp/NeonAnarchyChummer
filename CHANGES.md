@@ -20,6 +20,10 @@ Last updated 2020-12-20 at 7:28 AM UTC.
 
 ### Gear
 
+- All Common Programs  
+```Availability: 0; Category: Common Programs; Cost: 800```
+- All Hacking Programs
+```Availability: 4R; Category: Hacking Programs; Cost: 8000; Does not include Cry Wolf```
 - Cry Wolf  
 ```Availability: 4F; Category: Hacking Programs; Cost: 250```
 - Grenade: Painade  
