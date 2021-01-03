@@ -45,7 +45,7 @@
 		</mentor>
 		<mentor>
 			<name>Wise Warrior</name>
-			<advantage>All: +2 to dice to Leadership skill tests or Composure tests (choose one).</advantage>
+			<advantage>All: +2 to dice to Leadership or Etiquette skill tests (choose one).</advantage>
 			<choices amendoperation="replace">
 				<choice>
 					<name>+2 dice for Leadership skill tests</name>
@@ -57,9 +57,12 @@
 					</bonus>
 				</choice>
 				<choice>
-					<name>+2 dice for Composure tests</name>
+					<name>+2 dice for Etiquette skill tests</name>
 					<bonus>
-						<composure>2</composure>
+						<specificskill>
+							<name>Etiquette</name>
+							<bonus>2</bonus>
+						</specificskill>
 					</bonus>
 				</choice>
 				<choice set="2">
