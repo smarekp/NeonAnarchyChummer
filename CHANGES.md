@@ -1,6 +1,6 @@
 # Changelist
 
-Last updated 2021-01-03 at 2:20 UTC.
+Last updated 2021-01-03 at 2:21 UTC.
 
 ## Added
 
@@ -22,7 +22,7 @@ Last updated 2021-01-03 at 2:20 UTC.
 
 - All Common Programs  
 ```Availability: 0; Category: Common Programs; Cost: 800```
-- All Hacking Programs
+- All Hacking Programs  
 ```Availability: 4R; Category: Hacking Programs; Cost: 8000; Does not include Cry Wolf```
 - Cry Wolf  
 ```Availability: 4F; Category: Hacking Programs; Cost: 250```
