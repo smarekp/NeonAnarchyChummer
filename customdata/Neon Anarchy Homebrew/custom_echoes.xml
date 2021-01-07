@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This file is part a series of data files created for r/NeonAnarchy.
+
+	You can learn more at
+	https://www.reddit.com/r/NeonAnarchy
+-->
+<chummer>
+	<echoes>
+		<echo amendoperation="addnode">
+			<id>bcd917bc-a01d-44c6-8989-77b2fda37ccd</id>
+			<name>Digital Instinct</name>
+			<source>NA</source>
+			<page>1</page>
+			<bonus>
+				<specificattribute>
+					<name>INT</name>
+					<val>1</val>
+				</specificattribute>
+			</bonus>
+			<limit>3</limit>
+		</echo>
+		<echo amendoperation="addnode">
+			<id>b19b2229-a3c6-459a-b042-1b7d8fdabb3e</id>
+			<name>CASIE</name>
+			<source>NA</source>
+			<page>1</page>
+			<bonus>
+				<specificattribute>
+					<name>CHA</name>
+					<val>1</val>
+				</specificattribute>
+			</bonus>
+			<limit>3</limit>
+		</echo>
+	</echoes>
+</chummer>

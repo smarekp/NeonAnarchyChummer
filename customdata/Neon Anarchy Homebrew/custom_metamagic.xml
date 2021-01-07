@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This file is part a series of data files created for r/NeonAnarchy.
+
+	You can learn more at
+	https://www.reddit.com/r/NeonAnarchy
+-->
+<chummer>
+	<!--
+	<metamagics>
+		<metamagic>
+			<id>fb0d4dca-e6b9-4fa2-9c28-5ad981d050a8</id>
+			<name>Astral Bulwark</name>
+			<adept>False</adept>
+			<magician>True</magician>
+			<limit>False</limit>
+			<source>NA</source>
+			<page>26</page>
+		</metamagic>
+	</metamagics>
+	<arts>
+		<art>
+			<name>Blood Magic</name>
+			<hide />
+		</art>
+	</arts>
+	-->
+</chummer>

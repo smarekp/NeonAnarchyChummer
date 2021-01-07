@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This file is part a series of data files created for r/NeonAnarchy.
+
+	You can learn more at
+	https://www.reddit.com/r/NeonAnarchy
+-->
+<chummer>
+	<mods>
+		<mod>
+			<id>204da863-73d2-45ff-a15f-87bc53ff1eb6</id>
+			<name>Grey Mana Shielding</name>
+			<page>54</page>
+			<source>NA</source>
+			<avail>FixedValues(16R,16R,16R,20R,20R,20R)</avail>
+			<category>Protection</category>
+			<cost>FixedValues(FixedValues(Rating * 2000,Rating * 2000,Rating * 2000,Rating * 5000,Rating * 5000,Rating * 5000)</cost>
+			<rating>6</rating>
+			<slots>Rating</slots>
+		</mod>
+	</mods>
+</chummer>

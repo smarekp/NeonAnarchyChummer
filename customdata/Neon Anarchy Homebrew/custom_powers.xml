@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This file is part a series of data files created for r/NeonAnarchy.
+
+	You can learn more at
+	https://www.reddit.com/r/NeonAnarchy
+-->
+<chummer>
+	<powers>
+	<!--
+		<power>
+			<id>ea655729-3f98-4ad5-95b0-b72dfb04f552</id>
+			<name>Mystic Archery</name>
+			<points>0.5</points>
+			<levels>False</levels>
+			<limit>1</limit>
+			<source>NA</source>
+			<page>1</page>
+			<adeptway>0.25</adeptway>
+		</power>
+		-->
+	</powers>
+</chummer>

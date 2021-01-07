@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--This file is part a series of data files created for r/NeonAnarchy.
+
+	You can learn more at
+	https://www.reddit.com/r/NeonAnarchy
+-->
+<chummer>
+	<cyberwares>
+		<cyberware>
+			<id>f0a4d29e-0614-4f0f-b41c-7e670f254c5b</id>
+			<name>Cyber Manipulator</name>
+			<limit>4</limit>
+			<category>Cyberlimb</category>
+			<ess>1.5</ess>
+			<capacity>15</capacity>
+			<avail>8</avail>
+			<cost>30000</cost>
+			<source>NA</source>
+			<page>56</page>
+			<allowgear>
+				<gearcategory>Sensors</gearcategory>
+			</allowgear>
+			<allowsubsystems>
+				<category>Bodyware</category>
+				<category>Cosmetic Enhancement</category>
+				<category>Cyberlimb</category>
+				<category>Cyberlimb Enhancement</category>
+				<category>Cyberlimb Accessory</category>
+				<category>Cyber Implant Weapon</category>
+				<category>Headware</category>
+				<category>Nanocybernetics</category>
+			</allowsubsystems>
+			<bonus>
+				<limitmodifier>
+					<limit>Social</limit>
+					<value>-1</value>
+				</limitmodifier>
+			</bonus>
+			<forbidden>
+				<oneof>
+					<cyberware>Smart Articulation</cyberware>
+				</oneof>
+			</forbidden>
+		</cyberware>
+		<cyberware>
+			<id>0ff2d710-3954-4a50-abf5-8a9f1f4f7d80</id>
+			<name>Tissue Repair System</name>
+			<limit>False</limit>
+			<category>Hard Nanoware</category>
+			<ess>0</ess>
+			<capacity>0</capacity>
+			<avail>14F</avail>
+			<cost>Rating * 6000</cost>
+			<source>NA</source>
+			<page>47</page>
+			<forcegrade>None</forcegrade>
+			<rating>6</rating>
+		</cyberware>
+	</cyberwares>
+</chummer>
