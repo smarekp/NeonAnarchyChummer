@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This file is part a series of data files created for r/NeonAnarchy.
+
+	You can learn more at
+	https://www.reddit.com/r/NeonAnarchy
+-->
+<chummer>
+	<ranges>
+		<range>
+			<name>Electrokinesis</name>
+			<min>0</min>
+			<short>BOD</short>
+			<medium>-1</medium>
+			<long>-1</long>
+			<extreme>-1</extreme>
+		</range>
+	</ranges>
+</chummer>
