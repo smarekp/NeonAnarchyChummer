@@ -7,7 +7,7 @@
 <chummer>
 	<mods>
 		<mod>
-			<id>204da863-73d2-45ff-a15f-87bc53ff1eb6</id>
+			<id>9b98f42c-1abd-431b-8157-4fcdc6bfac88</id>
 			<name>Grey Mana Shielding</name>
 			<page>54</page>
 			<source>NA</source>
@@ -16,6 +16,7 @@
 			<cost>FixedValues(FixedValues(Rating * 2000,Rating * 2000,Rating * 2000,Rating * 5000,Rating * 5000,Rating * 5000)</cost>
 			<rating>6</rating>
 			<slots>Rating</slots>
+			<notes>A life support system is required for rating 4 or above.</notes>
 		</mod>
 	</mods>
 </chummer>

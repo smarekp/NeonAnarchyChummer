@@ -12,7 +12,7 @@
 			<category>Armor</category>
 			<armor>+1</armor>
 			<armorcapacity>3</armorcapacity>
-			<addweapon>Ares "Shock & Awe" Buckler</addweapon>
+			<addweapon>Ares Shock and Awe Buckler</addweapon>
 			<avail>10R</avail>
 			<cost>1000</cost>
 			<source>NA</source>
@@ -30,5 +30,20 @@
 			<source>NA</source>
 			<page>38</page>
 		</armor>
-</armors>
+	</armors>
+	<mods>
+		<mod>
+			<id>fa69ac10-dc5b-4fac-b9ce-4a4646b9410a</id>
+			<name>Hardpoint</name>
+			<category>General</category>
+			<armor>0</armor>
+			<maxrating>20</maxrating>
+			<armorcapacity>FixedValues([4],[8],[12],[16],[20],[24])</armorcapacity>
+			<gearcapacity>Rating</gearcapacity>
+			<avail>8</avail>
+			<cost>Rating * 500</cost>
+			<source>NA</source>
+			<page>73</page>
+		</mod>
+	</mods>
 </chummer>

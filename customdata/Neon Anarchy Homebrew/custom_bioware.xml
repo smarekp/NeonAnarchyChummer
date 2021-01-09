@@ -53,12 +53,10 @@
 					<name precedence="0">BOD</name>
 					<val>Rating</val>
 				</specificattribute>
-				<conditionmonitor>
-					<physical>1</physical>
-				</conditionmonitor>
 			</bonus>
 			<source>NA</source>
 			<page>1</page>
+			<notes>If you do not have cyberlimbs, you must apply the additional condition modifier boxes manually under improvements.</notes>
 		</bioware>
 	</biowares>
 </chummer>
