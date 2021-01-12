@@ -6,6 +6,7 @@
 -->
 <chummer>
 	<qualities>
+		<--
 		<quality>
 			<id>22984302-2b16-4166-af77-661a4a536fed</id>
 			<name>Astral Assassin</name>
@@ -25,6 +26,7 @@
 			<source>NA</source>
 			<page>0</page>
 		</quality>
+		-->
 		<quality>
 			<id>c4b4c032-6ff0-46d9-9c3b-66f0d3204a73</id>
 			<name>Beast Bond</name>
