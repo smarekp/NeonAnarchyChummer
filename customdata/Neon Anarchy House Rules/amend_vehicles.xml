@@ -114,6 +114,22 @@
 			<category>Body</category>
 			<slots>9</slots>
 		</mod>
+		<mod>
+			<name>Weapon Mount</name>
+			<weaponmountcategories>Blades,Clubs,Improvised Weapons,Exotic Melee Weapons,Crossbows,Cyberweapon,Bio-Weapon,Unarmed,Tasers,Holdouts,Light Pistols,Heavy Pistols,Machine Pistols,Submachine Guns,Assault Rifles,Shotguns,Exotic Ranged Weapons,Flamethrowers,Special Weapons,Sporting Rifles,Carbines</weaponmountcategories>
+		</mod>
+		<mod>
+			<name>Heavy Weapon Mount</name>
+			<weaponmountcategories>Blades,Clubs,Improvised Weapons,Exotic Melee Weapons,Crossbows,Cyberweapon,Bio-Weapon,Unarmed,Tasers,Holdouts,Light Pistols,Heavy Pistols,Machine Pistols,Submachine Guns,Assault Rifles,Sniper Rifles,Shotguns,Grenade Launchers,Missile Launchers,Laser Weapons,Light Machine Guns,Medium Machine Guns,Heavy Machine Guns,Assault Cannons,Flamethrowers,Sporting Rifles,Exotic Ranged Weapons,Carbines</weaponmountcategories>
+		</mod>
+		<mod>
+			<name>Weapon Mount Type (Standard)</name>
+			<weaponmountcategories>Blades,Clubs,Improvised Weapons,Exotic Melee Weapons,Exotic Ranged Weapons,Cyberweapon,Bio-Weapon,Unarmed,Tasers,Holdouts,Light Pistols,Heavy Pistols,Machine Pistols,Submachine Guns,Assault Rifles,Sniper Rifles,Shotguns,Exotic Ranged Weapons,Flamethrowers,Special Weapons,Carbines</weaponmountcategories>
+		</mod>
+		<mod>
+			<name>Weapon Mount Type (Heavy)</name>
+			<weaponmountcategories>Blades,Clubs,Improvised Weapons,Exotic Melee Weapons,Exotic Ranged Weapons,Cyberweapon,Bio-Weapon,Unarmed,Tasers,Holdouts,Light Pistols,Heavy Pistols,Machine Pistols,Submachine Guns,Assault Rifles,Sniper Rifles,Shotguns,Exotic Ranged Weapons,Flamethrowers,Special Weapons,Light Machine Guns,Medium Machine Guns,Heavy Machine Guns,Assault Cannons,Grenade Launchers,Missile Launchers,Laser Weapons,Carbines</weaponmountcategories>
+		</mod>
 	</mods>
 	<weaponmounts>
 		<weaponmount>
@@ -122,15 +138,15 @@
 		</weaponmount>
 		<weaponmount>
 			<name>Large (Drone)</name>
-			<weaponcategories>Blades,Clubs,Improvised Weapons,Exotic Melee Weapons,Exotic Ranged Weapons,Cyberweapon,Bio-Weapon,Unarmed,Tasers,Holdouts,Light Pistols,Heavy Pistols,Machine Pistols,Submachine Guns,Assault Rifles,Shotguns,Grenade Launchers,Sporting Rifles</weaponcategories>
+			<weaponcategories>Blades,Clubs,Improvised Weapons,Exotic Melee Weapons,Exotic Ranged Weapons,Cyberweapon,Bio-Weapon,Unarmed,Tasers,Holdouts,Light Pistols,Heavy Pistols,Machine Pistols,Submachine Guns,Assault Rifles,Shotguns,Grenade Launchers,Sporting Rifles,Carbines</weaponcategories>
 		</weaponmount>
 		<weaponmount>
 			<name>Huge (Drone)</name>
-			<weaponcategories>Blades,Clubs,Improvised Weapons,Exotic Melee Weapons,Exotic Ranged Weapons,Cyberweapon,Bio-Weapon,Unarmed,Tasers,Holdouts,Light Pistols,Heavy Pistols,Machine Pistols,Submachine Guns,Assault Rifles,Shotguns,Machine Guns,Grenade Launchers,Laser Weapons,Light Machine Guns,Medium Machine Guns,Sporting Rifles,Sniper Rifles</weaponcategories>
+			<weaponcategories>Blades,Clubs,Improvised Weapons,Exotic Melee Weapons,Exotic Ranged Weapons,Cyberweapon,Bio-Weapon,Unarmed,Tasers,Holdouts,Light Pistols,Heavy Pistols,Machine Pistols,Submachine Guns,Assault Rifles,Shotguns,Machine Guns,Grenade Launchers,Laser Weapons,Light Machine Guns,Medium Machine Guns,Sporting Rifles,Sniper Rifles,Carbines</weaponcategories>
 		</weaponmount>
 		<weaponmount>
 			<name>Heavy (Drone)</name>
-			<weaponcategories>Blades,Clubs,Improvised Weapons,Exotic Melee Weapons,Exotic Ranged Weapons,Cyberweapon,Bio-Weapon,Unarmed,Tasers,Holdouts,Light Pistols,Heavy Pistols,Machine Pistols,Submachine Guns,Assault Rifles,Shotguns,Machine Guns,Assault Cannons,Grenade Launchers,Missile Launchers,Laser Weapons,Light Machine Guns,Medium Machine Guns,Heavy Machine Guns,Sporting Rifles,Sniper Rifles</weaponcategories>
+			<weaponcategories>Blades,Clubs,Improvised Weapons,Exotic Melee Weapons,Exotic Ranged Weapons,Cyberweapon,Bio-Weapon,Unarmed,Tasers,Holdouts,Light Pistols,Heavy Pistols,Machine Pistols,Submachine Guns,Assault Rifles,Shotguns,Machine Guns,Assault Cannons,Grenade Launchers,Missile Launchers,Laser Weapons,Light Machine Guns,Medium Machine Guns,Heavy Machine Guns,Sporting Rifles,Sniper Rifles,Carbines</weaponcategories>
 		</weaponmount>
 	</weaponmounts>
 </chummer>

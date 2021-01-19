@@ -673,5 +673,113 @@
 				</specificskill>
 			</bonus>
 		</quality>
+		<quality>
+			<name>Natural Venom (Exhaled, Mild)</name>
+			<forbidden>
+				<oneof>
+					<quality>Changeling (Class I SURGE)</quality>
+					<quality>Changeling (Class II SURGE)</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
+			<name>Natural Venom (Exhaled, Moderate)</name>
+			<forbidden>
+				<oneof>
+					<quality>Changeling (Class I SURGE)</quality>
+					<quality>Changeling (Class II SURGE)</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
+			<name>Natural Venom (Exhaled, Serious)</name>
+			<forbidden>
+				<oneof>
+					<quality>Changeling (Class I SURGE)</quality>
+					<quality>Changeling (Class II SURGE)</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
+			<name>Natural Venom (Exhaled, Deadly)</name>
+			<forbidden>
+				<oneof>
+					<quality>Changeling (Class I SURGE)</quality>
+					<quality>Changeling (Class II SURGE)</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
+			<name>Natural Venom (Spat, Mild)</name>
+			<forbidden>
+				<oneof>
+					<quality>Changeling (Class I SURGE)</quality>
+					<quality>Changeling (Class II SURGE)</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
+			<name>Natural Venom (Spat, Moderate)</name>
+			<forbidden>
+				<oneof>
+					<quality>Changeling (Class I SURGE)</quality>
+					<quality>Changeling (Class II SURGE)</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
+			<name>Natural Venom (Spat, Serious)</name>
+			<forbidden>
+				<oneof>
+					<quality>Changeling (Class I SURGE)</quality>
+					<quality>Changeling (Class II SURGE)</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
+			<name>Natural Venom (Spat, Deadly)</name>
+			<forbidden>
+				<oneof>
+					<quality>Changeling (Class I SURGE)</quality>
+					<quality>Changeling (Class II SURGE)</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
+			<name>Natural Venom (Injected, Mild)</name>
+			<forbidden>
+				<oneof>
+					<quality>Changeling (Class I SURGE)</quality>
+					<quality>Changeling (Class II SURGE)</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
+			<name>Natural Venom (Injected, Moderate)</name>
+			<forbidden>
+				<oneof>
+					<quality>Changeling (Class I SURGE)</quality>
+					<quality>Changeling (Class II SURGE)</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
+			<name>Natural Venom (Injected, Serious)</name>
+			<forbidden>
+				<oneof>
+					<quality>Changeling (Class I SURGE)</quality>
+					<quality>Changeling (Class II SURGE)</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
+			<name>Natural Venom (Injected, Deadly)</name>
+			<forbidden>
+				<oneof>
+					<quality>Changeling (Class I SURGE)</quality>
+					<quality>Changeling (Class II SURGE)</quality>
+				</oneof>
+			</forbidden>
+		</quality>
 	</qualities>
 </chummer>
