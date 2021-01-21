@@ -176,7 +176,30 @@
 			<source>NA</source>
 			<page>0</page>
 		</quality>
-		<!-- TODO :: Gunslinger // Need to add the Akimbo technique first -->
+		<quality>
+			<id>79346f46-f315-483f-af0d-d6abe37a4faa</id>
+			<name>Gunslinger</name>
+			<karma>10</karma>
+			<category>Positive</category>
+			<required>
+				<allof>
+					<oneof>
+						<skill>
+							<name>Automatics</name>
+							<val>6</val>
+						</skill>
+						<skill>
+							<name>Pistols</name>
+							<val>6</val>
+						</skill>
+					</oneof>
+					<martialtechnique>Akimbo (The Cowboy Way)</martialtechnique>
+					<martialtechnique>Akimbo (Gun Kata)</martialtechnique>
+				</allof>
+			</required>
+			<source>NA</source>
+			<page>1</page>
+		</quality>
 		<quality>
 			<id>fe9fe561-a5d0-4cb2-a9de-7b795b381c54</id>
 			<name>In My Image</name>
@@ -257,6 +280,14 @@
 			<page>0</page>
 		</quality>
 		<!-- TODO :: Mute // All the relevant adept powers need to have Mute as a forbidden quality... -->
+		<quality>
+			<id>ef077cbc-7a5c-4194-8444-52542acd8839</id>
+			<name>Mute</name>
+			<karma>-5</karma>
+			<category>Negative</category>
+			<source>NA</source>
+			<page>161</page>
+		</quality>
 		<quality>
 			<id>04164e9a-828e-47f0-b29e-9345046e9c68</id>
 			<name>Pop Culture Wizard</name>
@@ -369,5 +400,39 @@
 			<page>0</page>
 		</quality>
 		<!-- TODO :: Translucent Skin // All skin-related qualities and ware need to forbid this quality... -->
+		<quality>
+			<id>2d67cde5-f83c-45a2-b962-4d4985662b87</id>
+			<name>Translucent Skin</name>
+			<karma>-10</karma>
+			<category>Negative</category>
+			<source>NA</source>
+			<page>1</page>
+			<bonus>
+				<physicalcmrecovery>-2</physicalcmrecovery>
+				<stuncmrecovery>-2</stuncmrecovery>
+			</bonus>
+			<forbidden>
+				<oneof>
+					<quality>Albinism I</quality>
+					<quality>Albinism II</quality>
+					<quality>Dermal Alteration (Bark Skin)</quality>
+					<quality>Dermal Alteration (Blubber)</quality>
+					<quality>Dermal Alteration (Dragon Skin)</quality>
+					<quality>Dermal Alteration (Granite Shell)</quality>
+					<quality>Dermal Alteration (Rhino Hide)</quality>
+					<quality>Dermal Deposits</quality>
+					<cyberware>Dermal Plating</cyberware>
+					<bioware>Orthoskin</bioware>
+					<bioware>Skin Pocket</bioware>
+					<bioware>Chameleon Skin</bioware>
+					<bioware>Chameleon Skin (Dynamic)</bioware>
+					<bioware>Chloroplast Skin</bioware>
+					<bioware>Sensitive Skin</bioware>
+					<bioware>Silky Skin</bioware>
+					<bioware>Skin Pigmentation</bioware>
+					<bioware>Skin Pigmentation (Permanent)</bioware>
+				</oneof>
+			</forbidden>
+		</quality>
 	</qualities>
 </chummer>

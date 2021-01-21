@@ -37,5 +37,13 @@
 				</oneof>
 			</forbidden>
 		</cyberware>
+		<cyberware>
+			<name>Dermal Plating</name>
+			<forbidden>
+				<oneof>
+					<quality>Translucent Skin</quality>
+				</oneof>
+			</forbidden>
+		</cyberware>
 	</cyberwares>
 </chummer>
