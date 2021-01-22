@@ -5,7 +5,20 @@
 	https://www.reddit.com/r/NeonAnarchy
 -->
 <chummer>
+	<categories>
+		<category>Parachutes</category>
+	</categories>
 	<gears>
+		<gear>
+			<id>ac151186-5c73-4eee-bd5a-c64e9b1f88a9</id>
+			<name>Venomancer</name>
+			<category>Drugs</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>180</page>
+			<avail>9R</avail>
+			<cost>400</cost>
+		</gear>
 		<gear>
 			<id>8615df1f-d739-49a7-96c7-ad3ce958085d</id>
 			<name>ID10T</name>
@@ -28,6 +41,31 @@
 			<minrating>3</minrating>
 		</gear>
 		<gear>
+			<id>c4b7b006-6fc1-40a5-b3f9-00628b7b21a2</id>
+			<name>Specsoft</name>
+			<category>Skillsofts</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>42</page>
+			<avail>8</avail>
+			<cost>10000</cost>
+			<bonus>
+				<selecttext />
+			</bonus>
+		</gear>
+		<gear>
+			<id>19d5d62b-669e-4f99-a8e7-eb0210d3ca94</id>
+			<name>Rerouting Module</name>
+			<category>Cyberdeck Modules</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>65</page>
+			<avail>12F</avail>
+			<armorcapacity>[2]</armorcapacity>
+			<cost>1500</cost>
+			<devicerating>0</devicerating>
+		</gear>
+		<gear>
 			<id>ccebe138-936d-4b23-8d0e-943ffbfa2b49</id>
 			<name>Multiprogram Operating Resonant System</name>
 			<category>Commlink Accessories</category>
@@ -37,6 +75,36 @@
 			<avail>(Rating * 3)R</avail>
 			<cost>Rating * 4000</cost>
 			<devicerating>Rating</devicerating>
+		</gear>
+		<gear>
+			<id>c4d82a69-e9e9-4a66-a72d-177ad422e075</id>
+			<name>Standard Parachute System</name>
+			<category>Parachutes</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>1</page>
+			<avail>0</avail>
+			<cost>1500</cost>
+		</gear>
+		<gear>
+			<id>98521258-b9f4-4217-8bc7-7f627ac2a0e8</id>
+			<name>Spinradical Parachute System</name>
+			<category>Parachutes</category>
+			<rating>4</rating>
+			<source>NA</source>
+			<page>1</page>
+			<avail>Rating * 3</avail>
+			<cost>Rating * 3000</cost>
+		</gear>
+		<gear>
+			<id>89c51d46-1c74-43f5-89a3-5bfe56ef0003</id>
+			<name>Replacement Parachute</name>
+			<category>Parachutes</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>1</page>
+			<avail>0</avail>
+			<cost>750</cost>
 		</gear>
 		<gear>
 			<id>2253af5b-6f78-4266-b95c-35df1de9bf10</id>
@@ -177,6 +245,39 @@
 			<page>34</page>
 			<avail>4</avail>
 			<cost>50</cost>
+		</gear>
+		<gear>
+			<id>67be5fbe-7db8-49e4-8957-0b189fd493c5</id>
+			<name>Grenade: Grey Mana</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>35</page>
+			<avail>7F</avail>
+			<addweapon>Grenade: Grey Mana</addweapon>
+			<cost>300</cost>
+		</gear>
+		<gear>
+			<id>1c6baa2e-071e-4710-bf2c-36cf2e57e008</id>
+			<name>Grenade: Grey Mana, Aerodynamic</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>35</page>
+			<avail>7F</avail>
+			<addweapon>Grenade: Grey Mana, Aerodynamic</addweapon>
+			<cost>300</cost>
+		</gear>
+		<gear>
+			<id>cf9bd1b0-6833-48fd-88c4-177e3d37d126</id>
+			<name>Minigrenade: Grey Mana</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>35</page>
+			<avail>7F</avail>
+			<addweapon>Minigrenade: Grey Mana</addweapon>
+			<cost>300</cost>
 		</gear>
 		<gear>
 			<id>1c2f1d6b-a1dd-4d4d-b8df-bbe33bb92b82</id>

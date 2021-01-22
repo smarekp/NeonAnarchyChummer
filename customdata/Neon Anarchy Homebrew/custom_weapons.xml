@@ -336,6 +336,47 @@
 			<notes>Ammo must be manually purchased through the gear tab (search for Acid Canister).</notes>
 		</weapon>
 		<weapon>
+			<id>858ea402-4ede-48ef-803b-6d30c0b89b08</id>
+			<name>Krime Shredder Auto Shotgun</name>
+			<category>Shotguns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>12P</damage>
+			<ap>-1</ap>
+			<mode>FA</mode>
+			<rc>4</rc>
+			<ammo>100(belt)</ammo>
+			<avail>16F</avail>
+			<cost>2000</cost>
+			<source>NA</source>
+			<page>41</page>
+			<accessories>
+				<accessory>
+					<name>Krime Keeper</name>
+				</accessory>
+				<accessory>
+					<name>Krime Loudener</name>
+				</accessory>
+				<accessory>
+					<name>Krime Offline Support Solutions</name>
+				</accessory>
+				<accessory>
+					<name>Shock Pad</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Internal</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<alternaterange>Shotguns (flechette)</alternaterange>
+		</weapon>
+		<weapon>
 			<id>9d48c849-bd46-42ef-9c8f-0852c872847d</id>
 			<name>Tokarev TT-30 Special</name>
 			<category>Heavy Pistols</category>
@@ -437,6 +478,90 @@
 			<range>Electrokinesis</range>
 			<spec>Electrokinesis</spec>
 			<useskill>Directed Energy</useskill>
+		</weapon>
+		<weapon>
+			<id>830cdf7b-7640-4b0b-ba2b-5a74f75540ca</id>
+			<name>Static Shock</name>
+			<category>Unarmed</category>
+			<type>Melee</type>
+			<conceal>0</conceal>
+			<accuracy>Physical</accuracy>
+			<reach>0</reach>
+			<damage>8S(e)</damage>
+			<ap>-5</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>0</avail>
+			<cost>0</cost>
+			<source>NA</source>
+			<page>1</page>
+			<allowaccessory>False</allowaccessory>
+			<hide />
+			<useskill>Unarmed Combat</useskill>
+		</weapon>
+		<weapon>
+			<id>5de40804-6e54-49a7-a3a6-514a424dc2a8</id>
+			<name>Grenade: Grey Mana</name>
+			<category>Gear</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>Physical</accuracy>
+			<reach>0</reach>
+			<damage>(10m Radius)</damage>
+			<ap>-</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>7F</avail>
+			<cost>300</cost>
+			<source>NA</source>
+			<page>35</page>
+			<range>Standard Grenade</range>
+			<spec>Non-Aerodynamic</spec>
+			<useskill>Throwing Weapons</useskill>
+		</weapon>
+		<weapon>
+			<id>bd915fa4-6569-4325-a0c6-d9ca3594918c</id>
+			<name>Grenade: Grey Mana, Aerodynamic</name>
+			<category>Gear</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>Physical</accuracy>
+			<reach>0</reach>
+			<damage>(10m Radius)</damage>
+			<ap>-</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>7F</avail>
+			<cost>300</cost>
+			<source>NA</source>
+			<page>35</page>
+			<range>Aerodynamic Grenade</range>
+			<spec>Aerodynamic</spec>
+			<useskill>Throwing Weapons</useskill>
+		</weapon>
+		<weapon>
+			<id>5bfc3149-428c-46a5-9971-8a06ef4caa85</id>
+			<name>Minigrenade: Grey Mana</name>
+			<category>Gear</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>0</accuracy>
+			<reach>0</reach>
+			<damage>(10m Radius)</damage>
+			<ap>-</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>7F</avail>
+			<cost>300</cost>
+			<source>NA</source>
+			<page>35</page>
+			<range>Grenade Launchers</range>
+			<spec>Grenade Launcher</spec>
+			<useskill>Heavy Weapons</useskill>
 		</weapon>
 	</weapons>
 	<accessories>

@@ -33,6 +33,19 @@
 	</armors>
 	<mods>
 		<mod>
+			<id>d45032ca-6f45-471b-b93f-e8b69020fde0</id>
+			<name>Comprehensive Seal</name>
+			<category>General</category>
+			<armor>0</armor>
+			<maxrating>1</maxrating>
+			<armorcapacity>[4]</armorcapacity>
+			<avail>16R</avail>
+			<cost>20000</cost>
+			<source>NA</source>
+			<page>37</page>
+			<notes>Requires chemical seal.</notes>
+		</mod>
+		<mod>
 			<id>fa69ac10-dc5b-4fac-b9ce-4a4646b9410a</id>
 			<name>Hardpoint</name>
 			<category>General</category>

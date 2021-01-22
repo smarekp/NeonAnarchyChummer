@@ -18,5 +18,16 @@
 			<slots>Rating</slots>
 			<notes>A life support system is required for rating 4 or above.</notes>
 		</mod>
+		<mod>
+			<id>3bc81fa5-9a1d-4117-bc3a-0478996f7350</id>
+			<name>Mage Port</name>
+			<page>16</page>
+			<source>NA</source>
+			<avail>14R</avail>
+			<category>Weapons</category>
+			<cost>8000</cost>
+			<rating>0</rating>
+			<slots>1</slots>
+		</mod>
 	</mods>
 </chummer>

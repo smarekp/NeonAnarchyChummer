@@ -43,6 +43,18 @@
 			</forbidden>
 		</cyberware>
 		<cyberware>
+			<id>06e8d1e9-e999-4bd3-af7f-f59081573d14</id>
+			<name>Target Predictor</name>
+			<limit>False</limit>
+			<category>Eyeware</category>
+			<ess>0.2</ess>
+			<capacity>[3]</capacity>
+			<avail>12R</avail>
+			<cost>12000</cost>
+			<source>NA</source>
+			<page>1</page>
+		</cyberware>
+		<cyberware>
 			<id>0ff2d710-3954-4a50-abf5-8a9f1f4f7d80</id>
 			<name>Tissue Repair System</name>
 			<limit>False</limit>
