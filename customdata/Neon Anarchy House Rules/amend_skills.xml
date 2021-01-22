@@ -51,6 +51,18 @@
 			<name>Instruction</name>
 			<hide />
 		</skill>
+		<skill amendoperation="remove">
+			<name>Diving</name>
+			<hide />
+		</skill>
+		<skill>
+			<name>Swimming</name>
+			<specs amendoperation="replace">
+				<spec>Dash</spec>
+				<spec>Long Distance</spec>
+				<spec>Diving</spec>
+			</specs>
+		</skill>
 		<skill>
 			<name>Blades</name>
 			<specs amendoperation="replace">
