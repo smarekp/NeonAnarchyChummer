@@ -54,6 +54,20 @@
 			</bonus>
 		</gear>
 		<gear>
+			<id>73ac9f1a-adfe-4807-b511-1d3162a4f8be</id>
+			<name>Elemental Essence</name>
+			<category>Magical Supplies</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>42</page>
+			<avail>16R</avail>
+			<cost>52000</cost>
+			<bonus>
+				<selecttext />
+			</bonus>
+			<notes>To attune, you must manually deduct karma.</notes>
+		</gear>
+		<gear>
 			<id>19d5d62b-669e-4f99-a8e7-eb0210d3ca94</id>
 			<name>Rerouting Module</name>
 			<category>Cyberdeck Modules</category>
@@ -75,6 +89,7 @@
 			<avail>(Rating * 3)R</avail>
 			<cost>Rating * 4000</cost>
 			<devicerating>Rating</devicerating>
+			<notes>To attune, you must manually deduct karma.</notes>
 		</gear>
 		<gear>
 			<id>c4d82a69-e9e9-4a66-a72d-177ad422e075</id>
