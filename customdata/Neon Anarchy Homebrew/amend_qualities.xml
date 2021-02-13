@@ -7,6 +7,55 @@
 <chummer>
 	<qualities>
 		<quality>
+			<name>Thousand-Yard Stare</name>
+			<forbidden>
+				<oneof>
+					<quality>Tacticool Mall Ninja</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
+			<name>Jack of All Trades Master of None</name>
+			<forbidden>
+				<oneof>
+					<quality>Specialist</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
+			<name>Prototype Transhuman</name>
+			<forbidden>
+				<oneof>
+					<quality>Fortune Favors the Bold</quality>
+					<quality>Don't Tell Me the Odds</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
+			<name>Changeling (Class I SURGE)</name>
+			<forbidden>
+				<oneof>
+					<quality>Baseline Biology</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
+			<name>Changeling (Class II SURGE)</name>
+			<forbidden>
+				<oneof>
+					<quality>Baseline Biology</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
+			<name>Changeling (Class III SURGE)</name>
+			<forbidden>
+				<oneof>
+					<quality>Baseline Biology</quality>
+				</oneof>
+			</forbidden>
+		</quality>
+		<quality>
 			<name>Dedicated Conjurer</name>
 			<forbidden>
 				<oneof>

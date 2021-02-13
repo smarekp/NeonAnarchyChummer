@@ -63,7 +63,7 @@
 			<avail>16R</avail>
 			<cost>52000</cost>
 			<bonus>
-				<selecttext />
+				<selecttext xml="strings.xml" xpath="/chummer/baseelements/baseelement" />
 			</bonus>
 			<notes>To attune, you must manually deduct karma.</notes>
 		</gear>

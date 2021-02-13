@@ -6,13 +6,12 @@
 -->
 <chummer>
 	<traditions>
-	<!--
 		<tradition>
 			<id>bd2b2f81-e641-4dbe-a818-af3b936ff043</id>
 			<name>Ephemeralist</name>
 			<drain>WIL + CHA</drain>
 			<source>NA</source>
-			<page>29</page>
+			<page>0</page>
 			<spirits>
 				<spiritcombat>Guardian Spirit</spiritcombat>
 				<spiritdetection>Spirit of Fire</spiritdetection>
@@ -21,6 +20,209 @@
 				<spiritmanipulation>Spirit of Earth</spiritmanipulation>
 			</spirits>
 		</tradition>
-	-->
+		<tradition>
+			<id>19320625-bc1a-492f-8904-da6a847e5713</id>
+			<name>Hermetic, Elemental</name>
+			<drain>WIL + LOG</drain>
+			<source>NA</source>
+			<page>0</page>
+			<spirits>
+				<spiritcombat>Spirit of Fire</spiritcombat>
+				<spiritdetection>Spirit of Air</spiritdetection>
+				<spirithealth>Spirit of Man</spirithealth>
+				<spiritillusion>Spirit of Water</spiritillusion>
+				<spiritmanipulation>Spirit of Earth</spiritmanipulation>
+			</spirits>
+		</tradition>
+		<tradition>
+			<id>19320625-bc1a-492f-8904-da6a847e5714</id>
+			<name>Hermetic, Metallurgy</name>
+			<drain>WIL + LOG</drain>
+			<source>NA</source>
+			<page>0</page>
+			<spirits>
+				<spiritcombat>Spirit of Fire</spiritcombat>
+				<spiritdetection>Spirit of Air</spiritdetection>
+				<spirithealth>Spirit of Man</spirithealth>
+				<spiritillusion>Spirit of Water</spiritillusion>
+				<spiritmanipulation>Spirit of Earth</spiritmanipulation>
+			</spirits>
+		</tradition>
+		<tradition>
+			<id>19320625-bc1a-492f-8904-da6a847e5715</id>
+			<name>Hermetic, Science</name>
+			<drain>WIL + LOG</drain>
+			<source>NA</source>
+			<page>0</page>
+			<spirits>
+				<spiritcombat>Spirit of Fire</spiritcombat>
+				<spiritdetection>Spirit of Air</spiritdetection>
+				<spirithealth>Spirit of Man</spirithealth>
+				<spiritillusion>Spirit of Water</spiritillusion>
+				<spiritmanipulation>Spirit of Earth</spiritmanipulation>
+			</spirits>
+		</tradition>
+		<tradition>
+			<id>19320625-bc1a-492f-8904-da6a847e5716</id>
+			<name>Hinduism [Traditional]</name>
+			<drain>WIL + LOG</drain>
+			<source>NA</source>
+			<page>0</page>
+			<spirits>
+				<spiritcombat>Spirit of Fire</spiritcombat>
+				<spiritdetection>Spirit of Air</spiritdetection>
+				<spirithealth>Spirit of Man</spirithealth>
+				<spiritillusion>Spirit of Water</spiritillusion>
+				<spiritmanipulation>Spirit of Earth</spiritmanipulation>
+			</spirits>
+		</tradition>
+		<tradition>
+			<id>19320625-bc1a-492f-8904-da6a847e5721</id>
+			<name>Olympianism, Hecate</name>
+			<drain>WIL + LOG</drain>
+			<source>NA</source>
+			<page>0</page>
+			<bonus>
+				<addqualities>
+					<addquality>Animal Familiar</addquality>
+					<addquality>Mentor Spirit</addquality>
+				</addqualities>
+				<skilldisable>Banishing</skilldisable>
+				<skilldisable>Disenchanting</skilldisable>
+				<specificskill>
+					<name>Ritual Spellcasting</name>
+					<bonus>2</bonus>
+				</specificskill>
+			</bonus>
+			<spirits>
+				<spiritcombat>Spirit of Fire</spiritcombat>
+				<spiritdetection>Spirit of Air</spiritdetection>
+				<spirithealth>Spirit of Man</spirithealth>
+				<spiritillusion>Spirit of Water</spiritillusion>
+				<spiritmanipulation>Spirit of Earth</spiritmanipulation>
+			</spirits>
+		</tradition>
+		<tradition>
+			<id>19320625-bc1a-492f-8904-da6a847e5722</id>
+			<name>Olympianism, Hero</name>
+			<drain>WIL + LOG</drain>
+			<source>NA</source>
+			<page>0</page>
+			<bonus>
+				<addqualities>
+					<addquality>No Man Left Behind</addquality>
+					<addquality>Mentor Spirit</addquality>
+					<addquality>Chosen Follower</addquality>
+				</addqualities>
+				<skilldisable>Binding</skilldisable>
+				<skillgroupdisable>Enchanting</skillgroupdisable>
+				<specificskill>
+					<name>Arcana</name>
+					<bonus>2</bonus>
+				</specificskill>
+			</bonus>
+			<spirits>
+				<spiritcombat>Spirit of Fire</spiritcombat>
+				<spiritdetection>Spirit of Air</spiritdetection>
+				<spirithealth>Spirit of Man</spirithealth>
+				<spiritillusion>Spirit of Water</spiritillusion>
+				<spiritmanipulation>Spirit of Earth</spiritmanipulation>
+			</spirits>
+		</tradition>
+		<tradition>
+			<id>19320625-bc1a-492f-8904-da6a847e5723</id>
+			<name>Olympianism, Oracle</name>
+			<drain>WIL + LOG</drain>
+			<source>NA</source>
+			<page>0</page>
+			<bonus>
+				<addmetamagic forced="True">Psychometry</addmetamagic>
+				<addspell>Augury and Sortilege</addspell>
+				<addqualities>
+					<addquality>Mentor Spirit</addquality>
+				</addqualities>
+				<skilldisable>Binding</skilldisable>
+				<skillgroupdisable>Enchanting</skillgroupdisable>
+				<specificskill>
+					<name>Arcana</name>
+					<bonus>2</bonus>
+				</specificskill>
+			</bonus>
+			<spirits>
+				<spiritcombat>Spirit of Fire</spiritcombat>
+				<spiritdetection>Guidance Spirit</spiritdetection>
+				<spirithealth>Spirit of Man</spirithealth>
+				<spiritillusion>Spirit of Water</spiritillusion>
+				<spiritmanipulation>Spirit of Earth</spiritmanipulation>
+			</spirits>
+		</tradition>
+		<tradition>
+			<id>9abbebc1-48a3-4dde-960a-af565b163a41</id>
+			<name>Shinto [Traditional]</name>
+			<drain>WIL + CHA</drain>
+			<source>NA</source>
+			<page>0</page>
+			<bonus>
+				<addmetamagic forced="True">Cleansing</addmetamagic>
+				<addqualities>
+					<addquality>Code of Honor</addquality>
+					<addquality>Chain Breaker</addquality>
+					<addquality>Durable Preparations</addquality>
+				</addqualities>
+				<skilldisable>Binding</skilldisable>
+				<skilldisable>Spellcasting</skilldisable>
+			</bonus>
+			<spirits>
+				<spiritcombat>Spirit of Air</spiritcombat>
+				<spiritdetection>Spirit of Water</spiritdetection>
+				<spirithealth>Plant Spirit</spirithealth>
+				<spiritillusion>Spirit of Beasts</spiritillusion>
+				<spiritmanipulation>Spirit of Man</spiritmanipulation>
+			</spirits>
+		</tradition>
+		<tradition>
+			<id>24601762-ef67-44d8-b974-03f626db848b</id>
+			<name>Wicca, Gardnerian [Traditional]</name>
+			<drain>WIL + LOG</drain>
+			<source>NA</source>
+			<page>0</page>
+			<bonus>
+				<addqualities>
+					<addquality>Mentor Spirit</addquality>
+					<addquality>Animal Familiar</addquality>
+				</addqualities>
+				<skilldisable>Banishing</skilldisable>
+				<skilldisable>Disenchanting</skilldisable>
+			</bonus>
+			<spirits>
+				<spiritcombat>Spirit of Fire</spiritcombat>
+				<spiritdetection>Spirit of Water</spiritdetection>
+				<spirithealth>Plant Spirit</spirithealth>
+				<spiritillusion>Spirit of Air</spiritillusion>
+				<spiritmanipulation>Spirit of Earth</spiritmanipulation>
+			</spirits>
+		</tradition>
+		<tradition>
+			<id>895b2dd2-f401-477e-9cb5-a5620598582f</id>
+			<name>Wicca, Goddess [Traditional]</name>
+			<drain>WIL + INT</drain>
+			<source>NA</source>
+			<page>0</page>
+			<bonus>
+				<addqualities>
+					<addquality>Mentor Spirit</addquality>
+					<addquality>Animal Familiar</addquality>
+				</addqualities>
+				<skilldisable>Banishing</skilldisable>
+				<skilldisable>Disenchanting</skilldisable>
+			</bonus>
+			<spirits>
+				<spiritcombat>Spirit of Fire</spiritcombat>
+				<spiritdetection>Spirit of Water</spiritdetection>
+				<spirithealth>Plant Spirit</spirithealth>
+				<spiritillusion>Spirit of Air</spiritillusion>
+				<spiritmanipulation>Spirit of Earth</spiritmanipulation>
+			</spirits>
+		</tradition>
 	</traditions>
 </chummer>

@@ -27,6 +27,135 @@
 			<page>0</page>
 		</quality>
 		-->
+
+		<quality>
+			<id>f61ee1e7-6826-47d3-878a-f52abc754a1a</id>
+			<name>Average Joe I</name>
+			<karma>2</karma>
+			<category>Positive</category>
+			<bonus>
+				<sociallimit>(ESS * 0.5)</sociallimit>
+			</bonus>
+			<forbidden>
+				<oneof>
+					<quality>Average Joe II</quality>
+					<quality>Average Joe III</quality>
+					<magenabled />
+					<resenabled />
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>ef76faec-afe0-4f1c-88d4-94705305d8cc</id>
+			<name>Average Joe II</name>
+			<karma>4</karma>
+			<category>Positive</category>
+			<bonus>
+				<physicallimit>(ESS * 0.5)</physicallimit>
+			</bonus>
+			<forbidden>
+				<oneof>
+					<quality>Average Joe I</quality>
+					<quality>Average Joe III</quality>
+					<magenabled />
+					<resenabled />
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>f01bdc26-be10-40ae-bbe7-c12b34cc1cd2</id>
+			<name>Average Joe III</name>
+			<karma>6</karma>
+			<category>Positive</category>
+			<bonus>
+				<sociallimit>(ESS * 0.5)</sociallimit>
+				<physicallimit>(ESS * 0.5)</physicallimit>
+				<mentallimit>(ESS * 0.5)</mentallimit>
+			</bonus>
+			<forbidden>
+				<oneof>
+					<quality>Average Joe I</quality>
+					<quality>Average Joe II</quality>
+					<magenabled />
+					<resenabled />
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>de3ee72d-542d-4ecd-8fbc-8cfef8979788</id>
+			<name>Baseline Biology</name>
+			<karma>4</karma>
+			<category>Positive</category>
+			<bonus />
+			<forbidden>
+				<oneof>
+					<magenabled />
+					<resenabled />
+					<quality>Changeling (Class I SURGE)</quality>
+					<quality>Changeling (Class II SURGE)</quality>
+					<quality>Changeling (Class III SURGE)</quality>
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>db06cd8e-2593-4915-8cbb-b8d03fd12688</id>
+			<name>Better Lucky Than Good I</name>
+			<karma>4</karma>
+			<category>Positive</category>
+			<bonus />
+			<forbidden>
+				<oneof>
+					<magenabled />
+					<resenabled />
+					<quality>Better Lucky Than Good II</quality>
+					<quality>Better Lucky Than Good III</quality>
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>8fd37a67-9f77-4671-88a2-ebc265a4b1f6</id>
+			<name>Better Lucky Than Good II</name>
+			<karma>6</karma>
+			<category>Positive</category>
+			<bonus />
+			<forbidden>
+				<oneof>
+					<magenabled />
+					<resenabled />
+					<quality>Better Lucky Than Good I</quality>
+					<quality>Better Lucky Than Good III</quality>
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>2d792dbd-35a1-4496-9707-32fe833dec41</id>
+			<name>Better Lucky Than Good III</name>
+			<karma>10</karma>
+			<category>Positive</category>
+			<bonus />
+			<forbidden>
+				<oneof>
+					<magenabled />
+					<resenabled />
+					<quality>Better Lucky Than Good I</quality>
+					<quality>Better Lucky Than Good II</quality>
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
 		<quality>
 			<id>c4b4c032-6ff0-46d9-9c3b-66f0d3204a73</id>
 			<name>Beast Bond</name>
@@ -42,6 +171,15 @@
 					</skill>
 				</oneof>
 			</required>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>6ed1caf2-4d42-4240-93c3-51660a35b773</id>
+			<name>Butter Fingers</name>
+			<karma>-10</karma>
+			<category>Negative</category>
+			<bonus />
 			<source>NA</source>
 			<page>0</page>
 		</quality>
@@ -75,6 +213,44 @@
 			<karma>12</karma>
 			<category>Positive</category>
 			<bonus />
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>ab1f56e1-cfe9-4c47-8159-e45fb9b397b8</id>
+			<name>Critter Magnet</name>
+			<karma>-6</karma>
+			<category>Negative</category>
+			<metagenic>True</metagenic>
+			<bonus />
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>68e7ac4f-d4c7-43ee-a232-023e681e4217</id>
+			<name>Designer Baby</name>
+			<karma>10</karma>
+			<category>Positive</category>
+			<required>
+				<oneof>
+					<quality>Records on File</quality>
+					<quality>SINner (Corporate)</quality>
+					<quality>SINner (Criminal)</quality>
+					<quality>SINner (National)</quality>
+					<quality>SINner (Corporate Limited)</quality>
+				</oneof>
+			</required>
+			<bonus>
+				<genetechcostmultiplier>80</genetechcostmultiplier>
+				<genetechessmultiplier>90</genetechessmultiplier>
+			</bonus>
+			<forbidden>
+				<oneof>
+					<magenabled />
+					<resenabled />
+					<quality>Gifted Genetics</quality>
+				</oneof>
+			</forbidden>
 			<source>NA</source>
 			<page>0</page>
 		</quality>
@@ -121,6 +297,16 @@
 			<page>0</page>
 		</quality>
 		<quality>
+			<id>ab1f56e1-cfe9-4c47-8159-e45fb9b397b5</id>
+			<name>Diurnal</name>
+			<karma>-4</karma>
+			<category>Negative</category>
+			<metagenic>True</metagenic>
+			<bonus />
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
 			<id>80fdab2c-d9ce-4213-ac4b-c92ed69fe16c</id>
 			<name>Don't Tell Me the Odds</name>
 			<karma>6</karma>
@@ -135,8 +321,21 @@
 				<oneof>
 					<magenabled />
 					<resenabled />
+					<quality>Prototype Transhuman</quality>
 				</oneof>
 			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>ab1f56e1-cfe9-4c47-8159-e45fb9b397b6</id>
+			<name>Dual Natured</name>
+			<karma>-15</karma>
+			<category>Negative</category>
+			<metagenic>True</metagenic>
+			<bonus>
+				<unlockskills>Explorer</unlockskills>
+			</bonus>
 			<source>NA</source>
 			<page>0</page>
 		</quality>
@@ -149,6 +348,55 @@
 			<addweapon>Electrokinesis (Melee)</addweapon>
 			<addweapon>Electrokinesis (Ranged)</addweapon>
 			<bonus />
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>9310a6d5-408a-4136-bd49-9d9b460a10d7</id>
+			<name>Elemental Affinity</name>
+			<karma>12</karma>
+			<category>Positive</category>
+			<metagenic>True</metagenic>
+			<bonus>
+				<selecttext xml="strings.xml" xpath="/chummer/baseelements/baseelement" />
+			</bonus>
+			<forbidden>
+				<oneof>
+					<quality>Changeling (Class I SURGE)</quality>
+					<quality>Changeling (Class II SURGE)</quality>
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>9310a6d5-408a-4136-bd49-9d9b460a11a2</id>
+			<name>Excessive Molting</name>
+			<karma>-10</karma>
+			<category>Negative</category>
+			<metagenic>True</metagenic>
+			<bonus>
+				<lifestylecost>25</lifestylecost>
+			</bonus>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>9310a6d5-408a-4136-bd49-9d9b460a10d8</id>
+			<name>Functional Wings</name>
+			<karma>12</karma>
+			<category>Positive</category>
+			<metagenic>True</metagenic>
+			<bonus />
+			<forbidden>
+				<oneof>
+					<quality>Changeling (Class I SURGE)</quality>
+					<quality>Changeling (Class II SURGE)</quality>
+					<quality>Shiva Arms</quality>
+					<quality>Vestigal Wings</quality>
+					<cyberware>Cyber Manipulator</cyberware>
+				</oneof>
+			</forbidden>
 			<source>NA</source>
 			<page>0</page>
 		</quality>
@@ -171,6 +419,33 @@
 				<oneof>
 					<magenabled />
 					<resenabled />
+					<quality>Prototype Transhuman</quality>
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>eff556c6-573d-4ea9-bf4a-94a33df2ae4f</id>
+			<name>Full-Auto Executioner</name>
+			<karma>5</karma>
+			<category>Positive</category>
+			<bonus />
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>eff556c6-573d-4ea9-bf4a-94a33df2ae50</id>
+			<name>Gifted Genetics</name>
+			<karma>5</karma>
+			<category>Positive</category>
+			<bonus />
+			<forbidden>
+				<oneof>
+					<magenabled />
+					<resenabled />
+					<quality>Designer Baby</quality>
+					<quality>Prototype Transhuman</quality>
 				</oneof>
 			</forbidden>
 			<source>NA</source>
@@ -181,6 +456,7 @@
 			<name>Gunslinger</name>
 			<karma>10</karma>
 			<category>Positive</category>
+			<bonus />
 			<required>
 				<allof>
 					<oneof>
@@ -193,12 +469,37 @@
 							<val>6</val>
 						</skill>
 					</oneof>
-					<martialtechnique>Akimbo (The Cowboy Way)</martialtechnique>
-					<martialtechnique>Akimbo (Gun Kata)</martialtechnique>
+					<martialtechnique>Akimbo</martialtechnique>
 				</allof>
 			</required>
 			<source>NA</source>
 			<page>1</page>
+		</quality>
+		<quality>
+			<id>eff556c6-573d-4ea9-bf4a-94a33df2ae51</id>
+			<name>Heretic</name>
+			<karma>8</karma>
+			<category>Positive</category>
+			<bonus>
+				<notoriety>1</notoriety>
+				<selecttext />
+			</bonus>
+			<required>
+				<allof>
+					<attribute>
+						<name>MAG</name>
+						<total>1</total>
+					</attribute>
+				</allof>
+				<oneof>
+					<skill>
+						<name>Summoning</name>
+						<val>1</val>
+					</skill>
+				</oneof>
+			</required>
+			<source>NA</source>
+			<page>0</page>
 		</quality>
 		<quality>
 			<id>fe9fe561-a5d0-4cb2-a9de-7b795b381c54</id>
@@ -231,6 +532,36 @@
 			<page>0</page>
 		</quality>
 		<quality>
+			<id>9310a6d5-408a-4136-bd49-9d9b460a11a3</id>
+			<name>Intermittent Hibernation</name>
+			<karma>-8</karma>
+			<category>Negative</category>
+			<metagenic>True</metagenic>
+			<bonus>
+				<lifestylecost>10</lifestylecost>
+			</bonus>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>bb326dae-2616-4208-9007-43cfa8eb6203</id>
+			<name>Keyboard Warrior</name>
+			<karma>10</karma>
+			<category>Positive</category>
+			<doublecareer>False</doublecareer>
+			<bonus />
+			<required>
+				<oneof>
+					<skill>
+						<name>Cybercombat</name>
+						<val>6</val>
+					</skill>
+				</oneof>
+			</required>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
 			<id>2989ae6e-0a0f-4643-8528-8e0316f96087</id>
 			<name>Laser Commander</name>
 			<karma>12</karma>
@@ -259,11 +590,183 @@
 			<page>0</page>
 		</quality>
 		<quality>
+			<id>e314b938-c28d-498b-89ff-a0d520f2b4a9</id>
+			<name>Like A Terminator</name>
+			<karma>10</karma>
+			<category>Positive</category>
+			<bonus />
+			<forbidden>
+				<oneof>
+					<magenabled />
+					<resenabled />
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>e314b938-c28d-498b-89ff-a0d520f2b4aa</id>
+			<name>Like The Back Of My Hand</name>
+			<karma>8</karma>
+			<category>Positive</category>
+			<bonus />
+			<forbidden>
+				<oneof>
+					<magenabled />
+					<resenabled />
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>9310a6d5-408a-4136-bd49-9d9b460a11a4</id>
+			<name>Living Hair</name>
+			<karma>-4</karma>
+			<category>Negative</category>
+			<metagenic>True</metagenic>
+			<bonus />
+			<forbidden>
+				<oneof>
+					<quality>Feathers</quality>
+					<quality>Scales</quality>
+					<quality>Unusual Hair</quality>
+					<quality>Mood Hair</quality>
+					<cyberware>Fiberoptic Hair</cyberware>
+					<bioware>Hair Growth</bioware>
+					<bioware>Hair Growth (Full-Body)</bioware>
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
 			<id>d542ea1b-68f7-4e9f-a8b9-511905f5ade6</id>
 			<name>Menacing Presence</name>
 			<karma>8</karma>
 			<category>Positive</category>
 			<bonus />
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>9310a6d5-408a-4136-bd49-9d9b460a11a5</id>
+			<name>Muzzle</name>
+			<karma>-4</karma>
+			<category>Negative</category>
+			<metagenic>True</metagenic>
+			<bonus>
+				<weaponaccuracy>
+					<name>[contains]Fangs</name>
+					<value>1</value>
+				</weaponaccuracy>
+			</bonus>
+			<forbidden>
+				<oneof>
+					<bioware>Muzzle</bioware>
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>9310a6d5-408a-4136-bd49-9d9b460a11a6</id>
+			<name>Necrotic Flesh</name>
+			<karma>-8</karma>
+			<category>Negative</category>
+			<metagenic>True</metagenic>
+			<bonus>
+				<physicalcmrecovery>-3</physicalcmrecovery>
+				<spelldicepool>
+					<name>Heal</name>
+					<val>-3</val>
+				</spelldicepool>
+				<stuncmrecovery>-3</stuncmrecovery>
+				<conditionmonitor>
+					<thresholdoffset>2</thresholdoffset>
+				</conditionmonitor>
+			</bonus>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>23bfa65d-9241-4183-b7ea-0e2935e42f2a</id>
+			<name>Plastic Soul (Cyberware)</name>
+			<karma>10</karma>
+			<category>Positive</category>
+			<bonus>
+				<cyberwareessmultiplier>90</cyberwareessmultiplier>
+			</bonus>
+			<required>
+				<oneof>
+					<quality>Biocompatibility (Bioware)</quality>
+				</oneof>
+			</required>
+			<forbidden>
+				<oneof>
+					<quality>Plastic Soul (Bioware)</quality>
+					<quality>Biocompatibility (Cyberware)</quality>
+					<magenabled />
+					<resenabled />
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>dcecd7e5-8cf1-4f83-89fa-177e28cfba05</id>
+			<name>Plastic Soul (Bioware)</name>
+			<karma>10</karma>
+			<category>Positive</category>
+			<bonus>
+				<biowareessmultiplier>90</biowareessmultiplier>
+			</bonus>
+			<required>
+				<oneof>
+					<quality>Biocompatibility (Cyberware)</quality>
+				</oneof>
+			</required>
+			<forbidden>
+				<oneof>
+					<quality>Plastic Soul (Cyberware)</quality>
+					<quality>Biocompatibility (Bioware)</quality>
+					<magenabled />
+					<resenabled />
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>624fa943-c0a1-44ee-8cd8-3aef4bea3f4c</id>
+			<name>Polymath</name>
+			<karma>8</karma>
+			<category>Positive</category>
+			<bonus>
+				<activeskillkarmacost>
+					<name />
+					<val>-2</val>
+					<min>6</min>
+					<condition>career</condition>
+				</activeskillkarmacost>
+				<knowledgeskillkarmacost>
+					<name />
+					<val>-2</val>
+					<min>6</min>
+					<condition>career</condition>
+				</knowledgeskillkarmacost>
+			</bonus>
+			<required>
+				<oneof>
+					<quality>Jack of All Trades Master of None</quality>
+				</oneof>
+			</required>
+			<forbidden>
+				<oneof>
+					<magenabled />
+					<resenabled />
+				</oneof>
+			</forbidden>
 			<source>NA</source>
 			<page>0</page>
 		</quality>
@@ -285,6 +788,7 @@
 			<name>Mute</name>
 			<karma>-5</karma>
 			<category>Negative</category>
+			<bonus />
 			<source>NA</source>
 			<page>161</page>
 		</quality>
@@ -293,6 +797,7 @@
 			<name>Pop Culture Wizard</name>
 			<karma>-6</karma>
 			<category>Negative</category>
+			<bonus />
 			<required>
 				<allof>
 					<attribute>
@@ -315,6 +820,29 @@
 				</oneof>
 			</forbidden>
 		-->
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>6fc1a429-31b3-4a3f-815d-ec33498faad2</id>
+			<name>Pain Train</name>
+			<karma>8</karma>
+			<category>Positive</category>
+			<doublecareer>False</doublecareer>
+			<bonus>
+				<sprintbonus>
+					<category>Ground</category>
+					<val>200</val>
+				</sprintbonus>
+			</bonus>
+				<required>
+				<oneof>
+					<skill>
+						<name>Running</name>
+						<val>4</val>
+					</skill>
+				</oneof>
+			</required>
 			<source>NA</source>
 			<page>0</page>
 		</quality>
@@ -363,6 +891,56 @@
 			<page>0</page>
 		</quality>
 		<quality>
+			<id>9310a6d5-408a-4136-bd49-9d9b460a10d9</id>
+			<name>Slime Glands</name>
+			<karma>1</karma>
+			<category>Positive</category>
+			<metagenic>True</metagenic>
+			<bonus>
+				<specificskill>
+					<name>Escape Artist</name>
+					<bonus>2</bonus>
+				</specificskill>
+			</bonus>
+			<forbidden>
+				<oneof>
+					<quality>Dermal Alteration (Bark Skin)</quality>
+					<quality>Dermal Alteration (Blubber)</quality>
+					<quality>Dermal Alteration (Dragon Skin)</quality>
+					<quality>Dermal Alteration (Granite Shell)</quality>
+					<quality>Dermal Alteration (Rhino Hide)</quality>
+					<cyberware>Dermal Plating</cyberware>
+					<bioware>Orthoskin</bioware>
+					<bioware>Skin Pocket</bioware>
+					<bioware>Chameleon Skin</bioware>
+					<bioware>Chameleon Skin (Dynamic)</bioware>
+					<bioware>Chloroplast Skin</bioware>
+					<bioware>Sensitive Skin</bioware>
+					<bioware>Silky Skin</bioware>
+					<bioware>Skin Pigmentation</bioware>
+					<bioware>Skin Pigmentation (Permanent)</bioware>
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>624fa943-c0a1-44ee-8cd8-3aef4bea3f4d</id>
+			<name>Specialist</name>
+			<karma>7</karma>
+			<category>Positive</category>
+			<bonus />
+			<forbidden>
+				<oneof>
+					<quality>Jack of All Trades Master of None</quality>
+					<magenabled />
+					<resenabled />
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
 			<id>296ccfcd-de1a-4580-b66e-7d1d6482a92b</id>
 			<name>Spirit Blight</name>
 			<karma>-10</karma>
@@ -396,6 +974,20 @@
 					<percent>-50</percent>
 				</sprintbonus>
 			</bonus>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>624fa943-c0a1-44ee-8cd8-3aef4bea3f4f</id>
+			<name>Tacticool Mall Ninja</name>
+			<karma>6</karma>
+			<category>Positive</category>
+			<bonus />
+			<forbidden>
+				<oneof>
+					<quality>Thousand-Yard Stare</quality>
+				</oneof>
+			</forbidden>
 			<source>NA</source>
 			<page>0</page>
 		</quality>
@@ -433,6 +1025,46 @@
 					<bioware>Skin Pigmentation (Permanent)</bioware>
 				</oneof>
 			</forbidden>
+		</quality>
+		<quality>
+			<id>624fa943-c0a1-44ee-8cd8-3aef4bea3f4e</id>
+			<name>Uncommon Sense</name>
+			<karma>1</karma>
+			<category>Positive</category>
+			<bonus />
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>9310a6d5-408a-4136-bd49-9d9b460a10e2</id>
+			<name>Vestigal Wings</name>
+			<karma>-10</karma>
+			<category>Negative</category>
+			<metagenic>True</metagenic>
+			<bonus />
+			<forbidden>
+				<oneof>
+					<quality>Changeling (Class I SURGE)</quality>
+					<quality>Changeling (Class II SURGE)</quality>
+					<quality>Shiva Arms</quality>
+					<quality>Vestigal Wings</quality>
+					<cyberware>Cyber Manipulator</cyberware>
+				</oneof>
+			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>2b4dd1b1-b806-44e3-9067-65dc39c82d14</id>
+			<name>Worked For The Man</name>
+			<karma>1</karma>
+			<category>Positive</category>
+			<limit>5</limit>
+			<bonus>
+				<nuyenamt>4000</nuyenamt>
+			</bonus>
+			<source>NA</source>
+			<page>0</page>
 		</quality>
 	</qualities>
 </chummer>

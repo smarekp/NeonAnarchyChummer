@@ -11,7 +11,7 @@
 			<name>Cyber Manipulator</name>
 			<limit>4</limit>
 			<category>Cyberlimb</category>
-			<ess>1.5</ess>
+			<ess>1.25</ess>
 			<capacity>15</capacity>
 			<avail>8</avail>
 			<cost>20000</cost>
@@ -39,6 +39,7 @@
 			<forbidden>
 				<oneof>
 					<cyberware>Smart Articulation</cyberware>
+					<quality>Functional Wings</quality>
 				</oneof>
 			</forbidden>
 		</cyberware>

@@ -7,6 +7,27 @@
 <chummer>
 	<powers>
 		<power>
+			<id>f5a9fbe3-22cb-4f8f-af37-a78bb9597760</id>
+			<name>Critical Strike (Archery)</name>
+			<points>0.5</points>
+			<levels>False</levels>
+			<limit>1</limit>
+			<source>NA</source>
+			<page>1</page>
+			<adeptway>0.25</adeptway>
+			<bonus>
+				<weaponcategorydv>
+					<selectskill limittoskill="Archery" />
+					<bonus>1</bonus>
+				</weaponcategorydv>
+			</bonus>
+			<required>
+				<oneof>
+					<power>Mystic Archery</power>
+				</oneof>
+			</required>
+		</power>
+		<power>
 			<id>61f300dc-4e42-445e-a293-4300d079dd14</id>
 			<name>Burst of Speed</name>
 			<points>1</points>
@@ -23,10 +44,29 @@
 			<name>Elemental Quiver</name>
 			<points>0.5</points>
 			<levels>False</levels>
+			<limit>100</limit>
+			<source>NA</source>
+			<page>1</page>
+			<action>Simple</action>
+			<adeptway>0.25</adeptway>
+			<bonus>
+				<selecttext xml="strings.xml" xpath="/chummer/elements/element" allowedit="True" />
+			</bonus>
+			<required>
+				<oneof>
+					<power>Mystic Archery</power>
+				</oneof>
+			</required>
+		</power>
+		<power>
+			<id>0fddf895-e28d-401d-b855-83d5af3f943a</id>
+			<name>Force Strike</name>
+			<points>1.5</points>
+			<levels>False</levels>
 			<limit>1</limit>
 			<source>NA</source>
 			<page>1</page>
-			<adeptway>0.25</adeptway>
+			<adeptway>0.75</adeptway>
 		</power>
 		<power>
 			<id>933e2ed4-1725-41ca-9614-9f5e48a03643</id>
@@ -36,6 +76,7 @@
 			<limit>1</limit>
 			<source>NA</source>
 			<page>1</page>
+			<action>Complex</action>
 			<adeptway>0.5</adeptway>
 		</power>
 		<power>
@@ -49,6 +90,16 @@
 			<adeptway>0.25</adeptway>
 		</power>
 		<power>
+			<id>8caaadf4-75b4-4535-928a-5648d395c13b</id>
+			<name>Previsualization</name>
+			<points>0.25</points>
+			<levels>True</levels>
+			<limit>4</limit>
+			<source>NA</source>
+			<page>0</page>
+			<action>Free</action>
+		</power>
+		<power>
 			<id>08404891-7c86-4366-8145-51252efb8caa</id>
 			<name>Protect Animal</name>
 			<points>0.5</points>
@@ -57,6 +108,16 @@
 			<source>NA</source>
 			<page>1</page>
 			<adeptway>0.25</adeptway>
+		</power>
+		<power>
+			<id>fb0d4dca-e6b9-4fa2-9c28-5ad981d050a9</id>
+			<name>Rapid Aim</name>
+			<points>1.0</points>
+			<levels>False</levels>
+			<limit>1</limit>
+			<source>NA</source>
+			<page>1</page>
+			<adeptway>0.5</adeptway>
 		</power>
 		<power>
 			<id>fb0d4dca-e6b9-4fa2-9c28-5ad981d050a8</id>

@@ -24,7 +24,7 @@
       <name>Gun Kata</name>
       <techniques>
 	    <technique amendoperation="addnode">
-          <name>Akimbo (Gun Kata)</name>
+          <name>Akimbo</name>
         </technique>
       </techniques>
     </martialart>
@@ -32,7 +32,7 @@
       <name>The Cowboy Way</name>
       <techniques>
 	    <technique amendoperation="addnode">
-          <name>Akimbo (The Cowboy Way)</name>
+          <name>Akimbo</name>
         </technique>
       </techniques>
     </martialart>
