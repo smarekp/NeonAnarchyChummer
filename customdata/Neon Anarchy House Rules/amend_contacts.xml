@@ -29,24 +29,25 @@
 		<type>Expert Alchemist</type>
 		<type>Harmacist</type>
 		<type>Here Are Your Passports</type>
+		<type>I Want It Now!</type>
 		<type>It Will Be Removed</type>
 		<type>Made Man ([Faction])</type>
 		<type>More Dakka!</type>
 		<type>Misdirection</type>
+		<type>My Kind Of Crazy</type>
 		<type>Nanomachines, Son!</type>
 		<type>On The House</type>
 		<type>Perfect Fit</type>
 		<type>Pet Sematary</type>
-		<type>Prototype Gene Therapy</type>
 		<type>Refurbished Ware</type>
 		<type>See You On The Other Side</type>
-		<type>Side Business</type>
+		<type>Side Business ([Domain])</type>
 		<type>Spirit Mark</type>
 		<type>Tattoo Artist</type>
 		<type>That Costs Extra</type>
 		<type>The Best Breed</type>
 		<type>You Are Safe Here</type>
-		<type>I Want It Now!</type>
+		
 	</types>
 	<!--
 	<types amendoperation="replace">

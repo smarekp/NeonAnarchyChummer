@@ -406,7 +406,6 @@ Last updated 2021-01-03 at 2:21 UTC.
 - Dracoform (Feathered Drake)
 - Dracoform (Sea Drake)
 - Dracoform (Western Drake)
-- Dual-Natured Defender
 - Earther
 - Friends in High Places
 - Groveler
