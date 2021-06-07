@@ -40,7 +40,7 @@ Last updated 2021-06-07 at 8:25 UTC.
 - Biofiber Pocket Upkeep (1 Month Advance Payment)
 - Bi-polar Medication (1 Month Advance Payment)
 - Bi-polar Medication (Street, Daily Dose)
-- RCC Stealth Expansion
+- RCC Stealth Expansion  
 ```Availability: Rating*2R; Category: RCC Accessories; Cost: Rating * Rating * 3000; a copy of the Stealth Dongle but for RCCs```
 
 ### Lifestyle Qualities
