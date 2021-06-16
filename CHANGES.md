@@ -1,6 +1,6 @@
 # Changelist
 
-Last updated 2021-06-07 at 8:25 UTC.
+Last updated 2021-06-16 at 5:40 UTC.
 
 ## Added
 
@@ -41,7 +41,7 @@ Last updated 2021-06-07 at 8:25 UTC.
 - Bi-polar Medication (1 Month Advance Payment)
 - Bi-polar Medication (Street, Daily Dose)
 - RCC Stealth Expansion  
-```Availability: Rating*2R; Category: RCC Accessories; Cost: Rating * Rating * 3000; a copy of the Stealth Dongle but for RCCs```
+```Availability: Rating*2R; Category: RCC Accessories; Cost: Rating * Rating * 1000; based on the Stealth Dongle```
 
 ### Lifestyle Qualities
 
