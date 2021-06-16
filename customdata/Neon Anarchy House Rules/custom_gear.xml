@@ -40,7 +40,7 @@
 		  <page>24</page>
 		  <avail>(Rating*2)R</avail>
 		  <armorcapacity>[2]</armorcapacity>
-		  <cost>(Rating*Rating)*3000</cost>
+		  <cost>(Rating*Rating)*1000</cost>
 		  <devicerating>0</devicerating>
 		  <modsleaze>{Rating}</modsleaze>
 		  <required>
