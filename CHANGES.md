@@ -1,6 +1,6 @@
 # Changelist
 
-Last updated 2021-06-16 at 5:40 UTC.
+Last updated 2021-06-18 at 12:45 UTC.
 
 ## Added
 
@@ -460,6 +460,7 @@ Last updated 2021-06-16 at 5:40 UTC.
 - Biotechnology
 - Chemistry
 - Cybertechnology
+- Medicine
 - Instruction
 - Aeronautics Mechanic
 - Automotive Mechanic
