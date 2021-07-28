@@ -43,9 +43,10 @@
 			<name>First Aid</name>
 			<skillgroup amendoperation="replace" />
 		</skill>
-		<skill>
+		<skill amendoperation="remove">
 			<name>Medicine</name>
 			<skillgroup amendoperation="replace" />
+			<hide />
 		</skill>
 		<skill amendoperation="remove">
 			<name>Instruction</name>
