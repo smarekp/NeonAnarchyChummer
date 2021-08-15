@@ -71,6 +71,10 @@
 			<hide />
 		</quality>
 		<quality>
+			<name>Echo Chamber</name>
+			<hide />
+		</quality>
+		<quality>
 			<name>Friends in High Places</name>
 			<hide />
 		</quality>
