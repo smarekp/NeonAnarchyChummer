@@ -1,6 +1,6 @@
 # Changelist
 
-Last updated 2021-06-18 at 12:45 UTC.
+Last updated 2021-08-15 at 16:45 UTC.
 
 ## Added
 
@@ -116,6 +116,8 @@ Last updated 2021-06-18 at 12:45 UTC.
 
 ### Gear
 
+- Animals of all kinds  
+```Given prices and availabilities```
 - Ammo: Gyrojet  
 ```Availability: 12F```
 - Grey Mana Tattoos  
@@ -323,6 +325,14 @@ Last updated 2021-06-18 at 12:45 UTC.
 ```Uses Medium/Heavy Machinegun ranges```
 - Krime Monster  
 ```Uses Medium/Heavy Machinegun ranges; Uses Machine Guns specialization```
+- Heavy Crossbow  
+```Allow top-mount accessories```
+- Light Crossbow  
+```Allow top-mount accessories```
+- Medium Crossbow  
+```Allow top-mount accessories```
+- Ranger Sliver Pistol Crossbow  
+```Allow top-mount accessories```
 
 ### Weapon Mods
 
@@ -410,6 +420,7 @@ Last updated 2021-06-18 at 12:45 UTC.
 - Dracoform (Sea Drake)
 - Dracoform (Western Drake)
 - Earther
+- Echo Chamber
 - Friends in High Places
 - Groveler
 - Hung Out to Dry
