@@ -44,5 +44,33 @@
 				<useskillspec amendoperation="remove">Bola</useskillspec>
 			</weapon>
 		-->
+	<weapon>
+      <name>Heavy Crossbow</name>
+      <accessorymounts>
+        <mount>Top</mount>
+        <!--<mount>Under</mount> I hope your dream comes true one day, Moebius-->
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <name>Light Crossbow</name>
+		<accessorymounts>
+        <mount>Top</mount>
+        <!--<mount>Under</mount> I hope your dream comes true one day, Moebius-->
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <name>Medium Crossbow</name>
+      <accessorymounts>
+        <mount>Top</mount>
+        <!--<mount>Under</mount> I hope your dream comes true one day, Moebius-->
+      </accessorymounts>
+    </weapon>
+    <weapon>
+      <name>Ranger Sliver Pistol Crossbow</name>
+      <accessorymounts>
+        <mount>Top</mount>
+        <!--<mount>Under</mount> I hope your dream comes true one day, Moebius-->
+      </accessorymounts>
+    </weapon>
 	</weapons>
 </chummer>
