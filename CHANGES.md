@@ -21,6 +21,8 @@ Last updated 2021-08-15 at 16:45 UTC.
 
 ### Gear
 
+- Animals  
+```Given prices and availabilities - see custom_animals_gear file```
 - All Common Programs  
 ```Availability: 0; Category: Common Programs; Cost: 800```
 - All Hacking Programs  
@@ -116,8 +118,6 @@ Last updated 2021-08-15 at 16:45 UTC.
 
 ### Gear
 
-- Animals of all kinds  
-```Given prices and availabilities```
 - Ammo: Gyrojet  
 ```Availability: 12F```
 - Grey Mana Tattoos  
