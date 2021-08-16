@@ -72,5 +72,13 @@
         <!--<mount>Under</mount> I hope your dream comes true one day, Moebius-->
       </accessorymounts>
     </weapon>
+	<weapon>
+      <name>Mitsubishi Yakusoku MRL</name>
+      <accuracy>5</accuracy>
+    </weapon>
+	<weapon>
+      <name>Onotari Arms Ballista MML</name>
+      <accuracy>5</accuracy>
+    </weapon>
 	</weapons>
 </chummer>
