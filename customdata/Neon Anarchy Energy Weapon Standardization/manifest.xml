@@ -19,4 +19,10 @@
         <lang>en-us</lang>
       </description>
     </descriptions>
+	<dependencies>
+	  <dependency>
+		  <name>Neon Anarchy House Rules</name>
+		  <guid>4b3a4c48-d2af-4e46-9d27-9f06eab83c0c</guid>
+	  </dependency>
+	</dependencies>
   </manifest>
