@@ -333,9 +333,9 @@ Last updated 2021-08-16 at 12:45 UTC.
 ```Allow top-mount accessories```
 - Ranger Sliver Pistol Crossbow  
 ```Allow top-mount accessories```
-- Mitsubishi Yakusoku MRL 
+- Mitsubishi Yakusoku MRL  
 ```Accuracy: 5```
-- Onotari Arms Ballista MML 
+- Onotari Arms Ballista MML  
 ```Accuracy: 5```
 
 ### Weapon Mods
