@@ -20,8 +20,20 @@
 			<limit>3</limit>
 		</echo>
 		<echo>
+			<id>b19b2229-a3c6-459a-b042-1b7d8fdabb3f</id>
+			<name>Drone Companion</name>
+			<source>NA</source>
+			<page>1</page>
+			<limit>1<limit>
+			<required>
+				<oneof>
+					<quality>Resonant Stream: Machinist</quality>
+				</oneof>
+			</required>
+		</echo>
+		<echo>
 			<id>b19b2229-a3c6-459a-b042-1b7d8fdabb3e</id>
-			<name>CASIE</name>
+			<name>Resonance Empathy</name>
 			<source>NA</source>
 			<page>1</page>
 			<bonus>

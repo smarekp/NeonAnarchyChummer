@@ -459,16 +459,10 @@
 			<bonus />
 			<required>
 				<allof>
-					<oneof>
-						<skill>
-							<name>Automatics</name>
-							<val>6</val>
-						</skill>
-						<skill>
-							<name>Pistols</name>
-							<val>6</val>
-						</skill>
-					</oneof>
+					<skill>
+						<name>Pistols</name>
+						<val>6</val>
+					</skill>
 					<martialtechnique>Akimbo</martialtechnique>
 				</allof>
 			</required>
@@ -767,6 +761,36 @@
 					<resenabled />
 				</oneof>
 			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>8eac3326-c2b6-4301-a9a2-ecba40dda96e</id>
+			<name>Raised By The Trideo</name>
+			<karma>4</karma>
+			<category>Positive</category>
+			<bonus>
+				<skillcategorykarmacost>
+					<name>Interest</name>
+					<val>-1</val>
+					<min>3</min>
+					<condition>career</condition>
+				</skillcategorykarmacost>
+				<skillcategorykarmacostmultiplier>
+					<name>Interest</name>
+					<val>50</val>
+					<condition>create</condition>
+				</skillcategorykarmacostmultiplier>
+				<skillcategorypointcostmultiplier>
+					<name>Interest</name>
+					<val>50</val>
+				</skillcategorypointcostmultiplier>
+				<skillcategoryspecializationkarmacostmultiplier>
+					<name>Interest</name>
+					<val>50</val>
+					<condition>create</condition>
+				</skillcategoryspecializationkarmacostmultiplier>
+			</bonus>
 			<source>NA</source>
 			<page>0</page>
 		</quality>

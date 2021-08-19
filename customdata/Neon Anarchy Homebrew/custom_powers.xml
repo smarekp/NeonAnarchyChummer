@@ -129,5 +129,63 @@
 			<page>1</page>
 			<adeptway>0.25</adeptway>
 		</power>
+		<power>
+			<id>fb0d4dca-e6b9-4fa2-9c28-5ad981d050d2<id>
+			<name>Magic Missile</name>
+			<points>0.5</points>
+			<levels>False</levels>
+			<limit>1</limit>
+			<source>NA</source>
+			<page>1</page>
+			<adeptway>0.25</adeptway>
+		</power>
+		<power>
+			<id>fb0d4dca-e6b9-4fa2-9c28-5ad981d050aa</id>
+			<name>Elemental Missile</name>
+			<points>0.5</points>
+			<levels>False</levels>
+			<limit>100</limit>
+			<source>NA</source>
+			<page>1</page>
+			<adeptway>0.25</adeptway>
+			<bonus>
+				<selecttext xml="strings.xml" xpath="/chummer/elements/element" allowedit="True" />
+			</bonus>
+			<required>
+				<oneof>
+					<power>Magic Missile</power>
+				</oneof>
+			</required>
+		</power>
+		<power>
+			<id>dbf16604-164c-485c-96c8-fe3136cd5cdf</id>
+			<name>Critical Strike (Throwing)</name>
+			<points>0.5</points>
+			<levels>False</levels>
+			<limit>100</limit>
+			<source>SR5</source>
+			<page>309</page>
+			<adeptway>0.25</adeptway>
+			<adeptwayrequires>
+				<required>
+					<oneof>
+						<quality>The Invisible Way</quality>
+						<quality>The Spiritual Way</quality>
+						<quality>The Warrior's Way</quality>
+					</oneof>
+				</required>
+			</adeptwayrequires>
+			<bonus>
+				<weaponcategorydv>
+					<selectskill limittoskill="Throwing Weapons" />
+					<bonus>1</bonus>
+				</weaponcategorydv>
+			</bonus>
+			<required>
+				<oneof>
+					<power>Magic Missile</power>
+				</oneof>
+			</required>
+		</power>
 	</powers>
 </chummer>

@@ -7,35 +7,18 @@
 <chummer>
 	<biowares>
 		<bioware>
-			<id>96cac9dc-7412-4e02-aa8f-bab53cc2f2aa</id>
-			<name>Persona Booster</name>
+			<id>e9809ead-9028-49b0-bcbe-b2b6538b50aa</id>
+			<name>Neural Hardening</name>
 			<category>Cultured</category>
-			<ess>Rating * 0.2</ess>
+			<ess>Rating * 0.1</ess>
 			<capacity>0</capacity>
 			<avail>(Rating * 6)</avail>
-			<cost>Rating * 35000</cost>
+			<cost>Rating * 20000</cost>
+			<rating>3</rating>
 			<bonus>
-				<specificattribute>
-					<name precedence="0">CHA</name>
-					<val>Rating</val>
-				</specificattribute>
-			</bonus>
-			<source>NA</source>
-			<page>1</page>
-		</bioware>
-		<bioware>
-			<id>e9809ead-9028-49b0-bcbe-b2b6538b50a9</id>
-			<name>Prefrontal Cortex Booster</name>
-			<category>Cultured</category>
-			<ess>Rating * 0.2</ess>
-			<capacity>0</capacity>
-			<avail>(Rating * 6)</avail>
-			<cost>Rating * 35000</cost>
-			<bonus>
-				<specificattribute>
-					<name precedence="0">WIL</name>
-					<val>Rating</val>
-				</specificattribute>
+				<conditionmonitor>
+					<stun>Rating</stun>
+				</conditionmonitor>
 			</bonus>
 			<source>NA</source>
 			<page>1</page>
@@ -46,8 +29,9 @@
 			<category>Cultured</category>
 			<ess>Rating * 0.2</ess>
 			<capacity>0</capacity>
-			<avail>(Rating * 6)</avail>
+			<avail>(Rating * 8)</avail>
 			<cost>Rating * 40000</cost>
+			<rating>2</rating>
 			<bonus>
 				<specificattribute>
 					<name precedence="0">BOD</name>

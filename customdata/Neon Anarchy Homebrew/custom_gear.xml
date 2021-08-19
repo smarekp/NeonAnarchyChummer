@@ -54,6 +54,50 @@
 			</bonus>
 		</gear>
 		<gear>
+			<id>14243f3e-8d05-480d-8e74-b90ee615e700</id>
+			<name>Myomeric Data Cable (10m)</name>
+			<category>Tools of the Trade</category>
+			<rating>999</rating>
+			<source>NA</source>
+			<page>49</page>
+			<avail>8</avail>
+			<allowgear>
+				<name>Manipulator Claw (Myomeric Data Cable)</name>
+				<name>Micro-Camera (Myomeric Data Cable)</name>
+			</allowgear>
+			<cost>Rating*250</cost>
+		</gear>
+		<gear>
+			<id>14243f3e-8d05-480d-8e74-b90ee615e701</id>
+			<name>Manipulator Claw (Myomeric Data Cable)</name>
+			<category>Tools of the Trade</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>49</page>
+			<avail>+1</avail>
+			<cost>+50</cost>
+			<required>
+				<geardetails>
+					<name>Myomeric Data Cable (10m)</name>
+				</geardetails>
+			</required>
+		</gear>
+		<gear>
+			<id>14243f3e-8d05-480d-8e74-b90ee615e702</id>
+			<name>Micro-Camera (Myomeric Data Cable)</name>
+			<category>Tools of the Trade</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>49</page>
+			<avail>+1</avail>
+			<cost>+100</cost>
+			<required>
+				<geardetails>
+					<name>Myomeric Data Cable (10m)</name>
+				</geardetails>
+			</required>
+		</gear>
+		<gear>
 			<id>73ac9f1a-adfe-4807-b511-1d3162a4f8be</id>
 			<name>Elemental Essence</name>
 			<category>Magical Supplies</category>
@@ -66,6 +110,46 @@
 				<selecttext xml="strings.xml" xpath="/chummer/baseelements/baseelement" />
 			</bonus>
 			<notes>To attune, you must manually deduct karma.</notes>
+		</gear>
+		<gear>
+			<id>b8ad45b8-35f7-4c2c-b9cd-29fbeb59b8f2</id>
+			<name>HMC Cylinder</name>
+			<category>Magical Supplies</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>59</page>
+			<avail>8R</avail>
+			<cost>250</cost>
+		</gear>
+		<gear>
+			<id>b8ad45b8-35f7-4c2c-b9cd-29fbeb59b8f3</id>
+			<name>HMC Cylinder</name>
+			<category>Magical Supplies</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>59</page>
+			<avail>10R</avail>
+			<cost>500</cost>
+		</gear>
+		<gear>
+			<id>b8ad45b8-35f7-4c2c-b9cd-29fbeb59b8f4</id>
+			<name>HMC Coffin</name>
+			<category>Magical Supplies</category>
+			<rating>0</rating>
+			<source>KC</source>
+			<page>59</page>
+			<avail>12R</avail>
+			<cost>2000</cost>
+		</gear>
+		<gear>
+			<id>b8ad45b8-35f7-4c2c-b9cd-29fbeb59b8f1</id>
+			<name>Spirit Lantern</name>
+			<category>Magical Supplies</category>
+			<rating>6</rating>
+			<source>NA</source>
+			<page>59</page>
+			<avail>10</avail>
+			<cost>Rating*200</cost>
 		</gear>
 		<gear>
 			<id>19d5d62b-669e-4f99-a8e7-eb0210d3ca94</id>
@@ -204,6 +288,21 @@
 			</weaponbonus>
 		</gear>
 		<gear>
+			<id>def7b9e4-ea92-487a-aee3-207be7dcbd95</id>
+			<name>Ammo: Assault Cannon Canister</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>34</page>
+			<avail>15F</avail>
+			<cost>600</cost>
+			<costfor>10</costfor>
+			<weaponbonus>
+				<damage>2</damage>
+				<ap>+5</ap>
+			</weaponbonus>
+		</gear>
+		<gear>
 			<id>ef420bc3-2006-4427-8918-641d175bef2d</id>
 			<name>Ammo: Assault Cannon Incendiary</name>
 			<category>Ammunition</category>
@@ -216,6 +315,21 @@
 			<weaponbonus>
 				<damage>1</damage>
 				<damagetype>P(fire)</damagetype>
+			</weaponbonus>
+		</gear>
+		<gear>
+			<id>ef420bc3-2006-4427-8918-641d175bef2e</id>
+			<name>Ammo: Assault Cannon Shocker</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>34</page>
+			<avail>12F</avail>
+			<cost>700</cost>
+			<costfor>10</costfor>
+			<weaponbonus>
+				<damage>0</damage>
+				<damagetype>P(e)</damagetype>
 			</weaponbonus>
 		</gear>
 		<gear>
@@ -296,7 +410,7 @@
 		</gear>
 		<gear>
 			<id>1c2f1d6b-a1dd-4d4d-b8df-bbe33bb92b82</id>
-			<name>Mechanized Exoskeleton</name>
+			<name>Powered Exoskeleton</name>
 			<category>Armor Enhancements</category>
 			<rating>0</rating>
 			<armorcapacity>[3]</armorcapacity>

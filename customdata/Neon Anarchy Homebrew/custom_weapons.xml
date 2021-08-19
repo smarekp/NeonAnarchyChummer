@@ -27,6 +27,66 @@
 			<spec>Shields</spec>
 		</weapon>
 		<weapon>
+			<id>343e7287-a7f0-48f5-8fdf-4a6fc785f2ce</id>
+			<name>Spinrad Frisbee Shield (Melee)</name>
+			<category>Exotic Melee Weapons</category>
+			<type>Melee</type>
+			<conceal>+8</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>(STR+1)P</damage>
+			<ap>-1</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>14R</avail>
+			<cost>0</cost>
+			<source>NA</source>
+			<page>38</page>
+			<hide />
+			<spec>Shields</spec>
+		</weapon>
+		<weapon>
+			<id>343e7287-a7f0-48f5-8fdf-4a6fc785f2cf</id>
+			<name>Spinrad Frisbee Shield (Thrown, Lethal)</name>
+			<category>Exotic Melee Weapons</category>
+			<type>Ranged</type>
+			<conceal>+8</conceal>
+			<accuracy>Physical-1</accuracy>
+			<reach>0</reach>
+			<damage>(STR+2)P</damage>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>14R</avail>
+			<cost>0</cost>
+			<source>NA</source>
+			<page>38</page>
+			<hide />
+			<range>Thrown Knife</range>
+			<useskill>Throwing Weapons</useskill>
+		</weapon>
+		<weapon>
+			<id>343e7287-a7f0-48f5-8fdf-4a6fc785f2d0</id>
+			<name>Spinrad Frisbee Shield (Thrown, Non-Lethal)</name>
+			<category>Exotic Melee Weapons</category>
+			<type>Ranged</type>
+			<conceal>+8</conceal>
+			<accuracy>Physical-1</accuracy>
+			<reach>0</reach>
+			<damage>(STR)S</damage>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>14R</avail>
+			<cost>0</cost>
+			<source>NA</source>
+			<page>38</page>
+			<hide />
+			<range>Thrown Knife</range>
+			<useskill>Throwing Weapons</useskill>
+		</weapon>
+		<weapon>
 			<id>b21d4028-a574-437c-908c-5c97c778162e</id>
 			<name>Hook Sword</name>
 			<category>Blades</category>
@@ -47,7 +107,7 @@
 		</weapon>
 		<weapon>
 			<id>5189de31-2477-4d1f-85eb-61addf287047</id>
-			<name>Krime Wall of Spikes Shield</name>
+			<name>Krime Porcupine Shield</name>
 			<category>Exotic Melee Weapons</category>
 			<type>Melee</type>
 			<conceal>+8</conceal>
@@ -117,8 +177,8 @@
 			<mode>0</mode>
 			<rc>0</rc>
 			<ammo>0</ammo>
-			<avail>14F</avail>
-			<cost>1000</cost>
+			<avail>15F</avail>
+			<cost>5500</cost>
 			<source>NA</source>
 			<page>42</page>
 			<addweapon>Renraku Raijin Lightning Sword Lightning Mode</addweapon>
@@ -184,6 +244,67 @@
 			<page>21</page>
 			<useskill>Atypical Melee</useskill>
 			<hide />
+		</weapon>
+		<weapon>
+			<id>df19a07f-cc04-44b6-b9b2-6d4fe73062e5</id>
+			<name>Ares Avenger Microgun</name>
+			<category>Light Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>11P</damage>
+			<ap>-2</ap>
+			<mode>FA</mode>
+			<rc>0</rc>
+			<ammo>100(belt)</ammo>
+			<avail>14F</avail>
+			<cost>8000</cost>
+			<source>NA</source>
+			<page>42</page>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Internal</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<range>Assault Rifles</range>
+			<spec>Machine Guns</spec>
+		</weapon>
+		<weapon>
+			<id>df19a07f-cc04-44b6-b9b2-6d4fe73062e6</id>
+			<name>Ares Templar Super Heavy Laser</name>
+			<category>Laser Weapons</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>7</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-10</ap>
+			<mode>BF/FA</mode>
+			<rc>0</rc>
+			<ammo>External Source</ammo>
+			<avail>26F</avail>
+			<cost>50000</cost>
+			<source>NA</source>
+			<page>42</page>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Internal</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<range>Sniper Rifles</range>
+			<useskillspec>Laser Weapons</useskillspec>
 		</weapon>
 		<weapon>
 			<id>b441299b-850d-468d-b8ec-b60eb62c098c</id>
@@ -307,6 +428,67 @@
 			<notes>Ammo must be manually purchased through the gear tab (search for Airsoft Pellets). Firing capsule rounds and automatically depleting gas canisters are not currently supported in chummer.</notes>
 		</weapon>
 		<weapon>
+			<id>31269939-24bb-405a-aa5e-a1b77458a1e0</id>
+			<name>HK Double Defender</name>
+			<category>Shotguns</category>
+			<type>Ranged</type>
+			<conceal>7</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>12P</damage>
+			<ap>-1</ap>
+			<mode>SS</mode>
+			<rc>1</rc>
+			<ammo>14(c)</ammo>
+			<avail>12R</avail>
+			<cost>1400</cost>
+			<source>NA</source>
+			<page>22</page>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+				<accessory>
+					<name>Foregrip</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Internal</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<alternaterange>Shotguns (flechette)</alternaterange>
+		</weapon>
+		<weapon>
+			<id>3a7a90ce-fbb5-4599-a857-b9849eb9769d</id>
+			<name>Krime Leadspitter DBAR</name>
+			<category>Assault Rifles</category>
+			<type>Ranged</type>
+			<conceal>7</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>11P</damage>
+			<ap>-2</ap>
+			<mode>0</mode>
+			<rc>2</rc>
+			<ammo>30(c)x2</ammo>
+			<avail>12F</avail>
+			<cost>2800</cost>
+			<source>NA</source>
+			<page>42</page>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Internal</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
 			<id>72036765-7792-4128-b70b-1fa177675eb7</id>
 			<name>Krime Face Melter</name>
 			<category>Exotic Ranged Weapons</category>
@@ -314,7 +496,7 @@
 			<conceal>+6</conceal>
 			<accuracy>6</accuracy>
 			<reach>0</reach>
-			<damage>7P(a)</damage>
+			<damage>9P(a)</damage>
 			<ap>-7</ap>
 			<mode>SS</mode>
 			<rc>0</rc>
@@ -375,6 +557,146 @@
 				<mount>Under</mount>
 			</accessorymounts>
 			<alternaterange>Shotguns (flechette)</alternaterange>
+		</weapon>
+		<weapon>
+			<id>bcaa065e-3a38-4c14-9839-a24d3aef2cc6</id>
+			<name>M134 Minigun</name>
+			<category>Heavy Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>13P</damage>
+			<ap>-4</ap>
+			<mode>FA</mode>
+			<rc>0</rc>
+			<ammo>200(belt)</ammo>
+			<avail>18F</avail>
+			<cost>16000</cost>
+			<source>NA</source>
+			<page>0</page>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Internal</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<range>Medium/Heavy Machinegun</range>
+			<spec>Machine Guns</spec>
+		</weapon>
+		<weapon>
+			<id>bcaa065e-3a38-4c14-9839-a24d3aef2cc5</id>
+			<name>M240 Rambo</name>
+			<category>Medium Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>12P</damage>
+			<ap>-4</ap>
+			<mode>FA</mode>
+			<rc>4</rc>
+			<ammo>100(belt)</ammo>
+			<avail>15F</avail>
+			<cost>8000</cost>
+			<source>NA</source>
+			<page>0</page>
+			<accessories>
+				<accessory>
+					<name>Shock Pad</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Internal</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<range>Medium/Heavy Machinegun</range>
+			<spec>Machine Guns</spec>
+		</weapon>
+		<weapon>
+			<id>cb04b4c1-97ff-4984-9bc8-943e5f3ac558</id>
+			<name>M249 SAW</name>
+			<category>Light Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>11P</damage>
+			<ap>-2</ap>
+			<mode>BF/FA</mode>
+			<rc>4</rc>
+			<ammo>50(c)</ammo>
+			<avail>12F</avail>
+			<cost>4000</cost>
+			<source>NA</source>
+			<page>430</page>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Internal</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<spec>Machine Guns</spec>
+		</weapon>
+		<weapon>
+			<id>f096953c-1418-4dd3-887b-71c6a4436584</id>
+			<name>Spinrad Industries Shock Ball</name>
+			<category>Gear</category>
+			<type>Ranged</type>
+			<conceal>+4</conceal>
+			<accuracy>Physical-1</accuracy>
+			<reach>0</reach>
+			<damage>9S(e)</damage>
+			<ap>-5</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>6R</avail>
+			<cost>1000</cost>
+			<source>NA</source>
+			<page>424</page>
+			<range>Thrown Knife</range>
+			<useskill>Throwing Weapons</useskill>
+			<addweapon>Spinrad Industries Shock Ball (Kinetic)</addweapon>
+		</weapon>
+		<weapon>
+			<id>f096953c-1418-4dd3-887b-71c6a4436585</id>
+			<name>Spinrad Industries Shock Ball (Kinetic)</name>
+			<category>Gear</category>
+			<type>Ranged</type>
+			<conceal>+4</conceal>
+			<accuracy>Physical-1</accuracy>
+			<reach>0</reach>
+			<damage>(STR)S</damage>
+			<ap>0</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>6R</avail>
+			<cost>0</cost>
+			<source>NA</source>
+			<page>424</page>
+			<range>Thrown Knife</range>
+			<useskill>Throwing Weapons</useskill>
+			<hide />
 		</weapon>
 		<weapon>
 			<id>9d48c849-bd46-42ef-9c8f-0852c872847d</id>
@@ -613,6 +935,39 @@
 					<name>Krime Trollbow (Rating 12)</name>
 				</weapondetails>
 			</required>
+		</accessory>
+		<accessory>
+			<id>3c329adb-7c13-4d2c-b25c-49be89173fa2</id>
+			<name>Shotgun Suppressor</name>
+			<mount>Barrel</mount>
+			<avail>9F</avail>
+			<cost>600</cost>
+			<source>NA</source>
+			<page>32</page>
+			<required>
+				<weapondetails>
+					<OR>
+						<ammocategory>Shotguns</ammocategory>
+						<category>Shotguns</category>
+					</OR>
+				</weapondetails>
+			</required>
+			<rating>0</rating>
+		</accessory>
+		<accessory>
+			<id>3c329adb-7c13-4d2c-b25c-49be89173fa3</id>
+			<name>Pistol Brace</name>
+			<mount>Barrel</mount>
+			<avail>4R</avail>
+			<cost>200</cost>
+			<source>NA</source>
+			<page>42</page>
+			<required>
+				<weapondetails>
+					<category>Carbines</category>
+				</weapondetails>
+			</required>
+			<rating>0</rating>
 		</accessory>
 		<accessory>
 			<id>ebc53549-cdd3-43a5-b50d-09718be764a7</id>
