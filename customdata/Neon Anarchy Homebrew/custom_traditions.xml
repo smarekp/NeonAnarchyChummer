@@ -68,21 +68,14 @@
 					<name>Conjuring</name>
 					<bonus>2</bonus>
 				</specificskill>
-				<limitspiritcategory>
-					<spirit>Air</spirit>
-				</limitspiritcategory>
-				<limitspiritcategory>
-					<spirit>Earth</spirit>
-				</limitspiritcategory>
-				<limitspiritcategory>
-					<spirit>Fire</spirit>
-				</limitspiritcategory>
-				<limitspiritcategory>
-					<spirit>Water</spirit>
-				</limitspiritcategory>
 			</bonus>
-			<spirits />
-			<limitspiritchoices>False</limitspiritchoices>
+			<spirits>
+				<spiritcombat>Spirit of Fire</spiritcombat>
+				<spiritdetection>Spirit of Earth</spiritdetection>
+				<spirithealth>Spirit of Air</spirithealth>
+				<spiritillusion>Spirit of Water</spiritillusion>
+				<spiritmanipulation>Spirit of Water</spiritmanipulation>
+			</spirits>
 		</tradition>
 		<tradition>
 			<id>19320625-bc1a-492f-8904-da6a847e5714</id>

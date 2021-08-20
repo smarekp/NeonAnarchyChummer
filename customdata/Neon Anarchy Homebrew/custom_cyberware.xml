@@ -16,6 +16,14 @@
 			<cost>40000</cost>
 			<source>NA</source>
 			<page>56</page>
+			<required>
+				<parentdetails>
+					<OR>
+						<NONE />
+						<name operation="contains">Torso</name>
+					</OR>
+				</parentdetails>
+			</required>
 		</cyberware>
 		<cyberware>
 			<id>f0a4d29e-0614-4f0f-b41c-7e670f254c5b</id>
@@ -118,11 +126,11 @@
 					<bonus>Rating</bonus>
 				</skillcategory>
 			</bonus>
-				<forbidden>
-					<oneof>
-						<cyberware>Mnemonic Enhancer</cyberware>
-					</oneof>
-				</forbidden>
+			<forbidden>
+				<oneof>
+					<cyberware>Mnemonic Enhancer</cyberware>
+				</oneof>
+			</forbidden>
 		</cyberware>
 		<cyberware>
 			<id>f0a4d29e-0614-4f0f-b41c-7e670f254c5d</id>
