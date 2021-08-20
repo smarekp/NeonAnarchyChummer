@@ -10,12 +10,32 @@
 	</categories>
 	<gears>
 		<gear>
+			<id>a7380c0e-ec59-41bf-9c0d-8616a211e41d</id>
+			<name>Don-Ac-Dum BTL</name>
+			<category>BTLs</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>0</page>
+			<avail>8F</avail>
+			<cost>200</cost>
+		</gear>
+		<gear>
+			<id>255b0ddb-e406-422d-ad2c-1156d132bc59</id>
+			<name>Empathin</name>
+			<category>Drugs</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>0</page>
+			<avail>10R</avail>
+			<cost>50</cost>
+		</gear>
+		<gear>
 			<id>ac151186-5c73-4eee-bd5a-c64e9b1f88a9</id>
 			<name>Venomancer</name>
 			<category>Drugs</category>
 			<rating>0</rating>
 			<source>NA</source>
-			<page>180</page>
+			<page>0</page>
 			<avail>9R</avail>
 			<cost>400</cost>
 		</gear>
@@ -407,6 +427,78 @@
 			<avail>7F</avail>
 			<addweapon>Minigrenade: Grey Mana</addweapon>
 			<cost>300</cost>
+		</gear>
+		<gear>
+			<id>1f0cd121-473a-4477-beef-cde5ebdead01</id>
+			<name>Mortar Shell: Fireworks</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>0</page>
+			<avail>8R</avail>
+			<addweapon>Mortar Shell: Fireworks</addweapon>
+			<cost>10</cost>
+			<costfor>1</costfor>
+		</gear>
+		<gear>
+			<id>1f0cd121-473a-4477-beef-cde5ebdead02</id>
+			<name>Mortar Shell: Fragmentation</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>0</page>
+			<avail>15F</avail>
+			<addweapon>Mortar Shell: Fragmentation</addweapon>
+			<cost>500</cost>
+			<costfor>1</costfor>
+		</gear>
+		<gear>
+			<id>1f0cd121-473a-4477-beef-cde5ebdead03</id>
+			<name>Mortar Shell: Gas</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>0</page>
+			<avail>12R</avail>
+			<addweapon>Mortar Shell: Gas</addweapon>
+			<cost>300</cost>
+			<costfor>1</costfor>
+		</gear>
+		<gear>
+			<id>1f0cd121-473a-4477-beef-cde5ebdead04</id>
+			<name>Mortar Shell: High Explosive</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>0</page>
+			<avail>15F</avail>
+			<addweapon>Mortar Shell: High Explosive</addweapon>
+			<cost>500</cost>
+			<costfor>1</costfor>
+		</gear>
+		<gear>
+			<id>1f0cd121-473a-4477-b9c6-cde5ebdead05</id>
+			<name>Mortar Shell: Illumination</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>0</page>
+			<avail>12R</avail>
+			<addweapon>Mortar Shell: Illumination</addweapon>
+			<cost>600</cost>
+			<costfor>1</costfor>
+		</gear>
+		<gear>
+			<id>1f0cd121-473a-4477-beef-cde5ebdead06</id>
+			<name>Mortar Shell: Smoke</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>0</page>
+			<avail>12R</avail>
+			<addweapon>Mortar Shell: Smoke</addweapon>
+			<cost>300</cost>
+			<costfor>1</costfor>
 		</gear>
 		<gear>
 			<id>1c2f1d6b-a1dd-4d4d-b8df-bbe33bb92b82</id>

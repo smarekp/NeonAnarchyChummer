@@ -164,7 +164,20 @@
 			</allowgear>
 		</cyberware>
 		<cyberware>
-			<id>06e8d1e9-e999-4bd3-af7f-f59081573d14</id>
+			<id>1f0cd121-473a-4477-b9c6-cde5ebdead01</id>
+			<name>T-Ray Recognizer Overlay</name>
+			<limit>False</limit>
+			<category>Eyeware</category>
+			<ess>0</ess>
+			<capacity>[1]</capacity>
+			<avail>10R</avail>
+			<cost>1500</cost>
+			<source>NA</source>
+			<page>0</page>
+			<requireparent />
+		</cyberware>
+		<cyberware>
+			<id>1f0cd121-473a-4477-b9c6-cde5ebdead00</id>
 			<name>Target Predictor</name>
 			<limit>False</limit>
 			<category>Eyeware</category>

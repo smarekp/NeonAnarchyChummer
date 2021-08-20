@@ -6,6 +6,7 @@
 -->
 <chummer>
 	<weapons>
+		<!-- Begin section: NA melee weapons -->
 		<weapon>
 			<id>343e7287-a7f0-48f5-8fdf-4a6fc785f2cd</id>
 			<name>Ares Shock and Awe Buckler</name>
@@ -27,66 +28,6 @@
 			<spec>Shields</spec>
 		</weapon>
 		<weapon>
-			<id>343e7287-a7f0-48f5-8fdf-4a6fc785f2ce</id>
-			<name>Spinrad Frisbee Shield (Melee)</name>
-			<category>Exotic Melee Weapons</category>
-			<type>Melee</type>
-			<conceal>+8</conceal>
-			<accuracy>4</accuracy>
-			<reach>0</reach>
-			<damage>({STR}+1)P</damage>
-			<ap>-1</ap>
-			<mode>0</mode>
-			<rc>0</rc>
-			<ammo>0</ammo>
-			<avail>14R</avail>
-			<cost>0</cost>
-			<source>NA</source>
-			<page>38</page>
-			<hide />
-			<spec>Shields</spec>
-		</weapon>
-		<weapon>
-			<id>343e7287-a7f0-48f5-8fdf-4a6fc785f2cf</id>
-			<name>Spinrad Frisbee Shield (Thrown, Lethal)</name>
-			<category>Exotic Melee Weapons</category>
-			<type>Ranged</type>
-			<conceal>+8</conceal>
-			<accuracy>Physical-1</accuracy>
-			<reach>0</reach>
-			<damage>({STR}+2)P</damage>
-			<mode>0</mode>
-			<rc>0</rc>
-			<ammo>0</ammo>
-			<avail>14R</avail>
-			<cost>0</cost>
-			<source>NA</source>
-			<page>38</page>
-			<hide />
-			<range>Thrown Knife</range>
-			<useskill>Throwing Weapons</useskill>
-		</weapon>
-		<weapon>
-			<id>343e7287-a7f0-48f5-8fdf-4a6fc785f2d0</id>
-			<name>Spinrad Frisbee Shield (Thrown, Non-Lethal)</name>
-			<category>Exotic Melee Weapons</category>
-			<type>Ranged</type>
-			<conceal>+8</conceal>
-			<accuracy>Physical-1</accuracy>
-			<reach>0</reach>
-			<damage>({STR})S</damage>
-			<mode>0</mode>
-			<rc>0</rc>
-			<ammo>0</ammo>
-			<avail>14R</avail>
-			<cost>0</cost>
-			<source>NA</source>
-			<page>38</page>
-			<hide />
-			<range>Thrown Knife</range>
-			<useskill>Throwing Weapons</useskill>
-		</weapon>
-		<weapon>
 			<id>b21d4028-a574-437c-908c-5c97c778162e</id>
 			<name>Hook Sword</name>
 			<category>Blades</category>
@@ -104,6 +45,44 @@
 			<source>NA</source>
 			<page>42</page>
 			<spec>Swords</spec>
+		</weapon>
+		<weapon>
+			<id>e92ec20c-196b-40c2-a49b-b818feba7e61</id>
+			<name>Krime King Hit</name>
+			<category>Unarmed</category>
+			<type>Melee</type>
+			<conceal>+2</conceal>
+			<accuracy>Physical</accuracy>
+			<reach>0</reach>
+			<damage>({STR}+1)P</damage>
+			<ap>-</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>7R</avail>
+			<cost>800</cost>
+			<source>NA</source>
+			<page>0</page>
+			<useskill>Unarmed Combat</useskill>
+		</weapon>
+		<weapon>
+			<id>e92ec20c-196b-40c2-a49b-b818feba7e62</id>
+			<name>Krime King Hit Shotgun</name>
+			<category>Unarmed</category>
+			<type>Melee</type>
+			<conceal>0</conceal>
+			<accuracy>Physical</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-1</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>2(b)</ammo>
+			<avail>0</avail>
+			<cost>0</cost>
+			<source>NA</source>
+			<page>0</page>
+			<useskill>Unarmed Combat</useskill>
 		</weapon>
 		<weapon>
 			<id>5189de31-2477-4d1f-85eb-61addf287047</id>
@@ -206,6 +185,66 @@
 			<hide />
 		</weapon>
 		<weapon>
+			<id>343e7287-a7f0-48f5-8fdf-4a6fc785f2ce</id>
+			<name>Spinrad Frisbee Shield (Melee)</name>
+			<category>Exotic Melee Weapons</category>
+			<type>Melee</type>
+			<conceal>+8</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>({STR}+1)P</damage>
+			<ap>-1</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>14R</avail>
+			<cost>0</cost>
+			<source>NA</source>
+			<page>38</page>
+			<hide />
+			<spec>Shields</spec>
+		</weapon>
+		<weapon>
+			<id>343e7287-a7f0-48f5-8fdf-4a6fc785f2cf</id>
+			<name>Spinrad Frisbee Shield (Thrown, Lethal)</name>
+			<category>Exotic Melee Weapons</category>
+			<type>Ranged</type>
+			<conceal>+8</conceal>
+			<accuracy>Physical-1</accuracy>
+			<reach>0</reach>
+			<damage>({STR}+2)P</damage>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>14R</avail>
+			<cost>0</cost>
+			<source>NA</source>
+			<page>38</page>
+			<hide />
+			<range>Thrown Knife</range>
+			<useskill>Throwing Weapons</useskill>
+		</weapon>
+		<weapon>
+			<id>343e7287-a7f0-48f5-8fdf-4a6fc785f2d0</id>
+			<name>Spinrad Frisbee Shield (Thrown, Non-Lethal)</name>
+			<category>Exotic Melee Weapons</category>
+			<type>Ranged</type>
+			<conceal>+8</conceal>
+			<accuracy>Physical-1</accuracy>
+			<reach>0</reach>
+			<damage>({STR})S</damage>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>14R</avail>
+			<cost>0</cost>
+			<source>NA</source>
+			<page>38</page>
+			<hide />
+			<range>Thrown Knife</range>
+			<useskill>Throwing Weapons</useskill>
+		</weapon>
+		<weapon>
 			<id>48b36c7f-fd3f-4d38-8b27-f4157807628c</id>
 			<name>Spinrad Tacticool Combat Skateboard</name>
 			<category>Exotic Melee Weapons</category>
@@ -245,6 +284,7 @@
 			<useskill>Atypical Melee</useskill>
 			<hide />
 		</weapon>
+		<!-- Begin section: NA ranged weapons -->
 		<weapon>
 			<id>df19a07f-cc04-44b6-b9b2-6d4fe73062e5</id>
 			<name>Ares Avenger Microgun</name>
@@ -427,6 +467,35 @@
 			<useskill>Longarms</useskill>
 			<notes>Ammo must be manually purchased through the gear tab (search for Airsoft Pellets). Firing capsule rounds and automatically depleting gas canisters are not currently supported in chummer.</notes>
 		</weapon>
+    <weapon>
+      <id>6fb39402-3ae3-4a21-9ed1-50b2c2e1b2d2</id>
+      <name>FN Five-Seven Perforator</name>
+      <category>Heavy Pistols</category>
+      <type>Ranged</type>
+      <conceal>0</conceal>
+      <accuracy>5</accuracy>
+      <reach>0</reach>
+      <damage>7P</damage>
+      <ap>-6</ap>
+      <mode>SA</mode>
+      <rc>2</rc>
+      <ammo>20(c)</ammo>
+      <avail>12R</avail>
+      <cost>950</cost>
+      <source>NA</source>
+      <page>0</page>
+      <accessories>
+        <accessory>
+          <name>Smartgun System, Internal</name>
+        </accessory>
+      </accessories>
+      <accessorymounts>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Internal</mount>
+      </accessorymounts>
+      <spec>Semi-Automatics</spec>
+    </weapon>
 		<weapon>
 			<id>31269939-24bb-405a-aa5e-a1b77458a1e0</id>
 			<name>HK Double Defender</name>
@@ -461,6 +530,34 @@
 				<mount>Under</mount>
 			</accessorymounts>
 			<alternaterange>Shotguns (flechette)</alternaterange>
+		</weapon>
+		<weapon>
+			<id>e92ec20c-196b-40c2-a49b-b818feba7e60</id>
+			<name>HK MP5 SSD</name>
+			<category>Submachine Guns</category>
+			<type>Ranged</type>
+			<conceal>+2</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>-</ap>
+			<mode>SA/BF/FA</mode>
+			<rc>0</rc>
+			<ammo>30(c)</ammo>
+			<avail>10F</avail>
+			<cost>1700</cost>
+			<source>NA</source>
+			<page>0</page>
+			<accessories>
+				<accessory>
+					<name>Improved Suppressor</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Internal</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
 		</weapon>
 		<weapon>
 			<id>3a7a90ce-fbb5-4599-a857-b9849eb9769d</id>
@@ -756,6 +853,195 @@
 			<range>Heavy Pistols</range>
 			<useskill>Pistols</useskill>
 		</weapon>
+		<!-- Begin section: NA misc weapons -->
+		<weapon>
+			<id>5de40804-6e54-49a7-a3a6-514a424dc2a8</id>
+			<name>Grenade: Grey Mana</name>
+			<category>Gear</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>Physical</accuracy>
+			<reach>0</reach>
+			<damage>(10m Radius)</damage>
+			<ap>-</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>7F</avail>
+			<cost>300</cost>
+			<source>NA</source>
+			<page>35</page>
+			<range>Standard Grenade</range>
+			<spec>Non-Aerodynamic</spec>
+			<useskill>Throwing Weapons</useskill>
+		</weapon>
+		<weapon>
+			<id>bd915fa4-6569-4325-a0c6-d9ca3594918c</id>
+			<name>Grenade: Grey Mana, Aerodynamic</name>
+			<category>Gear</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>Physical</accuracy>
+			<reach>0</reach>
+			<damage>(10m Radius)</damage>
+			<ap>-</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>7F</avail>
+			<cost>300</cost>
+			<source>NA</source>
+			<page>35</page>
+			<range>Aerodynamic Grenade</range>
+			<spec>Aerodynamic</spec>
+			<useskill>Throwing Weapons</useskill>
+		</weapon>
+		<weapon>
+			<id>5bfc3149-428c-46a5-9971-8a06ef4caa85</id>
+			<name>Minigrenade: Grey Mana</name>
+			<category>Gear</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>0</accuracy>
+			<reach>0</reach>
+			<damage>(10m Radius)</damage>
+			<ap>-</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>7F</avail>
+			<cost>300</cost>
+			<source>NA</source>
+			<page>35</page>
+			<range>Grenade Launchers</range>
+			<spec>Grenade Launcher</spec>
+			<useskill>Heavy Weapons</useskill>
+		</weapon>
+		<weapon>
+			<id>1f0cd121-473a-4127-dead-cde5ebdead01</id>
+			<name>Mortar Shell: Fireworks</name>
+			<category>Gear</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>0</accuracy>
+			<reach>0</reach>
+			<damage>8P (10m Radius)</damage>
+			<ap>-</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>7F</avail>
+			<cost>300</cost>
+			<source>NA</source>
+			<page>0</page>
+			<range>Grenade Launchers</range>
+			<spec>Grenade Launcher</spec>
+			<useskill>Heavy Weapons</useskill>
+		</weapon>
+		<weapon>
+			<id>1f0cd121-473a-4127-dead-cde5ebdead02</id>
+			<name>Mortar Shell: Fragmentation</name>
+			<category>Gear</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>0</accuracy>
+			<reach>0</reach>
+			<damage>21P(f) (-1/m)</damage>
+			<ap>+5</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>15F</avail>
+			<cost>500</cost>
+			<source>NA</source>
+			<page>0</page>
+			<range>Grenade Launchers</range>
+			<spec>Grenade Launcher</spec>
+			<useskill>Heavy Weapons</useskill>
+		</weapon>
+		<weapon>
+			<id>1f0cd121-473a-4127-dead-cde5ebdead03</id>
+			<name>Mortar Shell: Gas</name>
+			<category>Gear</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>Physical</accuracy>
+			<reach>0</reach>
+			<damage>Chemical (10m Radius)</damage>
+			<ap>-</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>4R</avail>
+			<cost>40</cost>
+			<source>NA</source>
+			<page>0</page>
+			<range>Grenade Launchers</range>
+			<spec>Grenade Launcher</spec>
+			<useskill>Heavy Weapons</useskill>
+		</weapon>
+		<weapon>
+			<id>1f0cd121-473a-4127-dead-cde5ebdead04</id>
+			<name>Mortar Shell: High Explosive</name>
+			<category>Gear</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>Physical</accuracy>
+			<reach>0</reach>
+			<damage>19P (-2/m)</damage>
+			<ap>-2</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>15F</avail>
+			<cost>500</cost>
+			<source>NA</source>
+			<page>0</page>
+			<range>Grenade Launchers</range>
+			<spec>Grenade Launcher</spec>
+			<useskill>Heavy Weapons</useskill>
+		</weapon>
+		<weapon>
+			<id>1f0cd121-473a-4127-dead-cde5ebdead05</id>
+			<name>Mortar Shell: Illumination</name>
+			<category>Gear</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>Physical</accuracy>
+			<reach>0</reach>
+			<damage>(500m Radius)</damage>
+			<ap>-</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>12R</avail>
+			<cost>600</cost>
+			<source>NA</source>
+			<page>0</page>
+			<range>Grenade Launchers</range>
+			<spec>Grenade Launcher</spec>
+			<useskill>Heavy Weapons</useskill>
+		</weapon>
+		<weapon>
+			<id>1f0cd121-473a-4127-dead-cde5ebdead06</id>
+			<name>Mortar Shell: Smoke</name>
+			<category>Gear</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>Physical</accuracy>
+			<reach>0</reach>
+			<damage>(20m Radius)</damage>
+			<ap>-</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>12R</avail>
+			<source>NA</source>
+			<page>0</page>
+			<range>Grenade Launchers</range>
+			<spec>Grenade Launcher</spec>
+			<useskill>Heavy Weapons</useskill>
+		</weapon>
 		<weapon>
 			<id>38d8c44f-e4ca-4e92-989f-35c073e94009</id>
 			<name>Electrokinesis (Melee)</name>
@@ -821,69 +1107,6 @@
 			<allowaccessory>False</allowaccessory>
 			<hide />
 			<useskill>Unarmed Combat</useskill>
-		</weapon>
-		<weapon>
-			<id>5de40804-6e54-49a7-a3a6-514a424dc2a8</id>
-			<name>Grenade: Grey Mana</name>
-			<category>Gear</category>
-			<type>Ranged</type>
-			<conceal>0</conceal>
-			<accuracy>Physical</accuracy>
-			<reach>0</reach>
-			<damage>(10m Radius)</damage>
-			<ap>-</ap>
-			<mode>0</mode>
-			<rc>0</rc>
-			<ammo>0</ammo>
-			<avail>7F</avail>
-			<cost>300</cost>
-			<source>NA</source>
-			<page>35</page>
-			<range>Standard Grenade</range>
-			<spec>Non-Aerodynamic</spec>
-			<useskill>Throwing Weapons</useskill>
-		</weapon>
-		<weapon>
-			<id>bd915fa4-6569-4325-a0c6-d9ca3594918c</id>
-			<name>Grenade: Grey Mana, Aerodynamic</name>
-			<category>Gear</category>
-			<type>Ranged</type>
-			<conceal>0</conceal>
-			<accuracy>Physical</accuracy>
-			<reach>0</reach>
-			<damage>(10m Radius)</damage>
-			<ap>-</ap>
-			<mode>0</mode>
-			<rc>0</rc>
-			<ammo>0</ammo>
-			<avail>7F</avail>
-			<cost>300</cost>
-			<source>NA</source>
-			<page>35</page>
-			<range>Aerodynamic Grenade</range>
-			<spec>Aerodynamic</spec>
-			<useskill>Throwing Weapons</useskill>
-		</weapon>
-		<weapon>
-			<id>5bfc3149-428c-46a5-9971-8a06ef4caa85</id>
-			<name>Minigrenade: Grey Mana</name>
-			<category>Gear</category>
-			<type>Ranged</type>
-			<conceal>-2</conceal>
-			<accuracy>0</accuracy>
-			<reach>0</reach>
-			<damage>(10m Radius)</damage>
-			<ap>-</ap>
-			<mode>0</mode>
-			<rc>0</rc>
-			<ammo>0</ammo>
-			<avail>7F</avail>
-			<cost>300</cost>
-			<source>NA</source>
-			<page>35</page>
-			<range>Grenade Launchers</range>
-			<spec>Grenade Launcher</spec>
-			<useskill>Heavy Weapons</useskill>
 		</weapon>
 	</weapons>
 	<accessories>
@@ -989,6 +1212,17 @@
 					</AND>
 				</weapondetails>
 			</required>
+		</accessory>
+		<accessory>
+			<id>3c329adb-7c13-4d2c-b25c-49be89173fc7</id>
+			<name>Improved Suppressor</name>
+			<mount>Barrel</mount>
+			<avail>0</avail>
+			<cost>0</cost>
+			<source>NA</source>
+			<page>0</page>
+			<hide />
+			<rating>0</rating>
 		</accessory>
 	</accessories>
 </chummer>
