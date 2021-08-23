@@ -7,6 +7,7 @@
 <chummer>
 	<categories>
 		<category>Parachutes</category>
+		<category>RCC Modules</category>
 	</categories>
 	<gears>
 		<gear>
@@ -72,6 +73,30 @@
 			<bonus>
 				<selecttext />
 			</bonus>
+		</gear>
+		<gear>
+			<id>19d5d62b-669e-4f99-a8e7-eb0210d3ca94</id>
+			<name>Rerouting Module</name>
+			<category>Cyberdeck Modules</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>65</page>
+			<avail>12F</avail>
+			<armorcapacity>[2]</armorcapacity>
+			<cost>1500</cost>
+			<devicerating>0</devicerating>
+		</gear>
+		<gear>
+			<id>ccebe138-936d-4b23-8d0e-943ffbfa2b49</id>
+			<name>Multiprogram Operating Resonant System</name>
+			<category>Commlink Accessories</category>
+			<rating>6</rating>
+			<source>NA</source>
+			<page>35</page>
+			<avail>(Rating * 3)R</avail>
+			<cost>Rating * 4000</cost>
+			<devicerating>Rating</devicerating>
+			<notes>To attune, you must manually deduct karma.</notes>
 		</gear>
 		<gear>
 			<id>14243f3e-8d05-480d-8e74-b90ee615e700</id>
@@ -162,6 +187,39 @@
 			<cost>2000</cost>
 		</gear>
 		<gear>
+			<id>b8ad45b8-35f7-4c2c-b9cd-29fbeb59b8f5</id>
+			<name>Bastion Module</name>
+			<category>RCC Modules</category>
+			<rating>5</rating>
+			<source>NA</source>
+			<page>0</page>
+			<avail>Rating*2R</avail>
+			<cost>Rating*1500</cost>
+			<devicerating>0</devicerating>
+		</gear>
+		<gear>
+			<id>b8ad45b8-35f7-4c2c-b9cd-29fbeb59b8f6</id>
+			<name>Signal Masking Module</name>
+			<category>RCC Modules</category>
+			<rating>6</rating>
+			<source>NA</source>
+			<page>0</page>
+			<avail>Rating*2R</avail>
+			<cost>Rating*6000</cost>
+			<devicerating>0</devicerating>
+		</gear>
+		<gear>
+			<id>b8ad45b8-35f7-4c2c-b9cd-29fbeb59b8f7</id>
+			<name>Noisemaker Module</name>
+			<category>RCC Modules</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>0</page>
+			<avail>12F</avail>
+			<cost>12000</cost>
+			<devicerating>0</devicerating>
+		</gear>
+		<gear>
 			<id>b8ad45b8-35f7-4c2c-b9cd-29fbeb59b8f1</id>
 			<name>Spirit Lantern</name>
 			<category>Magical Supplies</category>
@@ -170,30 +228,6 @@
 			<page>59</page>
 			<avail>10</avail>
 			<cost>Rating*200</cost>
-		</gear>
-		<gear>
-			<id>19d5d62b-669e-4f99-a8e7-eb0210d3ca94</id>
-			<name>Rerouting Module</name>
-			<category>Cyberdeck Modules</category>
-			<rating>0</rating>
-			<source>NA</source>
-			<page>65</page>
-			<avail>12F</avail>
-			<armorcapacity>[2]</armorcapacity>
-			<cost>1500</cost>
-			<devicerating>0</devicerating>
-		</gear>
-		<gear>
-			<id>ccebe138-936d-4b23-8d0e-943ffbfa2b49</id>
-			<name>Multiprogram Operating Resonant System</name>
-			<category>Commlink Accessories</category>
-			<rating>6</rating>
-			<source>NA</source>
-			<page>35</page>
-			<avail>(Rating * 3)R</avail>
-			<cost>Rating * 4000</cost>
-			<devicerating>Rating</devicerating>
-			<notes>To attune, you must manually deduct karma.</notes>
 		</gear>
 		<gear>
 			<id>c4d82a69-e9e9-4a66-a72d-177ad422e075</id>
@@ -373,6 +407,17 @@
 			<avail>4</avail>
 			<cost>10</cost>
 			<costfor>10</costfor>
+		</gear>
+		<gear>
+			<id>8131538e-30db-4cc2-9cad-48b0c9f99a70</id>
+			<name>MTL Cartridge</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>0</page>
+			<avail>6</avail>
+			<cost>85</cost>
+			<costfor>1</costfor>
 		</gear>
 		<gear>
 			<id>0da738c5-9d66-4246-b770-d2bd4f172835</id>
@@ -595,6 +640,16 @@
 					<name>Hardpoint</name>
 				</parentdetails>
 			</required>
+		</gear>
+		<gear>
+			<id>6cf5b7d6-f809-dead-fae5-64792760b006</id>
+			<name>Nitrous Oxide Fuel</name>
+			<category>Chemicals</category>
+			<rating>0</rating>
+			<source>NA</source>
+			<page>0</page>
+			<avail>6</avail>
+			<cost>200</cost>
 		</gear>
 	</gears>
 </chummer>

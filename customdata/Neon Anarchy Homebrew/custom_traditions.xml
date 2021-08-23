@@ -34,9 +34,6 @@
 					<val>2</val>
 				</spellcategory>
 				<addmetamagic forced="True">Shielding</addmetamagic>
-				<addqualities>
-					<addquality>Mentor Spirit</addquality>
-				</addqualities>
 				<skilldisable>Binding</skilldisable>
 				<limitspellcategory>Detection</limitspellcategory>
 				<limitspellcategory>Health</limitspellcategory>

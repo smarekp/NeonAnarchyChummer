@@ -5,6 +5,9 @@
 	https://www.reddit.com/r/NeonAnarchy
 -->
 <chummer>
+  <categories>
+    <category blackmarket="Weapons" type="glauncher" gunneryspec="Artillery">Mortars</category>
+  </categories>
 	<weapons>
 		<!-- Begin section: NA melee weapons -->
 		<weapon>
@@ -12,7 +15,7 @@
 			<name>Ares Shock and Awe Buckler</name>
 			<category>Exotic Melee Weapons</category>
 			<type>Melee</type>
-			<conceal>+2</conceal>
+			<conceal>2</conceal>
 			<accuracy>4</accuracy>
 			<reach>0</reach>
 			<damage>8S(e)</damage>
@@ -32,7 +35,7 @@
 			<name>Hook Sword</name>
 			<category>Blades</category>
 			<type>Melee</type>
-			<conceal>+2</conceal>
+			<conceal>2</conceal>
 			<accuracy>6</accuracy>
 			<reach>0</reach>
 			<damage>({STR}+2)P</damage>
@@ -51,7 +54,7 @@
 			<name>Krime King Hit</name>
 			<category>Unarmed</category>
 			<type>Melee</type>
-			<conceal>+2</conceal>
+			<conceal>2</conceal>
 			<accuracy>Physical</accuracy>
 			<reach>0</reach>
 			<damage>({STR}+1)P</damage>
@@ -64,6 +67,7 @@
 			<source>NA</source>
 			<page>0</page>
 			<useskill>Unarmed Combat</useskill>
+			<addweapon>Krime King Hit Shotgun</addweapon>
 		</weapon>
 		<weapon>
 			<id>e92ec20c-196b-40c2-a49b-b818feba7e62</id>
@@ -83,13 +87,14 @@
 			<source>NA</source>
 			<page>0</page>
 			<useskill>Unarmed Combat</useskill>
+			<hide />
 		</weapon>
 		<weapon>
 			<id>5189de31-2477-4d1f-85eb-61addf287047</id>
 			<name>Krime Porcupine Shield</name>
 			<category>Exotic Melee Weapons</category>
 			<type>Melee</type>
-			<conceal>+8</conceal>
+			<conceal>8</conceal>
 			<accuracy>4</accuracy>
 			<reach>0</reach>
 			<damage>({STR}+1)P</damage>
@@ -109,7 +114,7 @@
 			<name>Kusarigama</name>
 			<category>Blades</category>
 			<type>Melee</type>
-			<conceal>+2</conceal>
+			<conceal>2</conceal>
 			<accuracy>6</accuracy>
 			<reach>0</reach>
 			<damage>({STR}+2)P</damage>
@@ -128,7 +133,7 @@
 			<name>Kusarigama Weighted Chain</name>
 			<category>Exotic Melee Weapons</category>
 			<type>Melee</type>
-			<conceal>+2</conceal>
+			<conceal>2</conceal>
 			<accuracy>6</accuracy>
 			<reach>1</reach>
 			<damage>({STR}+2)P</damage>
@@ -148,7 +153,7 @@
 			<name>Renraku Raijin Lightning Sword</name>
 			<category>Blades</category>
 			<type>Melee</type>
-			<conceal>+2</conceal>
+			<conceal>2</conceal>
 			<accuracy>7</accuracy>
 			<reach>1</reach>
 			<damage>({STR}+2)P</damage>
@@ -169,7 +174,7 @@
 			<name>Renraku Raijin Lightning Sword Lightning Mode</name>
 			<category>Blades</category>
 			<type>Melee</type>
-			<conceal>+2</conceal>
+			<conceal>2</conceal>
 			<accuracy>7</accuracy>
 			<reach>1</reach>
 			<damage>10P(e)</damage>
@@ -189,7 +194,7 @@
 			<name>Spinrad Frisbee Shield (Melee)</name>
 			<category>Exotic Melee Weapons</category>
 			<type>Melee</type>
-			<conceal>+8</conceal>
+			<conceal>8</conceal>
 			<accuracy>4</accuracy>
 			<reach>0</reach>
 			<damage>({STR}+1)P</damage>
@@ -209,7 +214,7 @@
 			<name>Spinrad Frisbee Shield (Thrown, Lethal)</name>
 			<category>Exotic Melee Weapons</category>
 			<type>Ranged</type>
-			<conceal>+8</conceal>
+			<conceal>8</conceal>
 			<accuracy>Physical-1</accuracy>
 			<reach>0</reach>
 			<damage>({STR}+2)P</damage>
@@ -229,7 +234,7 @@
 			<name>Spinrad Frisbee Shield (Thrown, Non-Lethal)</name>
 			<category>Exotic Melee Weapons</category>
 			<type>Ranged</type>
-			<conceal>+8</conceal>
+			<conceal>8</conceal>
 			<accuracy>Physical-1</accuracy>
 			<reach>0</reach>
 			<damage>({STR})S</damage>
@@ -269,7 +274,7 @@
 			<name>Spinrad Tacticool Combat Skateboard Combat Mode</name>
 			<category>Exotic Melee Weapons</category>
 			<type>Melee</type>
-			<conceal>+3</conceal>
+			<conceal>3</conceal>
 			<accuracy>4</accuracy>
 			<reach>0</reach>
 			<damage>({STR}+3)P</damage>
@@ -351,7 +356,7 @@
 			<name>Ares Edison Tesla Cannon</name>
 			<category>Exotic Ranged Weapons</category>
 			<type>Ranged</type>
-			<conceal>+10</conceal>
+			<conceal>10</conceal>
 			<accuracy>5</accuracy>
 			<reach>0</reach>
 			<damage>14P(e)</damage>
@@ -382,7 +387,7 @@
 			<name>EVO Flea Pneumatic Pistol</name>
 			<category>Exotic Ranged Weapons</category>
 			<type>Ranged</type>
-			<conceal>+0</conceal>
+			<conceal>0</conceal>
 			<accuracy>7</accuracy>
 			<reach>0</reach>
 			<damage>5P</damage>
@@ -411,7 +416,7 @@
 			<name>EVO Bee Pneumatic SMG</name>
 			<category>Exotic Ranged Weapons</category>
 			<type>Ranged</type>
-			<conceal>+2</conceal>
+			<conceal>2</conceal>
 			<accuracy>6</accuracy>
 			<reach>0</reach>
 			<damage>5P</damage>
@@ -441,7 +446,7 @@
 			<name>EVO Hornet Sporting Rifle</name>
 			<category>Exotic Ranged Weapons</category>
 			<type>Ranged</type>
-			<conceal>+0</conceal>
+			<conceal>0</conceal>
 			<accuracy>8</accuracy>
 			<reach>0</reach>
 			<damage>9P</damage>
@@ -467,41 +472,41 @@
 			<useskill>Longarms</useskill>
 			<notes>Ammo must be manually purchased through the gear tab (search for Airsoft Pellets). Firing capsule rounds and automatically depleting gas canisters are not currently supported in chummer.</notes>
 		</weapon>
-    <weapon>
-      <id>6fb39402-3ae3-4a21-9ed1-50b2c2e1b2d2</id>
-      <name>FN Five-Seven Perforator</name>
-      <category>Heavy Pistols</category>
-      <type>Ranged</type>
-      <conceal>0</conceal>
-      <accuracy>5</accuracy>
-      <reach>0</reach>
-      <damage>7P</damage>
-      <ap>-6</ap>
-      <mode>SA</mode>
-      <rc>2</rc>
-      <ammo>20(c)</ammo>
-      <avail>12R</avail>
-      <cost>950</cost>
-      <source>NA</source>
-      <page>0</page>
-      <accessories>
-        <accessory>
-          <name>Smartgun System, Internal</name>
-        </accessory>
-      </accessories>
-      <accessorymounts>
-        <mount>Barrel</mount>
-        <mount>Top</mount>
-        <mount>Internal</mount>
-      </accessorymounts>
-      <spec>Semi-Automatics</spec>
-    </weapon>
+		<weapon>
+			<id>6fb39402-3ae3-4a21-9ed1-50b2c2e1b2d2</id>
+			<name>FN Five-Seven Perforator</name>
+			<category>Heavy Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>-6</ap>
+			<mode>SA</mode>
+			<rc>2</rc>
+			<ammo>20(c)</ammo>
+			<avail>12R</avail>
+			<cost>950</cost>
+			<source>NA</source>
+			<page>0</page>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Internal</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
 		<weapon>
 			<id>31269939-24bb-405a-aa5e-a1b77458a1e0</id>
 			<name>HK Double Defender</name>
 			<category>Shotguns</category>
 			<type>Ranged</type>
-			<conceal>+6</conceal>
+			<conceal>6</conceal>
 			<accuracy>5</accuracy>
 			<reach>0</reach>
 			<damage>12P</damage>
@@ -536,7 +541,7 @@
 			<name>HK MP5 SSD</name>
 			<category>Submachine Guns</category>
 			<type>Ranged</type>
-			<conceal>+2</conceal>
+			<conceal>2</conceal>
 			<accuracy>5</accuracy>
 			<reach>0</reach>
 			<damage>7P</damage>
@@ -590,7 +595,7 @@
 			<name>Krime Face Melter</name>
 			<category>Exotic Ranged Weapons</category>
 			<type>Ranged</type>
-			<conceal>+6</conceal>
+			<conceal>6</conceal>
 			<accuracy>6</accuracy>
 			<reach>0</reach>
 			<damage>9P(a)</damage>
@@ -753,12 +758,112 @@
 			</accessorymounts>
 			<spec>Machine Guns</spec>
 		</weapon>
+				
+		<weapon>
+			<id>b9508caa-f36e-4c49-83d7-3bfa09c92a12</id>
+			<name>Renegade Words Hand Cannon</name>
+			<category>Assault Cannons</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>14P</damage>
+			<ap>-4</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>1(b)</ammo>
+			<avail>12F</avail>
+			<cost>5000</cost>
+			<source>NA</source>
+			<page>0</page>
+			<accessories>
+				<accessory>
+					<name>Melee Hardening</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Top</mount>
+			</accessorymounts>
+			<underbarrels>
+				<underbarrel>Renegade Words Hand Cannon Grenade Launcher</underbarrel>
+			</underbarrels>
+			<range>Submachine Guns</range>
+			<useskill>Heavy Weapons</useskill>
+		</weapon>
+		<weapon>
+			<id>14a0a667-5ee8-429c-8dab-c9a526cded90</id>
+			<name>Renegade Words Hand Cannon Grenade Launcher</name>
+			<category>Underbarrel Weapons</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>3</accuracy>
+			<reach>0</reach>
+			<damage>Grenade</damage>
+			<ap>Grenade</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>3(m)</ammo>
+			<avail>0</avail>
+			<cost>0</cost>
+			<source>NA</source>
+			<page>0</page>
+			<accessorymounts>
+				<mount>Top</mount>
+			</accessorymounts>
+			<ammocategory>Grenade Launchers</ammocategory>
+			<hide />
+			<range>Grenade Launchers</range>
+			<useskill>Heavy Weapons</useskill>
+			<weapontype>glauncher</weapontype>
+		</weapon>
+		<weapon>
+			<id>f096953c-1418-4dd3-887b-71c6a4436587</id>
+			<name>Shock Bola</name>
+			<category>Exotic Ranged Weapons</category>
+			<type>Ranged</type>
+			<conceal>4</conceal>
+			<accuracy>Physical-1</accuracy>
+			<reach>0</reach>
+			<damage>({STR}+3)P</damage>
+			<ap>+4</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>6R</avail>
+			<cost>750</cost>
+			<source>NA</source>
+			<page>0</page>
+			<range>Shuriken</range>
+			<useskill>Throwing Weapons</useskill>
+			<addweapon>Shock Bola (Charged)</addweapon>
+		</weapon>
+		<weapon>
+			<id>f096953c-1418-4dd3-887b-71c6a4436588</id>
+			<name>Shock Bola (Charged)</name>
+			<category>Exotic Ranged Weapons</category>
+			<type>Ranged</type>
+			<conceal>4</conceal>
+			<accuracy>Physical-1</accuracy>
+			<reach>0</reach>
+			<damage>9S(e)</damage>
+			<ap>-5</ap>
+			<mode>0</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>6R</avail>
+			<cost>0</cost>
+			<source>NA</source>
+			<page>0</page>
+			<range>Shuriken</range>
+			<useskill>Throwing Weapons</useskill>
+			<hide />
+		</weapon>
 		<weapon>
 			<id>f096953c-1418-4dd3-887b-71c6a4436584</id>
 			<name>Spinrad Industries Shock Ball</name>
-			<category>Gear</category>
+			<category>Exotic Ranged Weapons</category>
 			<type>Ranged</type>
-			<conceal>+4</conceal>
+			<conceal>4</conceal>
 			<accuracy>Physical-1</accuracy>
 			<reach>0</reach>
 			<damage>9S(e)</damage>
@@ -777,9 +882,9 @@
 		<weapon>
 			<id>f096953c-1418-4dd3-887b-71c6a4436585</id>
 			<name>Spinrad Industries Shock Ball (Kinetic)</name>
-			<category>Gear</category>
+			<category>Exotic Ranged Weapons</category>
 			<type>Ranged</type>
-			<conceal>+4</conceal>
+			<conceal>4</conceal>
 			<accuracy>Physical-1</accuracy>
 			<reach>0</reach>
 			<damage>({STR})S</damage>
@@ -852,6 +957,32 @@
 			<hide />
 			<range>Heavy Pistols</range>
 			<useskill>Pistols</useskill>
+		</weapon>
+		<weapon>
+			<id>e22ca3d2-5e12-466c-9d63-78a9133e040a</id>
+			<name>Wraptech Micro Tether Launcher</name>
+			<category>Exotic Ranged Weapons</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>-</damage>
+			<ap>-</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>1(c)</ammo>
+			<avail>12</avail>
+			<cost>850</cost>
+			<source>NA</source>
+			<page>0</page>
+			<ammoname>MTL Cartridge</ammoname>
+			<notes>Ammo must be manually purchased through the gear tab (search for MTL Cartridge).</notes>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+			</accessories>
+			<range>Tasers</range>
 		</weapon>
 		<!-- Begin section: NA misc weapons -->
 		<weapon>
@@ -1130,7 +1261,7 @@
 			<name>Krime Power Draw (Rating 1)</name>
 			<mount />
 			<damage>1</damage>
-			<conceal>+1</conceal>
+			<conceal>1</conceal>
 			<avail>+2R</avail>
 			<cost>1000</cost>
 			<source>NA</source>
@@ -1147,7 +1278,7 @@
 			<name>Krime Power Draw (Rating 2)</name>
 			<mount />
 			<damage>2</damage>
-			<conceal>+2</conceal>
+			<conceal>2</conceal>
 			<avail>+2R</avail>
 			<cost>2000</cost>
 			<source>NA</source>

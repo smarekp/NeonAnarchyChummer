@@ -742,11 +742,30 @@
 			<bonus />
 			<forbidden>
 				<oneof>
-					<quality>Jack of All Trades Master of None</quality>
 					<magenabled />
 					<resenabled />
 				</oneof>
 			</forbidden>
+			<source>NA</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>0614608e-8349-4244-b527-8b6d4b955245</id>
+			<name>Spark</name>
+			<karma>1</karma>
+			<category>Positive</category>
+			<bonus />
+			<forbidden>
+				<oneof>
+					<magenabled />
+					<resenabled />
+				</oneof>
+			</forbidden>
+			<required>
+				<allof>
+					<ess>4.0001</ess>
+				</allof>
+			</required>
 			<source>NA</source>
 			<page>0</page>
 		</quality>
