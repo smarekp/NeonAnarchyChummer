@@ -14,5 +14,21 @@
 			<long>-1</long>
 			<extreme>-1</extreme>
 		</range>
+		<range>
+			<name>Light Mortars</name>
+			<min>30</min>
+			<short>1500</short>
+			<medium>-1</medium>
+			<long>-1</long>
+			<extreme>-1</extreme>
+		</range>
+		<range>
+			<name>Heavy Mortars</name>
+			<min>60</min>
+			<short>3000</short>
+			<medium>-1</medium>
+			<long>-1</long>
+			<extreme>-1</extreme>
+		</range>
 	</ranges>
 </chummer>

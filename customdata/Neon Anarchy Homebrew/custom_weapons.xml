@@ -6,7 +6,7 @@
 -->
 <chummer>
   <categories>
-    <category blackmarket="Weapons" type="glauncher" gunneryspec="Artillery">Mortars</category>
+    <category blackmarket="Weapons" gunneryspec="Artillery">Mortars</category>
   </categories>
 	<weapons>
 		<!-- Begin section: NA melee weapons -->
@@ -758,7 +758,67 @@
 			</accessorymounts>
 			<spec>Machine Guns</spec>
 		</weapon>
-				
+		<weapon>
+			<id>8a63b49c-16cc-415e-9c93-029c2cac9cff</id>
+			<name>Ares Freedom Tube</name>
+			<category>Mortars</category>
+			<type>Ranged</type>
+			<conceal>9</conceal>
+			<accuracy>1</accuracy>
+			<reach>0</reach>
+			<damage>8P</damage>
+			<ap>0</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>1(ml)</ammo>
+			<avail>8R</avail>
+			<cost>2000</cost>
+			<source>NA</source>
+			<page>0</page>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+			</accessories>
+			<range>Light Mortars</range>
+			<useskill>Heavy Weapons</useskill>
+			<weapontype>mortar</weapontype>
+		</weapon>
+		<weapon>
+			<id>b8a057ae-c481-4c19-9146-3e7c3230bd62</id>
+			<name>Ares M224 Smart Mortar</name>
+			<category>Mortars</category>
+			<type>Ranged</type>
+			<conceal>9</conceal>
+			<accuracy>3</accuracy>
+			<reach>0</reach>
+			<damage>Mortar Shell</damage>
+			<ap>Mortar Shell</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>1(ml)</ammo>
+			<avail>14F</avail>
+			<cost>10000</cost>
+			<source>NA</source>
+			<page>0</page>
+			<accessories>
+				<accessory>
+					<name>Airburst Link</name>
+				</accessory>
+				<accessory>
+					<name>Smart Firing Platform</name>
+				</accessory>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+				<accessory>
+					<name>Tripod</name>
+				</accessory>
+			</accessories>
+			<range>Heavy Mortars</range>
+			<useskill>Heavy Weapons</useskill>
+			<weapontype>mortar</weapontype>
+		</weapon>
 		<weapon>
 			<id>b9508caa-f36e-4c49-83d7-3bfa09c92a12</id>
 			<name>Renegade Words Hand Cannon</name>

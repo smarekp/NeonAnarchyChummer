@@ -484,6 +484,7 @@
 			<addweapon>Mortar Shell: Fireworks</addweapon>
 			<cost>10</cost>
 			<costfor>1</costfor>
+			<ammoforweapontype>mortar</ammoforweapontype>
 		</gear>
 		<gear>
 			<id>1f0cd121-473a-4477-beef-cde5ebdead02</id>
@@ -496,6 +497,7 @@
 			<addweapon>Mortar Shell: Fragmentation</addweapon>
 			<cost>500</cost>
 			<costfor>1</costfor>
+			<ammoforweapontype>mortar</ammoforweapontype>
 		</gear>
 		<gear>
 			<id>1f0cd121-473a-4477-beef-cde5ebdead03</id>
@@ -508,6 +510,7 @@
 			<addweapon>Mortar Shell: Gas</addweapon>
 			<cost>300</cost>
 			<costfor>1</costfor>
+			<ammoforweapontype>mortar</ammoforweapontype>
 		</gear>
 		<gear>
 			<id>1f0cd121-473a-4477-beef-cde5ebdead04</id>
@@ -520,6 +523,7 @@
 			<addweapon>Mortar Shell: High Explosive</addweapon>
 			<cost>500</cost>
 			<costfor>1</costfor>
+			<ammoforweapontype>mortar</ammoforweapontype>
 		</gear>
 		<gear>
 			<id>1f0cd121-473a-4477-b9c6-cde5ebdead05</id>
@@ -532,6 +536,7 @@
 			<addweapon>Mortar Shell: Illumination</addweapon>
 			<cost>600</cost>
 			<costfor>1</costfor>
+			<ammoforweapontype>mortar</ammoforweapontype>
 		</gear>
 		<gear>
 			<id>1f0cd121-473a-4477-beef-cde5ebdead06</id>
@@ -544,6 +549,7 @@
 			<addweapon>Mortar Shell: Smoke</addweapon>
 			<cost>300</cost>
 			<costfor>1</costfor>
+			<ammoforweapontype>mortar</ammoforweapontype>
 		</gear>
 		<gear>
 			<id>1c2f1d6b-a1dd-4d4d-b8df-bbe33bb92b82</id>
