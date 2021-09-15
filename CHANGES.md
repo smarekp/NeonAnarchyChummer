@@ -1,6 +1,6 @@
 # Changelist
 
-Last updated 2021-08-16 at 12:45 UTC.
+Last updated 2021-09-15 at 09:30 UTC.
 
 ## Added
 
@@ -182,6 +182,8 @@ Last updated 2021-08-16 at 12:45 UTC.
 ```No longer restricted to technomancers```
 - Code of Honor: Black Hat  
 ```No longer restricted to technomancers```
+- Consummate Professional
+```Now a 3 karma positive quality```
 - Data Hog  
 ```No longer restricted to technomancers```
 - Hold the Door  
@@ -416,7 +418,6 @@ Last updated 2021-08-16 at 12:45 UTC.
 - Borrowed Time
 - Carrier (HMHVV Strain II)
 - Carrier (HMHVV Strain III)
-- Consummate Professional
 - Dead Emotion
 - Dead SIN
 - Dracoform (Eastern Drake)
